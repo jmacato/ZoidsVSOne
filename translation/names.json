@@ -1,0 +1,3709 @@
+[
+ {
+  "id": "part:無し",
+  "ja": "無し",
+  "en": "None",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x0"
+  ],
+  "kind": "part",
+  "index": 0
+ },
+ {
+  "id": "part:液冷式荷電粒子ビーム砲(遠距離)",
+  "ja": "液冷式荷電粒子ビーム砲(遠距離)",
+  "en": "Liquid-Cooled CP Beam Gun (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x124"
+  ],
+  "kind": "part",
+  "index": 1
+ },
+ {
+  "id": "part:液冷式２連装高速自動ｷｬﾉﾝ砲(中距離)",
+  "ja": "液冷式２連装高速自動ｷｬﾉﾝ砲(中距離)",
+  "en": "Liquid-Cooled Twin Autocannon (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x248"
+  ],
+  "kind": "part",
+  "index": 2
+ },
+ {
+  "id": "part:50ｍｍ対ゾイド２連装ビーム砲(中距離)",
+  "ja": "50ｍｍ対ゾイド２連装ビーム砲(中距離)",
+  "en": "50mm AZ Twin Beam Gun (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x36c"
+  ],
+  "kind": "part",
+  "index": 3
+ },
+ {
+  "id": "part:対ゾイド３連衝撃砲Ｂ",
+  "ja": "対ゾイド３連衝撃砲Ｂ",
+  "en": "AZ Triple Shock Cannon B",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x490"
+  ],
+  "kind": "part",
+  "index": 4
+ },
+ {
+  "id": "part:105mm17連突撃砲",
+  "ja": "105mm17連突撃砲",
+  "en": "105mm 17-Shot Assault Gun",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x5b4"
+  ],
+  "kind": "part",
+  "index": 5
+ },
+ {
+  "id": "part:８連装ミサイルポッドＡ(遠距離)",
+  "ja": "８連装ミサイルポッドＡ(遠距離)",
+  "en": "8-Tube Missile Pod A (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x6d8"
+  ],
+  "kind": "part",
+  "index": 6
+ },
+ {
+  "id": "part:カノンスパーク",
+  "ja": "カノンスパーク",
+  "en": "Cannon Spark",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x7fc"
+  ],
+  "kind": "part",
+  "index": 7
+ },
+ {
+  "id": "part:20ｍｍガトリング砲",
+  "ja": "20ｍｍガトリング砲",
+  "en": "20mm Gatling Gun",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x920"
+  ],
+  "kind": "part",
+  "index": 8
+ },
+ {
+  "id": "part:地対空２連装ミサイル",
+  "ja": "地対空２連装ミサイル",
+  "en": "Twin AA Missiles",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xa44"
+  ],
+  "kind": "part",
+  "index": 9
+ },
+ {
+  "id": "part:AZ185ｍｍビームキャノン",
+  "ja": "AZ185ｍｍビームキャノン",
+  "en": "AZ 185mm Beam Cannon",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xb68"
+  ],
+  "kind": "part",
+  "index": 10
+ },
+ {
+  "id": "part:欠番",
+  "ja": "欠番",
+  "en": "N/A",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xc8c",
+   "etc/n_Parts.dat:0xed4",
+   "etc/n_Parts.dat:0xff8",
+   "etc/n_Parts.dat:0x1364",
+   "etc/n_Parts.dat:0x1488",
+   "etc/n_Parts.dat:0x15ac",
+   "etc/n_Parts.dat:0x17f4",
+   "etc/n_Parts.dat:0x1918",
+   "etc/n_Parts.dat:0x1a3c",
+   "etc/n_Parts.dat:0x1b60",
+   "etc/n_Parts.dat:0x1c84",
+   "etc/n_Parts.dat:0x1da8",
+   "etc/n_Parts.dat:0x235c",
+   "etc/n_Parts.dat:0x2480",
+   "etc/n_Parts.dat:0x25a4",
+   "etc/n_Parts.dat:0x26c8",
+   "etc/n_Parts.dat:0x27ec",
+   "etc/n_Parts.dat:0x2fe8",
+   "etc/n_Parts.dat:0x3354",
+   "etc/n_Parts.dat:0x3d98",
+   "etc/n_Parts.dat:0x3ebc",
+   "etc/n_Parts.dat:0x4104",
+   "etc/n_Parts.dat:0x4228",
+   "etc/n_Parts.dat:0x434c",
+   "etc/n_Parts.dat:0x47dc",
+   "etc/n_Parts.dat:0x5b40",
+   "etc/n_Parts.dat:0x5d88",
+   "etc/n_Parts.dat:0x5eac",
+   "etc/n_Parts.dat:0x5fd0",
+   "etc/n_Parts.dat:0x60f4",
+   "etc/n_Parts.dat:0x6218",
+   "etc/n_Parts.dat:0x633c",
+   "etc/n_Parts.dat:0x66a8",
+   "etc/n_Parts.dat:0x6a14",
+   "etc/n_Parts.dat:0x6b38",
+   "etc/n_Parts.dat:0x6c5c",
+   "etc/n_Parts.dat:0x6d80",
+   "etc/n_Parts.dat:0x70ec",
+   "etc/n_Parts.dat:0x7210",
+   "etc/n_Parts.dat:0x7334",
+   "etc/n_Parts.dat:0x7458",
+   "etc/n_Parts.dat:0x757c",
+   "etc/n_Parts.dat:0x77c4",
+   "etc/n_Parts.dat:0x7b30",
+   "etc/n_Parts.dat:0x7fc0",
+   "etc/n_Parts.dat:0x8698",
+   "etc/n_Parts.dat:0x88e0",
+   "etc/n_Parts.dat:0x8a04",
+   "etc/n_Parts.dat:0x8d70",
+   "etc/n_Parts.dat:0x8e94",
+   "etc/n_Parts.dat:0x90dc",
+   "etc/n_Parts.dat:0x9200",
+   "etc/n_Parts.dat:0x9324",
+   "etc/n_Parts.dat:0x9690",
+   "etc/n_Parts.dat:0x98d8",
+   "etc/n_Parts.dat:0x99fc",
+   "etc/n_Parts.dat:0x9b20",
+   "etc/n_Parts.dat:0x9c44",
+   "etc/n_Parts.dat:0xa1f8",
+   "etc/n_Parts.dat:0xa31c",
+   "etc/n_Parts.dat:0xa440",
+   "etc/n_Parts.dat:0xa7ac",
+   "etc/n_Parts.dat:0xa8d0",
+   "etc/n_Parts.dat:0xa9f4",
+   "etc/n_Parts.dat:0xac3c",
+   "etc/n_Parts.dat:0xae84",
+   "etc/n_Parts.dat:0xb1f0",
+   "etc/n_Parts.dat:0xb680",
+   "etc/n_Parts.dat:0xb7a4",
+   "etc/n_Parts.dat:0xb9ec",
+   "etc/n_Parts.dat:0xbb10",
+   "etc/n_Parts.dat:0xbc34",
+   "etc/n_Parts.dat:0xbd58",
+   "etc/n_Parts.dat:0xbfa0",
+   "etc/n_Parts.dat:0xc1e8",
+   "etc/n_Parts.dat:0xc554",
+   "etc/n_Parts.dat:0xc9e4",
+   "etc/n_Parts.dat:0xcb08",
+   "etc/n_Parts.dat:0xcc2c",
+   "etc/n_Parts.dat:0xd0bc",
+   "etc/n_Parts.dat:0xd794",
+   "etc/n_Parts.dat:0xd8b8",
+   "etc/n_Parts.dat:0xdb00",
+   "etc/n_Parts.dat:0xdc24",
+   "etc/n_Parts.dat:0xdd48",
+   "etc/n_Parts.dat:0xde6c",
+   "etc/n_Parts.dat:0xdf90",
+   "etc/n_Parts.dat:0xe0b4",
+   "etc/n_Parts.dat:0xe1d8",
+   "etc/n_Parts.dat:0xe2fc",
+   "etc/n_Parts.dat:0xe78c",
+   "etc/n_Parts.dat:0xe8b0",
+   "etc/n_Parts.dat:0xe9d4",
+   "etc/n_Parts.dat:0xec1c",
+   "etc/n_Parts.dat:0xed40",
+   "etc/n_Parts.dat:0xee64",
+   "etc/n_Parts.dat:0xef88",
+   "etc/n_Parts.dat:0xf0ac",
+   "etc/n_Parts.dat:0xf1d0",
+   "etc/n_Parts.dat:0xf2f4",
+   "etc/n_Parts.dat:0xf418",
+   "etc/n_Parts.dat:0xf53c",
+   "etc/n_Parts.dat:0xf660",
+   "etc/n_Parts.dat:0xf784",
+   "etc/n_Parts.dat:0xf8a8",
+   "etc/n_Parts.dat:0xf9cc",
+   "etc/n_Parts.dat:0xfaf0",
+   "etc/n_Parts.dat:0xfc14",
+   "etc/n_Parts.dat:0xfd38",
+   "etc/n_Parts.dat:0xfe5c",
+   "etc/n_Parts.dat:0xff80",
+   "etc/n_Parts.dat:0x100a4",
+   "etc/n_Parts.dat:0x101c8",
+   "etc/n_Parts.dat:0x102ec",
+   "etc/n_Parts.dat:0x10410",
+   "etc/n_Parts.dat:0x10534",
+   "etc/n_Parts.dat:0x10658",
+   "etc/n_Parts.dat:0x1077c",
+   "etc/n_Parts.dat:0x108a0",
+   "etc/n_Parts.dat:0x109c4",
+   "etc/n_Parts.dat:0x10ae8",
+   "etc/n_Parts.dat:0x10c0c",
+   "etc/n_Parts.dat:0x10d30",
+   "etc/n_Parts.dat:0x10e54",
+   "etc/n_Parts.dat:0x10f78",
+   "etc/n_Parts.dat:0x1109c",
+   "etc/n_Parts.dat:0x111c0",
+   "etc/n_Parts.dat:0x112e4",
+   "etc/n_Parts.dat:0x11408",
+   "etc/n_Parts.dat:0x1152c",
+   "etc/n_Parts.dat:0x11650",
+   "etc/n_Parts.dat:0x11d28",
+   "etc/n_Parts.dat:0x11e4c",
+   "etc/n_Parts.dat:0x11f70",
+   "etc/n_Parts.dat:0x12094",
+   "etc/n_Parts.dat:0x12524",
+   "etc/n_Parts.dat:0x12890",
+   "etc/n_Parts.dat:0x129b4",
+   "etc/n_Parts.dat:0x12ad8",
+   "etc/n_Parts.dat:0x12d20",
+   "etc/n_Parts.dat:0x12e44",
+   "etc/n_Parts.dat:0x12f68",
+   "etc/n_Parts.dat:0x1308c",
+   "etc/n_Parts.dat:0x131b0",
+   "etc/n_Parts.dat:0x132d4",
+   "etc/n_Parts.dat:0x133f8",
+   "etc/n_Parts.dat:0x1351c",
+   "etc/n_Parts.dat:0x13640",
+   "etc/n_Parts.dat:0x13764",
+   "etc/n_Parts.dat:0x139ac",
+   "etc/n_Parts.dat:0x13d18",
+   "etc/n_Parts.dat:0x13e3c",
+   "etc/n_Parts.dat:0x13f60",
+   "etc/n_Parts.dat:0x14084",
+   "etc/n_Parts.dat:0x141a8",
+   "etc/n_Parts.dat:0x142cc",
+   "etc/n_Parts.dat:0x143f0",
+   "etc/n_Parts.dat:0x14514",
+   "etc/n_Parts.dat:0x14638",
+   "etc/n_Parts.dat:0x1475c",
+   "etc/n_Parts.dat:0x14880",
+   "etc/n_Parts.dat:0x149a4",
+   "etc/n_Parts.dat:0x14ac8",
+   "etc/n_Parts.dat:0x14bec",
+   "etc/n_Parts.dat:0x14d10",
+   "etc/n_Parts.dat:0x14f58",
+   "etc/n_Parts.dat:0x1507c",
+   "etc/n_Parts.dat:0x151a0",
+   "etc/n_Parts.dat:0x152c4",
+   "etc/n_Parts.dat:0x15878",
+   "etc/n_Parts.dat:0x15d08",
+   "etc/n_Parts.dat:0x163e0",
+   "etc/n_Parts.dat:0x16504",
+   "etc/n_Parts.dat:0x16628",
+   "etc/n_Parts.dat:0x1674c",
+   "etc/n_Parts.dat:0x16870",
+   "etc/n_Parts.dat:0x16994",
+   "etc/n_Parts.dat:0x16ab8",
+   "etc/n_Parts.dat:0x16bdc",
+   "etc/n_Parts.dat:0x16d00",
+   "etc/n_Parts.dat:0x16e24",
+   "etc/n_Parts.dat:0x16f48",
+   "etc/n_Parts.dat:0x17190",
+   "etc/n_Parts.dat:0x17744",
+   "etc/n_Parts.dat:0x17ab0",
+   "etc/n_Parts.dat:0x18064",
+   "etc/n_Parts.dat:0x18860",
+   "etc/n_Parts.dat:0x18cf0",
+   "etc/n_Parts.dat:0x18e14",
+   "etc/n_Parts.dat:0x194ec",
+   "etc/n_Parts.dat:0x19858",
+   "etc/n_Parts.dat:0x19aa0",
+   "etc/n_Parts.dat:0x19bc4",
+   "etc/n_Parts.dat:0x1c044",
+   "etc/n_Parts.dat:0x1c168",
+   "etc/n_Parts.dat:0x1c28c",
+   "etc/n_Parts.dat:0x1c3b0",
+   "etc/n_Parts.dat:0x1c4d4",
+   "etc/n_Parts.dat:0x1c840",
+   "etc/n_Parts.dat:0x1c964",
+   "etc/n_Parts.dat:0x1ca88",
+   "etc/n_Parts.dat:0x1cbac",
+   "etc/n_Parts.dat:0x1ccd0",
+   "etc/n_Parts.dat:0x1cdf4",
+   "etc/n_Parts.dat:0x1cf18",
+   "etc/n_Parts.dat:0x1d03c",
+   "etc/n_Parts.dat:0x1d160",
+   "etc/n_Parts.dat:0x1d284",
+   "etc/n_Parts.dat:0x1d3a8",
+   "etc/n_Parts.dat:0x1ddec",
+   "etc/n_Parts.dat:0x1df10",
+   "etc/n_Parts.dat:0x1e034",
+   "etc/n_Parts.dat:0x1e3a0",
+   "etc/n_Parts.dat:0x1e4c4",
+   "etc/n_Parts.dat:0x1e5e8",
+   "etc/n_Parts.dat:0x1f150",
+   "etc/n_Parts.dat:0x1f274",
+   "etc/n_Parts.dat:0x1f398",
+   "etc/n_Parts.dat:0x1f4bc",
+   "etc/n_Parts.dat:0x1fddc",
+   "etc/n_Parts.dat:0x20024"
+  ],
+  "kind": "part",
+  "index": 11
+ },
+ {
+  "id": "part:大口径ビームキャノン(遠距離)",
+  "ja": "大口径ビームキャノン(遠距離)",
+  "en": "Large Beam Cannon (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xdb0"
+  ],
+  "kind": "part",
+  "index": 12
+ },
+ {
+  "id": "part:AZ２連装250mmLRｷｬﾉﾝ(中距離)",
+  "ja": "AZ２連装250mmLRｷｬﾉﾝ(中距離)",
+  "en": "AZ Twin 250mm LR Cannon (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x111c"
+  ],
+  "kind": "part",
+  "index": 15
+ },
+ {
+  "id": "part:ロングレンジライフルＡ(中距離)",
+  "ja": "ロングレンジライフルＡ(中距離)",
+  "en": "Long Range Rifle A (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1240"
+  ],
+  "kind": "part",
+  "index": 16
+ },
+ {
+  "id": "part:AZ120mmグラインドキャノン(遠距離)",
+  "ja": "AZ120mmグラインドキャノン(遠距離)",
+  "en": "AZ 120mm Grind Cannon (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x16d0"
+  ],
+  "kind": "part",
+  "index": 20
+ },
+ {
+  "id": "part:AZ80mmビームガン",
+  "ja": "AZ80mmビームガン",
+  "en": "AZ 80mm Beam Gun",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1ecc"
+  ],
+  "kind": "part",
+  "index": 27
+ },
+ {
+  "id": "part:８連装ﾐｻｲﾙﾎﾟｯﾄBﾅｵﾐｶﾗｰ(遠距離)",
+  "ja": "８連装ﾐｻｲﾙﾎﾟｯﾄBﾅｵﾐｶﾗｰ(遠距離)",
+  "en": "8-Tube Missile Pod B Naomi (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1ff0"
+  ],
+  "kind": "part",
+  "index": 28
+ },
+ {
+  "id": "part:ビームマシンガン",
+  "ja": "ビームマシンガン",
+  "en": "Beam Machine Gun",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x2114"
+  ],
+  "kind": "part",
+  "index": 29
+ },
+ {
+  "id": "part:AZ144mmスナイパーライフル",
+  "ja": "AZ144mmスナイパーライフル",
+  "en": "AZ 144mm Sniper Rifle",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x2238"
+  ],
+  "kind": "part",
+  "index": 30
+ },
+ {
+  "id": "part:エレクトロンファング",
+  "ja": "エレクトロンファング",
+  "en": "Electron Fang",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x2910"
+  ],
+  "kind": "part",
+  "index": 36
+ },
+ {
+  "id": "part:メガロマックス",
+  "ja": "メガロマックス",
+  "en": "Megalomax",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x2a34"
+  ],
+  "kind": "part",
+  "index": 37
+ },
+ {
+  "id": "part:ストライクレーザークロー",
+  "ja": "ストライクレーザークロー",
+  "en": "Strike Laser Claw",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x2b58",
+   "etc/n_Parts.dat:0xa564"
+  ],
+  "kind": "part",
+  "index": 38
+ },
+ {
+  "id": "part:トルネードアタック",
+  "ja": "トルネードアタック",
+  "en": "Tornado Attack",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x2c7c"
+  ],
+  "kind": "part",
+  "index": 39
+ },
+ {
+  "id": "part:荷電粒子砲",
+  "ja": "荷電粒子砲",
+  "en": "Charged Particle Cannon",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x2da0",
+   "etc/n_Parts.dat:0xad60",
+   "etc/n_Parts.dat:0xc0c4",
+   "etc/n_Parts.dat:0xc79c"
+  ],
+  "kind": "part",
+  "index": 40
+ },
+ {
+  "id": "part:エレクトロンバイトファング",
+  "ja": "エレクトロンバイトファング",
+  "en": "Electron Bite Fang",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x2ec4"
+  ],
+  "kind": "part",
+  "index": 41
+ },
+ {
+  "id": "part:AZ４連装ショックカノン(中距離)",
+  "ja": "AZ４連装ショックカノン(中距離)",
+  "en": "AZ Quad Shock Cannon (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x310c"
+  ],
+  "kind": "part",
+  "index": 43
+ },
+ {
+  "id": "part:ARZ20mmビームガン(中距離)",
+  "ja": "ARZ20mmビームガン(中距離)",
+  "en": "ARZ 20mm Beam Gun (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x3230"
+  ],
+  "kind": "part",
+  "index": 44
+ },
+ {
+  "id": "part:TRZ20mmリニアレーザーガン(中距離)",
+  "ja": "TRZ20mmリニアレーザーガン(中距離)",
+  "en": "TRZ 20mm Linear Laser Gun (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x3478"
+  ],
+  "kind": "part",
+  "index": 46
+ },
+ {
+  "id": "part:70mm２連装ヘビーマシンガン(中距離)",
+  "ja": "70mm２連装ヘビーマシンガン(中距離)",
+  "en": "70mm Twin Heavy Machine Gun (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x359c"
+  ],
+  "kind": "part",
+  "index": 47
+ },
+ {
+  "id": "part:ロングレンジバスターキャノン",
+  "ja": "ロングレンジバスターキャノン",
+  "en": "Long Range Buster Cannon",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x36c0"
+  ],
+  "kind": "part",
+  "index": 48
+ },
+ {
+  "id": "part:８連装ミサイルポッドＥ(遠距離)",
+  "ja": "８連装ミサイルポッドＥ(遠距離)",
+  "en": "8-Tube Missile Pod E (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x37e4"
+  ],
+  "kind": "part",
+  "index": 49
+ },
+ {
+  "id": "part:AZ２連装ショックカノン",
+  "ja": "AZ２連装ショックカノン",
+  "en": "AZ Twin Shock Cannon",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x3908"
+  ],
+  "kind": "part",
+  "index": 50
+ },
+ {
+  "id": "part:AZ208ｍｍ２連装ｼｮｯｸｶﾉﾝ(中距離)",
+  "ja": "AZ208ｍｍ２連装ｼｮｯｸｶﾉﾝ(中距離)",
+  "en": "AZ 208mm Twin Shock Cannon (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x3a2c"
+  ],
+  "kind": "part",
+  "index": 51
+ },
+ {
+  "id": "part:ブレードアタック",
+  "ja": "ブレードアタック",
+  "en": "Blade Attack",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x3b50"
+  ],
+  "kind": "part",
+  "index": 52
+ },
+ {
+  "id": "part:対ゾイド３連衝撃砲Ａ(中距離)",
+  "ja": "対ゾイド３連衝撃砲Ａ(中距離)",
+  "en": "AZ Triple Shock Cannon A (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x3c74"
+  ],
+  "kind": "part",
+  "index": 53
+ },
+ {
+  "id": "part:ビームランチャー(中距離)",
+  "ja": "ビームランチャー(中距離)",
+  "en": "Beam Launcher (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x3fe0"
+  ],
+  "kind": "part",
+  "index": 56
+ },
+ {
+  "id": "part:AZﾊﾝﾃﾞﾝｼﾃｨﾋﾞｰﾑｷｬﾉﾝ(中距離)",
+  "ja": "AZﾊﾝﾃﾞﾝｼﾃｨﾋﾞｰﾑｷｬﾉﾝ(中距離)",
+  "en": "AZ Dense Beam Cannon (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x4470"
+  ],
+  "kind": "part",
+  "index": 60
+ },
+ {
+  "id": "part:AZ30ｍｍ徹甲ﾚｰｻﾞｰﾊﾞﾙｶﾝ(中距離)",
+  "ja": "AZ30ｍｍ徹甲ﾚｰｻﾞｰﾊﾞﾙｶﾝ(中距離)",
+  "en": "AZ 30mm AP Laser Vulcan (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x4594"
+  ],
+  "kind": "part",
+  "index": 61
+ },
+ {
+  "id": "part:AZ70mm内蔵型電磁ネット砲",
+  "ja": "AZ70mm内蔵型電磁ネット砲",
+  "en": "AZ 70mm EM Net Cannon",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x46b8"
+  ],
+  "kind": "part",
+  "index": 62
+ },
+ {
+  "id": "part:バルカンポッド",
+  "ja": "バルカンポッド",
+  "en": "Vulcan Pod",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x4900"
+  ],
+  "kind": "part",
+  "index": 64
+ },
+ {
+  "id": "part:ハイブリッドキャノン",
+  "ja": "ハイブリッドキャノン",
+  "en": "Hybrid Cannon",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x4a24"
+  ],
+  "kind": "part",
+  "index": 65
+ },
+ {
+  "id": "part:ＡＺ３連装グレネードランチャー",
+  "ja": "ＡＺ３連装グレネードランチャー",
+  "en": "AZ Triple Grenade Launcher",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x4b48"
+  ],
+  "kind": "part",
+  "index": 66
+ },
+ {
+  "id": "part:ＡＺ２連装MHミサイルポッド",
+  "ja": "ＡＺ２連装MHミサイルポッド",
+  "en": "AZ Twin Micro Homing Missile Pod",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x4c6c"
+  ],
+  "kind": "part",
+  "index": 67
+ },
+ {
+  "id": "part:ＡＺ３連装MHミサイルポッド",
+  "ja": "ＡＺ３連装MHミサイルポッド",
+  "en": "AZ Triple Micro Homing Missile Pod",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x4d90"
+  ],
+  "kind": "part",
+  "index": 68
+ },
+ {
+  "id": "part:ＡＺ６連装MHミサイルポッドＡ",
+  "ja": "ＡＺ６連装MHミサイルポッドＡ",
+  "en": "AZ 6-Tube Micro Homing Missile Pod A",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x4eb4"
+  ],
+  "kind": "part",
+  "index": 69
+ },
+ {
+  "id": "part:ＡＺ２連装ミサイルポッド",
+  "ja": "ＡＺ２連装ミサイルポッド",
+  "en": "AZ Twin Missile Pod",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x4fd8"
+  ],
+  "kind": "part",
+  "index": 70
+ },
+ {
+  "id": "part:ＡＺ６連装MHミサイルポッドＢ",
+  "ja": "ＡＺ６連装MHミサイルポッドＢ",
+  "en": "AZ 6-Tube Micro Homing Missile Pod B",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x50fc"
+  ],
+  "kind": "part",
+  "index": 71
+ },
+ {
+  "id": "part:ＡＺ６連装MHミサイルポッドＣ",
+  "ja": "ＡＺ６連装MHミサイルポッドＣ",
+  "en": "AZ 6-Tube Micro Homing Missile Pod C",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x5220"
+  ],
+  "kind": "part",
+  "index": 72
+ },
+ {
+  "id": "part:スタンブレード",
+  "ja": "スタンブレード",
+  "en": "Stun Blade",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x5344"
+  ],
+  "kind": "part",
+  "index": 73
+ },
+ {
+  "id": "part:M&NAZ144mmLRスナイパーライフル",
+  "ja": "M&NAZ144mmLRスナイパーライフル",
+  "en": "M&N AZ 144mm LR Sniper Rifle",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x5468"
+  ],
+  "kind": "part",
+  "index": 74
+ },
+ {
+  "id": "part:ロングレンジライフルＢ(中距離)",
+  "ja": "ロングレンジライフルＢ(中距離)",
+  "en": "Long Range Rifle B (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x558c"
+  ],
+  "kind": "part",
+  "index": 75
+ },
+ {
+  "id": "part:全方位ミサイルセット(遠距離)",
+  "ja": "全方位ミサイルセット(遠距離)",
+  "en": "All-Direction Missile Set (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x56b0"
+  ],
+  "kind": "part",
+  "index": 76
+ },
+ {
+  "id": "part:ビームキャノン(中距離)",
+  "ja": "ビームキャノン(中距離)",
+  "en": "Beam Cannon (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x57d4"
+  ],
+  "kind": "part",
+  "index": 77
+ },
+ {
+  "id": "part:デュアルスナイパーライフル(中距離)",
+  "ja": "デュアルスナイパーライフル(中距離)",
+  "en": "Dual Sniper Rifle (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x58f8"
+  ],
+  "kind": "part",
+  "index": 78
+ },
+ {
+  "id": "part:狙撃タイプＤスナイパーライフル",
+  "ja": "狙撃タイプＤスナイパーライフル",
+  "en": "Sniper Rifle Type D",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x5a1c"
+  ],
+  "kind": "part",
+  "index": 79
+ },
+ {
+  "id": "part:AZ５連装ミサイルポッド",
+  "ja": "AZ５連装ミサイルポッド",
+  "en": "AZ 5-Tube Missile Pod",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x5c64"
+  ],
+  "kind": "part",
+  "index": 81
+ },
+ {
+  "id": "part:ダブルストライククロー",
+  "ja": "ダブルストライククロー",
+  "en": "Double Strike Claw",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x6460"
+  ],
+  "kind": "part",
+  "index": 88
+ },
+ {
+  "id": "part:セブンブレードアタック",
+  "ja": "セブンブレードアタック",
+  "en": "Seven Blade Attack",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x6584"
+  ],
+  "kind": "part",
+  "index": 89
+ },
+ {
+  "id": "part:対ゾイド30ｍｍ２連装ビーム砲(中距離)",
+  "ja": "対ゾイド30ｍｍ２連装ビーム砲(中距離)",
+  "en": "AZ 30mm Twin Beam Gun (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x67cc"
+  ],
+  "kind": "part",
+  "index": 91
+ },
+ {
+  "id": "part:バーニングビッグバーン",
+  "ja": "バーニングビッグバーン",
+  "en": "Burning Big Bang",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x68f0"
+  ],
+  "kind": "part",
+  "index": 92
+ },
+ {
+  "id": "part:高圧濃硫酸噴射砲(近距離)",
+  "ja": "高圧濃硫酸噴射砲(近距離)",
+  "en": "Acid Jet Cannon (Short)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x6ea4"
+  ],
+  "kind": "part",
+  "index": 97
+ },
+ {
+  "id": "part:対ゾイド３連装リニアキャノン(中距離)",
+  "ja": "対ゾイド３連装リニアキャノン(中距離)",
+  "en": "AZ Triple Linear Cannon (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x6fc8"
+  ],
+  "kind": "part",
+  "index": 98
+ },
+ {
+  "id": "part:エレクトロンドライバー",
+  "ja": "エレクトロンドライバー",
+  "en": "Electron Driver",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x76a0",
+   "etc/n_Parts.dat:0xc30c"
+  ],
+  "kind": "part",
+  "index": 104
+ },
+ {
+  "id": "part:ハイパーレーザーライフル",
+  "ja": "ハイパーレーザーライフル",
+  "en": "Hyper Laser Rifle",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x78e8"
+  ],
+  "kind": "part",
+  "index": 106
+ },
+ {
+  "id": "part:２連装パルスレーザーガン(中距離)",
+  "ja": "２連装パルスレーザーガン(中距離)",
+  "en": "Twin Pulse Laser Gun (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x7a0c"
+  ],
+  "kind": "part",
+  "index": 107
+ },
+ {
+  "id": "part:１０連装自己誘導ＲﾗﾝﾁｬｰＡ(遠距離)",
+  "ja": "１０連装自己誘導ＲﾗﾝﾁｬｰＡ(遠距離)",
+  "en": "10-Tube Homing Rockets A (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x7c54"
+  ],
+  "kind": "part",
+  "index": 109
+ },
+ {
+  "id": "part:対ゾイド６連装Ｍランチャー(中距離)",
+  "ja": "対ゾイド６連装Ｍランチャー(中距離)",
+  "en": "AZ 6-Tube Missile Launcher (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x7d78"
+  ],
+  "kind": "part",
+  "index": 110
+ },
+ {
+  "id": "part:１０連装自己誘導ＲﾗﾝﾁｬｰＢ(遠距離)",
+  "ja": "１０連装自己誘導ＲﾗﾝﾁｬｰＢ(遠距離)",
+  "en": "10-Tube Homing Rockets B (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x7e9c"
+  ],
+  "kind": "part",
+  "index": 111
+ },
+ {
+  "id": "part:パルスレーザーライフル",
+  "ja": "パルスレーザーライフル",
+  "en": "Pulse Laser Rifle",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x80e4"
+  ],
+  "kind": "part",
+  "index": 113
+ },
+ {
+  "id": "part:２連バルカン砲",
+  "ja": "２連バルカン砲",
+  "en": "Twin Vulcan",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x8208"
+  ],
+  "kind": "part",
+  "index": 114
+ },
+ {
+  "id": "part:LRパルスレーザーライフル(中距離)",
+  "ja": "LRパルスレーザーライフル(中距離)",
+  "en": "LR Pulse Laser Rifle (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x832c"
+  ],
+  "kind": "part",
+  "index": 115
+ },
+ {
+  "id": "part:レーザーガン(中距離)",
+  "ja": "レーザーガン(中距離)",
+  "en": "Laser Gun (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x8450"
+  ],
+  "kind": "part",
+  "index": 116
+ },
+ {
+  "id": "part:２連装レーザーガン(中距離)",
+  "ja": "２連装レーザーガン(中距離)",
+  "en": "Twin Laser Gun (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x8574"
+  ],
+  "kind": "part",
+  "index": 117
+ },
+ {
+  "id": "part:８連装ミサイルポッドＣ(遠距離)",
+  "ja": "８連装ミサイルポッドＣ(遠距離)",
+  "en": "8-Tube Missile Pod C (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x87bc"
+  ],
+  "kind": "part",
+  "index": 119
+ },
+ {
+  "id": "part:AZ144mmマシンガン(中距離)",
+  "ja": "AZ144mmマシンガン(中距離)",
+  "en": "AZ 144mm Machine Gun (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x8b28"
+  ],
+  "kind": "part",
+  "index": 122
+ },
+ {
+  "id": "part:２連装キャノン",
+  "ja": "２連装キャノン",
+  "en": "Twin Cannon",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x8c4c"
+  ],
+  "kind": "part",
+  "index": 123
+ },
+ {
+  "id": "part:サイバーメタルキャノン Ａ",
+  "ja": "サイバーメタルキャノン Ａ",
+  "en": "Cyber Metal Cannon A",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x8fb8"
+  ],
+  "kind": "part",
+  "index": 126
+ },
+ {
+  "id": "part:パイルバンカー(対接近)",
+  "ja": "パイルバンカー(対接近)",
+  "en": "Pile Bunker (Close)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x9448"
+  ],
+  "kind": "part",
+  "index": 130
+ },
+ {
+  "id": "part:ダブルパイルバンカー(対接近)",
+  "ja": "ダブルパイルバンカー(対接近)",
+  "en": "Double Pile Bunker (Close)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x956c"
+  ],
+  "kind": "part",
+  "index": 131
+ },
+ {
+  "id": "part:カウンターサイズ",
+  "ja": "カウンターサイズ",
+  "en": "Counter Scythe",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x97b4"
+  ],
+  "kind": "part",
+  "index": 133
+ },
+ {
+  "id": "part:ミサイルシート(遠距離)",
+  "ja": "ミサイルシート(遠距離)",
+  "en": "Missile Sheet (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x9d68"
+  ],
+  "kind": "part",
+  "index": 138
+ },
+ {
+  "id": "part:ゴジュラスクエイク",
+  "ja": "ゴジュラスクエイク",
+  "en": "Gojulas Quake",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x9e8c"
+  ],
+  "kind": "part",
+  "index": 139
+ },
+ {
+  "id": "part:集束荷電粒子砲",
+  "ja": "集束荷電粒子砲",
+  "en": "Focused Charged Particle Cannon",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x9fb0"
+  ],
+  "kind": "part",
+  "index": 140
+ },
+ {
+  "id": "part:大口径荷電粒子ビーム砲",
+  "ja": "大口径荷電粒子ビーム砲",
+  "en": "Large Charged Particle Beam Cannon",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xa0d4"
+  ],
+  "kind": "part",
+  "index": 141
+ },
+ {
+  "id": "part:８連装ミサイルポッドＤ(遠距離)",
+  "ja": "８連装ミサイルポッドＤ(遠距離)",
+  "en": "8-Tube Missile Pod D (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xa688"
+  ],
+  "kind": "part",
+  "index": 146
+ },
+ {
+  "id": "part:スマッシュテイル",
+  "ja": "スマッシュテイル",
+  "en": "Smash Tail",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xab18"
+  ],
+  "kind": "part",
+  "index": 150
+ },
+ {
+  "id": "part:アイアンビート",
+  "ja": "アイアンビート",
+  "en": "Iron Beat",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xafa8"
+  ],
+  "kind": "part",
+  "index": 154
+ },
+ {
+  "id": "part:フルバースト",
+  "ja": "フルバースト",
+  "en": "Full Burst",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xb0cc",
+   "etc/n_Parts.dat:0x11ae0",
+   "etc/n_Parts.dat:0x1276c"
+  ],
+  "kind": "part",
+  "index": 155
+ },
+ {
+  "id": "part:キラーサーベル",
+  "ja": "キラーサーベル",
+  "en": "Killer Saber",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xb314"
+  ],
+  "kind": "part",
+  "index": 157
+ },
+ {
+  "id": "part:レーザーブレードＡ",
+  "ja": "レーザーブレードＡ",
+  "en": "Laser Blade A",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xb438"
+  ],
+  "kind": "part",
+  "index": 158
+ },
+ {
+  "id": "part:全砲一斉発射",
+  "ja": "全砲一斉発射",
+  "en": "Full Barrage",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xb55c",
+   "etc/n_Parts.dat:0xd428"
+  ],
+  "kind": "part",
+  "index": 159
+ },
+ {
+  "id": "part:封印武装「32門ゾイド核砲」",
+  "ja": "封印武装「32門ゾイド核砲」",
+  "en": "Sealed 32 Zoid Core Cannons",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xb8c8"
+  ],
+  "kind": "part",
+  "index": 162
+ },
+ {
+  "id": "part:レーザーブレードＢ",
+  "ja": "レーザーブレードＢ",
+  "en": "Laser Blade B",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xbe7c"
+  ],
+  "kind": "part",
+  "index": 167
+ },
+ {
+  "id": "part:ザンスマッシャー（対接近)",
+  "ja": "ザンスマッシャー（対接近)",
+  "en": "Zan Smasher (Close)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xc430"
+  ],
+  "kind": "part",
+  "index": 172
+ },
+ {
+  "id": "part:スナイパーライフルＳＰ",
+  "ja": "スナイパーライフルＳＰ",
+  "en": "Sniper Rifle SP",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xc678"
+  ],
+  "kind": "part",
+  "index": 174
+ },
+ {
+  "id": "part:ストライクトンファー(対接近)",
+  "ja": "ストライクトンファー(対接近)",
+  "en": "Strike Tonfa (Close)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xc8c0"
+  ],
+  "kind": "part",
+  "index": 176
+ },
+ {
+  "id": "part:ブースター（ゴジュラスギガ）",
+  "ja": "ブースター（ゴジュラスギガ）",
+  "en": "Booster (Gojulas Giga)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xcd50"
+  ],
+  "kind": "part",
+  "index": 180
+ },
+ {
+  "id": "part:ハイパーＥシールドジェネレーター",
+  "ja": "ハイパーＥシールドジェネレーター",
+  "en": "Hyper E-Shield Generator",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xce74"
+  ],
+  "kind": "part",
+  "index": 181
+ },
+ {
+  "id": "part:ＲＢ加速式クラッシャーテイル",
+  "ja": "ＲＢ加速式クラッシャーテイル",
+  "en": "RB-Accelerated Crusher Tail",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xcf98"
+  ],
+  "kind": "part",
+  "index": 182
+ },
+ {
+  "id": "part:バルカンファランクス",
+  "ja": "バルカンファランクス",
+  "en": "Vulcan Phalanx",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xd1e0"
+  ],
+  "kind": "part",
+  "index": 184
+ },
+ {
+  "id": "part:２連対空ハイパーレーザーガン",
+  "ja": "２連対空ハイパーレーザーガン",
+  "en": "Twin AA Hyper Laser Gun",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xd304"
+  ],
+  "kind": "part",
+  "index": 185
+ },
+ {
+  "id": "part:爆裂鉄球砲 弐",
+  "ja": "爆裂鉄球砲 弐",
+  "en": "Blast Iron Ball Cannon II",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xd54c"
+  ],
+  "kind": "part",
+  "index": 187
+ },
+ {
+  "id": "part:AZ高熱火炎放射機",
+  "ja": "AZ高熱火炎放射機",
+  "en": "AZ Flamethrower",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xd670"
+  ],
+  "kind": "part",
+  "index": 188
+ },
+ {
+  "id": "part:ストライクスマッシュテイル",
+  "ja": "ストライクスマッシュテイル",
+  "en": "Strike Smash Tail",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xd9dc"
+  ],
+  "kind": "part",
+  "index": 191
+ },
+ {
+  "id": "part:サイバークロー",
+  "ja": "サイバークロー",
+  "en": "Cyber Claw",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xe420"
+  ],
+  "kind": "part",
+  "index": 200
+ },
+ {
+  "id": "part:サイバーメタルキャノンＳＰ",
+  "ja": "サイバーメタルキャノンＳＰ",
+  "en": "Cyber Metal Cannon SP",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xe544"
+  ],
+  "kind": "part",
+  "index": 201
+ },
+ {
+  "id": "part:超爆裂鉄球砲",
+  "ja": "超爆裂鉄球砲",
+  "en": "Super Blast Iron Ball Cannon",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0xe668",
+   "etc/n_Parts.dat:0xeaf8"
+  ],
+  "kind": "part",
+  "index": 202
+ },
+ {
+  "id": "part:AEZ20ｍｍビームガン",
+  "ja": "AEZ20ｍｍビームガン",
+  "en": "AEZ 20mm Beam Gun",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x11774"
+  ],
+  "kind": "part",
+  "index": 245
+ },
+ {
+  "id": "part:小口径対地レーザー機銃",
+  "ja": "小口径対地レーザー機銃",
+  "en": "Light Anti-Ground Laser MG",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x11898"
+  ],
+  "kind": "part",
+  "index": 246
+ },
+ {
+  "id": "part:TEZ20ｍｍリニアレーザーガン",
+  "ja": "TEZ20ｍｍリニアレーザーガン",
+  "en": "TEZ 20mm Linear Laser Gun",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x119bc"
+  ],
+  "kind": "part",
+  "index": 247
+ },
+ {
+  "id": "part:１６連装ミサイルランチャー",
+  "ja": "１６連装ミサイルランチャー",
+  "en": "16-Tube Missile Launcher",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x11c04"
+  ],
+  "kind": "part",
+  "index": 249
+ },
+ {
+  "id": "part:AZ930ｍｍ２連装ショックガン",
+  "ja": "AZ930ｍｍ２連装ショックガン",
+  "en": "AZ 930mm Twin Shock Gun",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x121b8"
+  ],
+  "kind": "part",
+  "index": 254
+ },
+ {
+  "id": "part:サイバーメタルキャノンＢ",
+  "ja": "サイバーメタルキャノンＢ",
+  "en": "Cyber Metal Cannon B",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x122dc"
+  ],
+  "kind": "part",
+  "index": 255
+ },
+ {
+  "id": "part:AZ35ｍｍバルカン砲",
+  "ja": "AZ35ｍｍバルカン砲",
+  "en": "AZ 35mm Vulcan",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x12400"
+  ],
+  "kind": "part",
+  "index": 256
+ },
+ {
+  "id": "part:AZ120ｍｍハイパービームガン",
+  "ja": "AZ120ｍｍハイパービームガン",
+  "en": "AZ 120mm Hyper Beam Gun",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x12648"
+  ],
+  "kind": "part",
+  "index": 258
+ },
+ {
+  "id": "part:収納式AZ105mmリニアキャノン",
+  "ja": "収納式AZ105mmリニアキャノン",
+  "en": "Retractable AZ 105mm Linear Cannon",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x12bfc"
+  ],
+  "kind": "part",
+  "index": 263
+ },
+ {
+  "id": "part:爆裂鉄球砲 壱",
+  "ja": "爆裂鉄球砲 壱",
+  "en": "Blast Iron Ball Cannon I",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x13888"
+  ],
+  "kind": "part",
+  "index": 274
+ },
+ {
+  "id": "part:ジャミングブレード(遠距離)",
+  "ja": "ジャミングブレード(遠距離)",
+  "en": "Jamming Blade (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x13ad0"
+  ],
+  "kind": "part",
+  "index": 276
+ },
+ {
+  "id": "part:煙幕発生装置（全ゾイド）",
+  "ja": "煙幕発生装置（全ゾイド）",
+  "en": "Smoke Screen (All Zoids)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x13bf4"
+  ],
+  "kind": "part",
+  "index": 277
+ },
+ {
+  "id": "part:80mm地対地2連装ビーム砲(中距離)",
+  "ja": "80mm地対地2連装ビーム砲(中距離)",
+  "en": "80mm Twin Ground Beam Cannon (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x14e34"
+  ],
+  "kind": "part",
+  "index": 293
+ },
+ {
+  "id": "part:ウェポンバインダー(遠距離)",
+  "ja": "ウェポンバインダー(遠距離)",
+  "en": "Weapon Binder (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x153e8"
+  ],
+  "kind": "part",
+  "index": 298
+ },
+ {
+  "id": "part:ウェポンパックＡ(遠距離)",
+  "ja": "ウェポンパックＡ(遠距離)",
+  "en": "Weapon Pack A (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1550c"
+  ],
+  "kind": "part",
+  "index": 299
+ },
+ {
+  "id": "part:ウェポンパックＢ(遠距離)",
+  "ja": "ウェポンパックＢ(遠距離)",
+  "en": "Weapon Pack B (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x15630"
+  ],
+  "kind": "part",
+  "index": 300
+ },
+ {
+  "id": "part:ビームガトリングユニットＤ(中距離)",
+  "ja": "ビームガトリングユニットＤ(中距離)",
+  "en": "Beam Gatling Unit D (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x15754"
+  ],
+  "kind": "part",
+  "index": 301
+ },
+ {
+  "id": "part:ウェポンパックＣ(遠距離)",
+  "ja": "ウェポンパックＣ(遠距離)",
+  "en": "Weapon Pack C (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1599c"
+  ],
+  "kind": "part",
+  "index": 303
+ },
+ {
+  "id": "part:ワイルドウィーゼルユニット(中距離)",
+  "ja": "ワイルドウィーゼルユニット(中距離)",
+  "en": "Wild Weasel Unit (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x15ac0"
+  ],
+  "kind": "part",
+  "index": 304
+ },
+ {
+  "id": "part:リノンスペシャルユニット(中距離)",
+  "ja": "リノンスペシャルユニット(中距離)",
+  "en": "Leena Special Unit (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x15be4"
+  ],
+  "kind": "part",
+  "index": 305
+ },
+ {
+  "id": "part:アサルトユニット(遠距離)",
+  "ja": "アサルトユニット(遠距離)",
+  "en": "Assault Unit (Long)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x15e2c"
+  ],
+  "kind": "part",
+  "index": 307
+ },
+ {
+  "id": "part:ガトリングユニット(中距離)",
+  "ja": "ガトリングユニット(中距離)",
+  "en": "Gatling Unit (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x15f50"
+  ],
+  "kind": "part",
+  "index": 308
+ },
+ {
+  "id": "part:ビームガトリングユニットＡ(中距離)",
+  "ja": "ビームガトリングユニットＡ(中距離)",
+  "en": "Beam Gatling Unit A (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x16074"
+  ],
+  "kind": "part",
+  "index": 309
+ },
+ {
+  "id": "part:ビームガトリングユニットＢ(中距離)",
+  "ja": "ビームガトリングユニットＢ(中距離)",
+  "en": "Beam Gatling Unit B (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x16198"
+  ],
+  "kind": "part",
+  "index": 310
+ },
+ {
+  "id": "part:ビームガトリングユニットＣ(中距離)",
+  "ja": "ビームガトリングユニットＣ(中距離)",
+  "en": "Beam Gatling Unit C (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x162bc"
+  ],
+  "kind": "part",
+  "index": 311
+ },
+ {
+  "id": "part:キラードーム(中距離)",
+  "ja": "キラードーム(中距離)",
+  "en": "Killer Dome (Mid)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1706c"
+  ],
+  "kind": "part",
+  "index": 323
+ },
+ {
+  "id": "part:ブースター（カノントータス）",
+  "ja": "ブースター（カノントータス）",
+  "en": "Booster (Cannon Tortoise)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x172b4"
+  ],
+  "kind": "part",
+  "index": 325
+ },
+ {
+  "id": "part:ブースター（ディバイソン）",
+  "ja": "ブースター（ディバイソン）",
+  "en": "Booster (Dibison)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x173d8"
+  ],
+  "kind": "part",
+  "index": 326
+ },
+ {
+  "id": "part:ブースター（モルガ）",
+  "ja": "ブースター（モルガ）",
+  "en": "Booster (Molga)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x174fc"
+  ],
+  "kind": "part",
+  "index": 327
+ },
+ {
+  "id": "part:ブースター（ケーニッヒウルフ）",
+  "ja": "ブースター（ケーニッヒウルフ）",
+  "en": "Booster (Konig Wolf)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x17620"
+  ],
+  "kind": "part",
+  "index": 328
+ },
+ {
+  "id": "part:ブースター（ＬＺパンツァー）",
+  "ja": "ブースター（ＬＺパンツァー）",
+  "en": "Booster (Liger Zero Panzer)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x17868"
+  ],
+  "kind": "part",
+  "index": 330
+ },
+ {
+  "id": "part:ブースター（ＬＺイクス）",
+  "ja": "ブースター（ＬＺイクス）",
+  "en": "Booster (Liger Zero X)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1798c"
+  ],
+  "kind": "part",
+  "index": 331
+ },
+ {
+  "id": "part:ブースター（ゴジュラス）",
+  "ja": "ブースター（ゴジュラス）",
+  "en": "Booster (Gojulas)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x17bd4"
+  ],
+  "kind": "part",
+  "index": 333
+ },
+ {
+  "id": "part:ブースター(シャドーフォックス)",
+  "ja": "ブースター(シャドーフォックス)",
+  "en": "Booster (Shadow Fox)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x17cf8"
+  ],
+  "kind": "part",
+  "index": 334
+ },
+ {
+  "id": "part:ブースター（レブラプター）",
+  "ja": "ブースター（レブラプター）",
+  "en": "Booster (Rev Raptor)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x17e1c"
+  ],
+  "kind": "part",
+  "index": 335
+ },
+ {
+  "id": "part:ブースター（ジェノザウラー）",
+  "ja": "ブースター（ジェノザウラー）",
+  "en": "Booster (Geno Saurer)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x17f40"
+  ],
+  "kind": "part",
+  "index": 336
+ },
+ {
+  "id": "part:ブースター（ガンスナイパー）",
+  "ja": "ブースター（ガンスナイパー）",
+  "en": "Booster (Gun Sniper)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x18188"
+  ],
+  "kind": "part",
+  "index": 338
+ },
+ {
+  "id": "part:ブースター（セイバータイガー）",
+  "ja": "ブースター（セイバータイガー）",
+  "en": "Booster (Zaber Fang)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x182ac"
+  ],
+  "kind": "part",
+  "index": 339
+ },
+ {
+  "id": "part:ブースター（レッドホーン）",
+  "ja": "ブースター（レッドホーン）",
+  "en": "Booster (Red Horn)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x183d0"
+  ],
+  "kind": "part",
+  "index": 340
+ },
+ {
+  "id": "part:シュトゥルムブースター",
+  "ja": "シュトゥルムブースター",
+  "en": "Sturm Booster",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x184f4"
+  ],
+  "kind": "part",
+  "index": 341
+ },
+ {
+  "id": "part:ブースター（スナイプマスター）",
+  "ja": "ブースター（スナイプマスター）",
+  "en": "Booster (Snipe Master)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x18618"
+  ],
+  "kind": "part",
+  "index": 342
+ },
+ {
+  "id": "part:ブースター（ダークスパイナー）",
+  "ja": "ブースター（ダークスパイナー）",
+  "en": "Booster (Dark Spiner)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1873c"
+  ],
+  "kind": "part",
+  "index": 343
+ },
+ {
+  "id": "part:ディアブロブースター",
+  "ja": "ディアブロブースター",
+  "en": "Diablo Booster",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x18984"
+  ],
+  "kind": "part",
+  "index": 345
+ },
+ {
+  "id": "part:ブースター（サイクロプス弐式）",
+  "ja": "ブースター（サイクロプス弐式）",
+  "en": "Booster (Cyclops Type II)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x18aa8"
+  ],
+  "kind": "part",
+  "index": 346
+ },
+ {
+  "id": "part:ブースター（サイクロプス壱式）",
+  "ja": "ブースター（サイクロプス壱式）",
+  "en": "Booster (Cyclops Type I)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x18bcc"
+  ],
+  "kind": "part",
+  "index": 347
+ },
+ {
+  "id": "part:ロケットブースター",
+  "ja": "ロケットブースター",
+  "en": "Rocket Booster",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x18f38"
+  ],
+  "kind": "part",
+  "index": 350
+ },
+ {
+  "id": "part:イオンターボブースター",
+  "ja": "イオンターボブースター",
+  "en": "Ion Turbo Booster",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1905c"
+  ],
+  "kind": "part",
+  "index": 351
+ },
+ {
+  "id": "part:ハイマニューバブースターパック",
+  "ja": "ハイマニューバブースターパック",
+  "en": "High-Maneuver Booster Pack",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x19180"
+  ],
+  "kind": "part",
+  "index": 352
+ },
+ {
+  "id": "part:ブースターパック",
+  "ja": "ブースターパック",
+  "en": "Booster Pack",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x192a4"
+  ],
+  "kind": "part",
+  "index": 353
+ },
+ {
+  "id": "part:アシスタンスブースター",
+  "ja": "アシスタンスブースター",
+  "en": "Assistance Booster",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x193c8"
+  ],
+  "kind": "part",
+  "index": 354
+ },
+ {
+  "id": "part:高出力イオンターボブースター",
+  "ja": "高出力イオンターボブースター",
+  "en": "High-Output Ion Turbo Booster",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x19610"
+  ],
+  "kind": "part",
+  "index": 356
+ },
+ {
+  "id": "part:大型イオンブースター",
+  "ja": "大型イオンブースター",
+  "en": "Large Ion Booster",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x19734"
+  ],
+  "kind": "part",
+  "index": 357
+ },
+ {
+  "id": "part:ハイマニューバスラスター",
+  "ja": "ハイマニューバスラスター",
+  "en": "High-Maneuver Thruster",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1997c"
+  ],
+  "kind": "part",
+  "index": 359
+ },
+ {
+  "id": "part:ウイングスラスター",
+  "ja": "ウイングスラスター",
+  "en": "Wing Thruster",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x19ce8"
+  ],
+  "kind": "part",
+  "index": 362
+ },
+ {
+  "id": "part:Ｅシールド（ブレードライガー）",
+  "ja": "Ｅシールド（ブレードライガー）",
+  "en": "E-Shield (Blade Liger)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x19e0c"
+  ],
+  "kind": "part",
+  "index": 363
+ },
+ {
+  "id": "part:Ｅシールド（ＬＺシュナイダー）",
+  "ja": "Ｅシールド（ＬＺシュナイダー）",
+  "en": "E-Shield (Liger Zero Schneider)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x19f30"
+  ],
+  "kind": "part",
+  "index": 364
+ },
+ {
+  "id": "part:Ｅシールド（Ｂフューラー）",
+  "ja": "Ｅシールド（Ｂフューラー）",
+  "en": "E-Shield (Berserk Fury)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1a054"
+  ],
+  "kind": "part",
+  "index": 365
+ },
+ {
+  "id": "part:Ｅシールド（ＢＦシュトゥルム）",
+  "ja": "Ｅシールド（ＢＦシュトゥルム）",
+  "en": "E-Shield (BF Sturm)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1a178"
+  ],
+  "kind": "part",
+  "index": 366
+ },
+ {
+  "id": "part:Ｅシールド（デススティンガー）",
+  "ja": "Ｅシールド（デススティンガー）",
+  "en": "E-Shield (Death Stinger)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1a29c"
+  ],
+  "kind": "part",
+  "index": 367
+ },
+ {
+  "id": "part:Ｅシールド（カノントータス）",
+  "ja": "Ｅシールド（カノントータス）",
+  "en": "E-Shield (Cannon Tortoise)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1a3c0"
+  ],
+  "kind": "part",
+  "index": 368
+ },
+ {
+  "id": "part:Ｅシールド（コマンドウルフ）",
+  "ja": "Ｅシールド（コマンドウルフ）",
+  "en": "E-Shield (Command Wolf)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1a4e4"
+  ],
+  "kind": "part",
+  "index": 369
+ },
+ {
+  "id": "part:Ｅシールド（ディバイソン）",
+  "ja": "Ｅシールド（ディバイソン）",
+  "en": "E-Shield (Dibison)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1a608"
+  ],
+  "kind": "part",
+  "index": 370
+ },
+ {
+  "id": "part:Ｅシールド（ライガーゼロ）",
+  "ja": "Ｅシールド（ライガーゼロ）",
+  "en": "E-Shield (Liger Zero)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1a72c"
+  ],
+  "kind": "part",
+  "index": 371
+ },
+ {
+  "id": "part:Ｅシールド（モルガ）",
+  "ja": "Ｅシールド（モルガ）",
+  "en": "E-Shield (Molga)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1a850"
+  ],
+  "kind": "part",
+  "index": 372
+ },
+ {
+  "id": "part:Ｅシールド（ケーニッヒウルフ）",
+  "ja": "Ｅシールド（ケーニッヒウルフ）",
+  "en": "E-Shield (Konig Wolf)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1a974"
+  ],
+  "kind": "part",
+  "index": 373
+ },
+ {
+  "id": "part:Ｅシールド（ＬＺイエーガー）",
+  "ja": "Ｅシールド（ＬＺイエーガー）",
+  "en": "E-Shield (Liger Zero Jaeger)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1aa98"
+  ],
+  "kind": "part",
+  "index": 374
+ },
+ {
+  "id": "part:Ｅシールド（ＬＺパンツァー）",
+  "ja": "Ｅシールド（ＬＺパンツァー）",
+  "en": "E-Shield (Liger Zero Panzer)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1abbc"
+  ],
+  "kind": "part",
+  "index": 375
+ },
+ {
+  "id": "part:Ｅシールド（ＬＺイクス）",
+  "ja": "Ｅシールド（ＬＺイクス）",
+  "en": "E-Shield (Liger Zero X)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1ace0"
+  ],
+  "kind": "part",
+  "index": 376
+ },
+ {
+  "id": "part:Ｅシールド（Ｌサイクス）",
+  "ja": "Ｅシールド（Ｌサイクス）",
+  "en": "E-Shield (Lightning Saix)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1ae04"
+  ],
+  "kind": "part",
+  "index": 377
+ },
+ {
+  "id": "part:Ｅシールド（ゴジュラス）",
+  "ja": "Ｅシールド（ゴジュラス）",
+  "en": "E-Shield (Gojulas)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1af28"
+  ],
+  "kind": "part",
+  "index": 378
+ },
+ {
+  "id": "part:Ｅシールド（ジェノブレイカー）",
+  "ja": "Ｅシールド（ジェノブレイカー）",
+  "en": "E-Shield (Geno Breaker)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1b04c"
+  ],
+  "kind": "part",
+  "index": 379
+ },
+ {
+  "id": "part:Ｅシールド（デスザウラー）",
+  "ja": "Ｅシールド（デスザウラー）",
+  "en": "E-Shield (Death Saurer)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1b170"
+  ],
+  "kind": "part",
+  "index": 380
+ },
+ {
+  "id": "part:Ｅシールド(シャドーフォックス)",
+  "ja": "Ｅシールド(シャドーフォックス)",
+  "en": "E-Shield (Shadow Fox)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1b294"
+  ],
+  "kind": "part",
+  "index": 381
+ },
+ {
+  "id": "part:Ｅシールド（レブラプター）",
+  "ja": "Ｅシールド（レブラプター）",
+  "en": "E-Shield (Rev Raptor)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1b3b8"
+  ],
+  "kind": "part",
+  "index": 382
+ },
+ {
+  "id": "part:Ｅシールド（ジェノザウラー）",
+  "ja": "Ｅシールド（ジェノザウラー）",
+  "en": "E-Shield (Geno Saurer)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1b4dc"
+  ],
+  "kind": "part",
+  "index": 383
+ },
+ {
+  "id": "part:Ｅシールド（アイアンコング）",
+  "ja": "Ｅシールド（アイアンコング）",
+  "en": "E-Shield (Iron Kong)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1b600"
+  ],
+  "kind": "part",
+  "index": 384
+ },
+ {
+  "id": "part:Ｅシールド（ガンスナイパー）",
+  "ja": "Ｅシールド（ガンスナイパー）",
+  "en": "E-Shield (Gun Sniper)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1b724"
+  ],
+  "kind": "part",
+  "index": 385
+ },
+ {
+  "id": "part:Ｅシールド（セイバータイガー）",
+  "ja": "Ｅシールド（セイバータイガー）",
+  "en": "E-Shield (Zaber Fang)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1b848"
+  ],
+  "kind": "part",
+  "index": 386
+ },
+ {
+  "id": "part:Ｅシールド（レッドホーン）",
+  "ja": "Ｅシールド（レッドホーン）",
+  "en": "E-Shield (Red Horn)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1b96c"
+  ],
+  "kind": "part",
+  "index": 387
+ },
+ {
+  "id": "part:Ｅシールド（スナイプマスター）",
+  "ja": "Ｅシールド（スナイプマスター）",
+  "en": "E-Shield (Snipe Master)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1ba90"
+  ],
+  "kind": "part",
+  "index": 388
+ },
+ {
+  "id": "part:Ｅシールド（ダークスパイナー）",
+  "ja": "Ｅシールド（ダークスパイナー）",
+  "en": "E-Shield (Dark Spiner)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1bbb4"
+  ],
+  "kind": "part",
+  "index": 389
+ },
+ {
+  "id": "part:Ｅシールド（ディアブロタイガー",
+  "ja": "Ｅシールド（ディアブロタイガー",
+  "en": "E-Shield (Diablo Tiger)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1bcd8"
+  ],
+  "kind": "part",
+  "index": 390
+ },
+ {
+  "id": "part:Ｅシールド（サイクロプス弐式）",
+  "ja": "Ｅシールド（サイクロプス弐式）",
+  "en": "E-Shield (Cyclops Type II)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1bdfc"
+  ],
+  "kind": "part",
+  "index": 391
+ },
+ {
+  "id": "part:Ｅシールド（サイクロプス壱式）",
+  "ja": "Ｅシールド（サイクロプス壱式）",
+  "en": "E-Shield (Cyclops Type I)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1bf20"
+  ],
+  "kind": "part",
+  "index": 392
+ },
+ {
+  "id": "part:光学迷彩（全ゾイド）",
+  "ja": "光学迷彩（全ゾイド）",
+  "en": "Optical Camo (All Zoids)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1c5f8"
+  ],
+  "kind": "part",
+  "index": 398
+ },
+ {
+  "id": "part:地雷（全ゾイド）",
+  "ja": "地雷（全ゾイド）",
+  "en": "Mine (All Zoids)",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1c71c"
+  ],
+  "kind": "part",
+  "index": 399
+ },
+ {
+  "id": "part:装甲強化　+10",
+  "ja": "装甲強化　+10",
+  "en": "Armor +10",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1d4cc"
+  ],
+  "kind": "part",
+  "index": 411
+ },
+ {
+  "id": "part:装甲強化　+15",
+  "ja": "装甲強化　+15",
+  "en": "Armor +15",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1d5f0"
+  ],
+  "kind": "part",
+  "index": 412
+ },
+ {
+  "id": "part:装甲強化　+20",
+  "ja": "装甲強化　+20",
+  "en": "Armor +20",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1d714"
+  ],
+  "kind": "part",
+  "index": 413
+ },
+ {
+  "id": "part:装甲強化　+30",
+  "ja": "装甲強化　+30",
+  "en": "Armor +30",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1d838"
+  ],
+  "kind": "part",
+  "index": 414
+ },
+ {
+  "id": "part:装甲強化　+50",
+  "ja": "装甲強化　+50",
+  "en": "Armor +50",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1d95c"
+  ],
+  "kind": "part",
+  "index": 415
+ },
+ {
+  "id": "part:索敵範囲拡大　+100",
+  "ja": "索敵範囲拡大　+100",
+  "en": "Search Range +100",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1da80"
+  ],
+  "kind": "part",
+  "index": 416
+ },
+ {
+  "id": "part:索敵範囲拡大　+200",
+  "ja": "索敵範囲拡大　+200",
+  "en": "Search Range +200",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1dba4"
+  ],
+  "kind": "part",
+  "index": 417
+ },
+ {
+  "id": "part:索敵範囲拡大　+300",
+  "ja": "索敵範囲拡大　+300",
+  "en": "Search Range +300",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1dcc8"
+  ],
+  "kind": "part",
+  "index": 418
+ },
+ {
+  "id": "part:レーダー拡大　+100",
+  "ja": "レーダー拡大　+100",
+  "en": "Radar Range +100",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1e158"
+  ],
+  "kind": "part",
+  "index": 422
+ },
+ {
+  "id": "part:レーダー拡大　+200",
+  "ja": "レーダー拡大　+200",
+  "en": "Radar Range +200",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1e27c"
+  ],
+  "kind": "part",
+  "index": 423
+ },
+ {
+  "id": "part:レーダー拡大　+400",
+  "ja": "レーダー拡大　+400",
+  "en": "Radar Range +400",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1e70c"
+  ],
+  "kind": "part",
+  "index": 427
+ },
+ {
+  "id": "part:レーダー+200・索敵範囲+100",
+  "ja": "レーダー+200・索敵範囲+100",
+  "en": "Radar +200 / Search +100",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1e830"
+  ],
+  "kind": "part",
+  "index": 428
+ },
+ {
+  "id": "part:レーダー+400・索敵範囲+200",
+  "ja": "レーダー+400・索敵範囲+200",
+  "en": "Radar +400 / Search +200",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1e954"
+  ],
+  "kind": "part",
+  "index": 429
+ },
+ {
+  "id": "part:移動速度　+2",
+  "ja": "移動速度　+2",
+  "en": "Speed +2",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1ea78"
+  ],
+  "kind": "part",
+  "index": 430
+ },
+ {
+  "id": "part:移動速度　+4",
+  "ja": "移動速度　+4",
+  "en": "Speed +4",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1eb9c"
+  ],
+  "kind": "part",
+  "index": 431
+ },
+ {
+  "id": "part:移動速度　+6",
+  "ja": "移動速度　+6",
+  "en": "Speed +6",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1ecc0"
+  ],
+  "kind": "part",
+  "index": 432
+ },
+ {
+  "id": "part:移動速度　+8",
+  "ja": "移動速度　+8",
+  "en": "Speed +8",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1ede4"
+  ],
+  "kind": "part",
+  "index": 433
+ },
+ {
+  "id": "part:移動速度　+10",
+  "ja": "移動速度　+10",
+  "en": "Speed +10",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1ef08"
+  ],
+  "kind": "part",
+  "index": 434
+ },
+ {
+  "id": "part:旋回能力　+3",
+  "ja": "旋回能力　+3",
+  "en": "Turning +3",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1f02c"
+  ],
+  "kind": "part",
+  "index": 435
+ },
+ {
+  "id": "part:旋回能力　+5",
+  "ja": "旋回能力　+5",
+  "en": "Turning +5",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1f5e0"
+  ],
+  "kind": "part",
+  "index": 440
+ },
+ {
+  "id": "part:旋回能力+10・移動速度-3",
+  "ja": "旋回能力+10・移動速度-3",
+  "en": "Turning +10 / Speed -3",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1f704"
+  ],
+  "kind": "part",
+  "index": 441
+ },
+ {
+  "id": "part:旋回能力+20・移動速度-5",
+  "ja": "旋回能力+20・移動速度-5",
+  "en": "Turning +20 / Speed -5",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1f828"
+  ],
+  "kind": "part",
+  "index": 442
+ },
+ {
+  "id": "part:攻撃力　+5",
+  "ja": "攻撃力　+5",
+  "en": "Attack +5",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1f94c"
+  ],
+  "kind": "part",
+  "index": 443
+ },
+ {
+  "id": "part:攻撃力　+15",
+  "ja": "攻撃力　+15",
+  "en": "Attack +15",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1fa70"
+  ],
+  "kind": "part",
+  "index": 444
+ },
+ {
+  "id": "part:攻撃力　+25",
+  "ja": "攻撃力　+25",
+  "en": "Attack +25",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1fb94"
+  ],
+  "kind": "part",
+  "index": 445
+ },
+ {
+  "id": "part:全ての能力がアップ",
+  "ja": "全ての能力がアップ",
+  "en": "All Stats Up",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1fcb8"
+  ],
+  "kind": "part",
+  "index": 446
+ },
+ {
+  "id": "part:２連装戦術ミサイル",
+  "ja": "２連装戦術ミサイル",
+  "en": "Twin Tactical Missiles",
+  "cap": 51,
+  "where": [
+   "etc/n_Parts.dat:0x1ff00"
+  ],
+  "kind": "part",
+  "index": 448
+ },
+ {
+  "id": "person:ビット",
+  "ja": "ビット",
+  "en": "BIT",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x0"
+  ],
+  "kind": "person",
+  "index": 0
+ },
+ {
+  "id": "person:リノン",
+  "ja": "リノン",
+  "en": "LEENA",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x68"
+  ],
+  "kind": "person",
+  "index": 1
+ },
+ {
+  "id": "person:バラッド",
+  "ja": "バラッド",
+  "en": "BRAD",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xd0"
+  ],
+  "kind": "person",
+  "index": 2
+ },
+ {
+  "id": "person:ハリー",
+  "ja": "ハリー",
+  "en": "HARRY",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x138"
+  ],
+  "kind": "person",
+  "index": 3
+ },
+ {
+  "id": "person:ベガ",
+  "ja": "ベガ",
+  "en": "VEGA",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x1a0"
+  ],
+  "kind": "person",
+  "index": 4
+ },
+ {
+  "id": "person:ジャック",
+  "ja": "ジャック",
+  "en": "JACK",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x208"
+  ],
+  "kind": "person",
+  "index": 5
+ },
+ {
+  "id": "person:レオン",
+  "ja": "レオン",
+  "en": "LEON",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x270"
+  ],
+  "kind": "person",
+  "index": 6
+ },
+ {
+  "id": "person:ナオミ",
+  "ja": "ナオミ",
+  "en": "NAOMI",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x2d8"
+  ],
+  "kind": "person",
+  "index": 7
+ },
+ {
+  "id": "person:マリー",
+  "ja": "マリー",
+  "en": "MARY",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x340"
+  ],
+  "kind": "person",
+  "index": 8
+ },
+ {
+  "id": "person:クリス",
+  "ja": "クリス",
+  "en": "CHRIS",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x3a8"
+  ],
+  "kind": "person",
+  "index": 9
+ },
+ {
+  "id": "person:ケリー",
+  "ja": "ケリー",
+  "en": "KELLY",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x410"
+  ],
+  "kind": "person",
+  "index": 10
+ },
+ {
+  "id": "person:カークランド",
+  "ja": "カークランド",
+  "en": "KIRKLAND",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x478"
+  ],
+  "kind": "person",
+  "index": 11
+ },
+ {
+  "id": "person:ストラ",
+  "ja": "ストラ",
+  "en": "STOLLER",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x4e0"
+  ],
+  "kind": "person",
+  "index": 12
+ },
+ {
+  "id": "person:ピアス",
+  "ja": "ピアス",
+  "en": "PIERCE",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x548"
+  ],
+  "kind": "person",
+  "index": 13
+ },
+ {
+  "id": "person:フーマ",
+  "ja": "フーマ",
+  "en": "FUMA",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x5b0"
+  ],
+  "kind": "person",
+  "index": 14
+ },
+ {
+  "id": "person:ジャッジマン",
+  "ja": "ジャッジマン",
+  "en": "JUDGE",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x618"
+  ],
+  "kind": "person",
+  "index": 15
+ },
+ {
+  "id": "person:バン＆フィーネ",
+  "ja": "バン＆フィーネ",
+  "en": "VAN & FIONA",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x680"
+  ],
+  "kind": "person",
+  "index": 16
+ },
+ {
+  "id": "person:アーバイン",
+  "ja": "アーバイン",
+  "en": "IRVINE",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x6e8"
+  ],
+  "kind": "person",
+  "index": 17
+ },
+ {
+  "id": "person:ハーマン",
+  "ja": "ハーマン",
+  "en": "HERMAN",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x750"
+  ],
+  "kind": "person",
+  "index": 18
+ },
+ {
+  "id": "person:レイヴン",
+  "ja": "レイヴン",
+  "en": "RAVEN",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x7b8"
+  ],
+  "kind": "person",
+  "index": 19
+ },
+ {
+  "id": "person:ヒルツ",
+  "ja": "ヒルツ",
+  "en": "HILTZ",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x820"
+  ],
+  "kind": "person",
+  "index": 20
+ },
+ {
+  "id": "person:リーゼ",
+  "ja": "リーゼ",
+  "en": "REESE",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x888"
+  ],
+  "kind": "person",
+  "index": 21
+ },
+ {
+  "id": "person:シュバルツ",
+  "ja": "シュバルツ",
+  "en": "SCHUBALTZ",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x8f0"
+  ],
+  "kind": "person",
+  "index": 22
+ },
+ {
+  "id": "person:トーマ",
+  "ja": "トーマ",
+  "en": "THOMAS",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x958"
+  ],
+  "kind": "person",
+  "index": 23
+ },
+ {
+  "id": "person:ロッソ",
+  "ja": "ロッソ",
+  "en": "ROSSO",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x9c0"
+  ],
+  "kind": "person",
+  "index": 24
+ },
+ {
+  "id": "person:ヴィオーラ",
+  "ja": "ヴィオーラ",
+  "en": "VIOLA",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xa28"
+  ],
+  "kind": "person",
+  "index": 25
+ },
+ {
+  "id": "person:プロイツェン",
+  "ja": "プロイツェン",
+  "en": "PROZEN",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xa90"
+  ],
+  "kind": "person",
+  "index": 26
+ },
+ {
+  "id": "person:アトレー",
+  "ja": "アトレー",
+  "en": "ATHLE",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xaf8"
+  ],
+  "kind": "person",
+  "index": 27
+ },
+ {
+  "id": "person:レジーナ",
+  "ja": "レジーナ",
+  "en": "REGINA",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xb60"
+  ],
+  "kind": "person",
+  "index": 28
+ },
+ {
+  "id": "person:ブラッド",
+  "ja": "ブラッド",
+  "en": "BLOOD",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xbc8"
+  ],
+  "kind": "person",
+  "index": 29
+ },
+ {
+  "id": "person:フラン",
+  "ja": "フラン",
+  "en": "FRAN",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xc30"
+  ],
+  "kind": "person",
+  "index": 30
+ },
+ {
+  "id": "person:ザン",
+  "ja": "ザン",
+  "en": "ZAN",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xc98"
+  ],
+  "kind": "person",
+  "index": 31
+ },
+ {
+  "id": "person:ティータ",
+  "ja": "ティータ",
+  "en": "TITA",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xd00"
+  ],
+  "kind": "person",
+  "index": 32
+ },
+ {
+  "id": "person:アルバーン",
+  "ja": "アルバーン",
+  "en": "ALBANE",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xd68"
+  ],
+  "kind": "person",
+  "index": 33
+ },
+ {
+  "id": "person:マックス",
+  "ja": "マックス",
+  "en": "MAX",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xdd0"
+  ],
+  "kind": "person",
+  "index": 34
+ },
+ {
+  "id": "person:ライナー",
+  "ja": "ライナー",
+  "en": "REINER",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xe38"
+  ],
+  "kind": "person",
+  "index": 35
+ },
+ {
+  "id": "person:クローディア",
+  "ja": "クローディア",
+  "en": "CLAUDIA",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xea0"
+  ],
+  "kind": "person",
+  "index": 36
+ },
+ {
+  "id": "person:ガルド",
+  "ja": "ガルド",
+  "en": "GARD",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xf08"
+  ],
+  "kind": "person",
+  "index": 37
+ },
+ {
+  "id": "person:レザール",
+  "ja": "レザール",
+  "en": "LEZARD",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xf70"
+  ],
+  "kind": "person",
+  "index": 38
+ },
+ {
+  "id": "person:リバイアス",
+  "ja": "リバイアス",
+  "en": "LEVIATHE",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0xfd8"
+  ],
+  "kind": "person",
+  "index": 39
+ },
+ {
+  "id": "person:バイパー",
+  "ja": "バイパー",
+  "en": "VIPER",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x1040"
+  ],
+  "kind": "person",
+  "index": 40
+ },
+ {
+  "id": "person:オペレーター",
+  "ja": "オペレーター",
+  "en": "OPERATOR",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x10a8",
+   "etc/n_Person.dat:0x1110"
+  ],
+  "kind": "person",
+  "index": 41
+ },
+ {
+  "id": "person:共和国兵Ａ",
+  "ja": "共和国兵Ａ",
+  "en": "REPUBLIC SOLDIER A",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x1178"
+  ],
+  "kind": "person",
+  "index": 43
+ },
+ {
+  "id": "person:共和国兵Ｂ",
+  "ja": "共和国兵Ｂ",
+  "en": "REPUBLIC SOLDIER B",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x11e0"
+  ],
+  "kind": "person",
+  "index": 44
+ },
+ {
+  "id": "person:帝国兵Ａ",
+  "ja": "帝国兵Ａ",
+  "en": "IMPERIAL SOLDIER A",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x1248"
+  ],
+  "kind": "person",
+  "index": 45
+ },
+ {
+  "id": "person:帝国兵Ｂ",
+  "ja": "帝国兵Ｂ",
+  "en": "IMPERIAL SOLDIER B",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x12b0"
+  ],
+  "kind": "person",
+  "index": 46
+ },
+ {
+  "id": "person:共和国兵",
+  "ja": "共和国兵",
+  "en": "REPUBLIC SOLDIER",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x1318"
+  ],
+  "kind": "person",
+  "index": 47
+ },
+ {
+  "id": "person:一般兵",
+  "ja": "一般兵",
+  "en": "SOLDIER",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x1380",
+   "etc/n_Person.dat:0x13e8",
+   "etc/n_Person.dat:0x1450",
+   "etc/n_Person.dat:0x14b8",
+   "etc/n_Person.dat:0x1588",
+   "etc/n_Person.dat:0x15f0",
+   "etc/n_Person.dat:0x1658",
+   "etc/n_Person.dat:0x16c0"
+  ],
+  "kind": "person",
+  "index": 48
+ },
+ {
+  "id": "person:帝国兵",
+  "ja": "帝国兵",
+  "en": "IMPERIAL SOLDIER",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x1520"
+  ],
+  "kind": "person",
+  "index": 52
+ },
+ {
+  "id": "person:ＮＯ　ＥＮＴＲＹ",
+  "ja": "ＮＯ　ＥＮＴＲＹ",
+  "en": "NO ENTRY",
+  "cap": 34,
+  "where": [
+   "etc/n_Person.dat:0x1728"
+  ],
+  "kind": "person",
+  "index": 57
+ },
+ {
+  "id": "zoid:カノントータス",
+  "ja": "カノントータス",
+  "en": "CANNON TORTOISE",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x0"
+  ],
+  "kind": "zoid",
+  "index": 0
+ },
+ {
+  "id": "zoid:コマンドウルフ",
+  "ja": "コマンドウルフ",
+  "en": "COMMAND WOLF",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x7e8"
+  ],
+  "kind": "zoid",
+  "index": 1
+ },
+ {
+  "id": "zoid:ディバイソン",
+  "ja": "ディバイソン",
+  "en": "DIBISON",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0xfd0"
+  ],
+  "kind": "zoid",
+  "index": 2
+ },
+ {
+  "id": "zoid:ライガーゼロ",
+  "ja": "ライガーゼロ",
+  "en": "LIGER ZERO",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x17b8"
+  ],
+  "kind": "zoid",
+  "index": 3
+ },
+ {
+  "id": "zoid:モルガ",
+  "ja": "モルガ",
+  "en": "MOLGA",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x1fa0"
+  ],
+  "kind": "zoid",
+  "index": 4
+ },
+ {
+  "id": "zoid:バーサークフューラー",
+  "ja": "バーサークフューラー",
+  "en": "BERSERK FURY",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x2788"
+  ],
+  "kind": "zoid",
+  "index": 5
+ },
+ {
+  "id": "zoid:ＢＦ シュトゥルム",
+  "ja": "ＢＦ シュトゥルム",
+  "en": "BF STURM",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x2f70"
+  ],
+  "kind": "zoid",
+  "index": 6
+ },
+ {
+  "id": "zoid:ケーニッヒウルフ",
+  "ja": "ケーニッヒウルフ",
+  "en": "KONIG WOLF",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x3758"
+  ],
+  "kind": "zoid",
+  "index": 7
+ },
+ {
+  "id": "zoid:ブレードライガー",
+  "ja": "ブレードライガー",
+  "en": "BLADE LIGER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x3f40"
+  ],
+  "kind": "zoid",
+  "index": 8
+ },
+ {
+  "id": "zoid:シャドーフォックス",
+  "ja": "シャドーフォックス",
+  "en": "SHADOW FOX",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x4728"
+  ],
+  "kind": "zoid",
+  "index": 9
+ },
+ {
+  "id": "zoid:ＬＺ イエーガー",
+  "ja": "ＬＺ イエーガー",
+  "en": "LZ JAEGER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x4f10"
+  ],
+  "kind": "zoid",
+  "index": 10
+ },
+ {
+  "id": "zoid:ＬＺ シュナイダー",
+  "ja": "ＬＺ シュナイダー",
+  "en": "LZ SCHNEIDER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x56f8"
+  ],
+  "kind": "zoid",
+  "index": 11
+ },
+ {
+  "id": "zoid:ＬＺ パンツァー",
+  "ja": "ＬＺ パンツァー",
+  "en": "LZ PANZER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x5ee0"
+  ],
+  "kind": "zoid",
+  "index": 12
+ },
+ {
+  "id": "zoid:ＬＺ イクス",
+  "ja": "ＬＺ イクス",
+  "en": "LZ X",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x66c8"
+  ],
+  "kind": "zoid",
+  "index": 13
+ },
+ {
+  "id": "zoid:ライトニングサイクス",
+  "ja": "ライトニングサイクス",
+  "en": "LIGHTNING SAIX",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x6eb0"
+  ],
+  "kind": "zoid",
+  "index": 14
+ },
+ {
+  "id": "zoid:ゴジュラス",
+  "ja": "ゴジュラス",
+  "en": "GOJULAS",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x7698"
+  ],
+  "kind": "zoid",
+  "index": 15
+ },
+ {
+  "id": "zoid:ゴジュラス ジ オーガ",
+  "ja": "ゴジュラス ジ オーガ",
+  "en": "GOJULAS THE OGRE",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x7e80"
+  ],
+  "kind": "zoid",
+  "index": 16
+ },
+ {
+  "id": "zoid:ゴジュラス ギガ",
+  "ja": "ゴジュラス ギガ",
+  "en": "GOJULAS GIGA",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x8668"
+  ],
+  "kind": "zoid",
+  "index": 17
+ },
+ {
+  "id": "zoid:ジェノブレイカー",
+  "ja": "ジェノブレイカー",
+  "en": "GENO BREAKER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x8e50"
+  ],
+  "kind": "zoid",
+  "index": 18
+ },
+ {
+  "id": "zoid:ジェノザウラー",
+  "ja": "ジェノザウラー",
+  "en": "GENO SAURER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x9638"
+  ],
+  "kind": "zoid",
+  "index": 19
+ },
+ {
+  "id": "zoid:サイコ ジェノザウラー",
+  "ja": "サイコ ジェノザウラー",
+  "en": "PSYCHO GENO SAURER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x9e20"
+  ],
+  "kind": "zoid",
+  "index": 20
+ },
+ {
+  "id": "zoid:デスザウラー",
+  "ja": "デスザウラー",
+  "en": "DEATH SAURER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0xa608"
+  ],
+  "kind": "zoid",
+  "index": 21
+ },
+ {
+  "id": "zoid:デススティンガー",
+  "ja": "デススティンガー",
+  "en": "DEATH STINGER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0xadf0"
+  ],
+  "kind": "zoid",
+  "index": 22
+ },
+ {
+  "id": "zoid:アイアンコング",
+  "ja": "アイアンコング",
+  "en": "IRON KONG",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0xb5d8"
+  ],
+  "kind": "zoid",
+  "index": 23
+ },
+ {
+  "id": "zoid:アイアンコング ＰＫ",
+  "ja": "アイアンコング ＰＫ",
+  "en": "IRON KONG PK",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0xbdc0"
+  ],
+  "kind": "zoid",
+  "index": 24
+ },
+ {
+  "id": "zoid:ガンスナイパー",
+  "ja": "ガンスナイパー",
+  "en": "GUN SNIPER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0xc5a8"
+  ],
+  "kind": "zoid",
+  "index": 25
+ },
+ {
+  "id": "zoid:欠番",
+  "ja": "欠番",
+  "en": "N/A",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0xcd90",
+   "etc/n_Zoid.dat:0xe548",
+   "etc/n_Zoid.dat:0xed30",
+   "etc/n_Zoid.dat:0x13458",
+   "etc/n_Zoid.dat:0x13c40",
+   "etc/n_Zoid.dat:0x14428",
+   "etc/n_Zoid.dat:0x153f8",
+   "etc/n_Zoid.dat:0x15be0",
+   "etc/n_Zoid.dat:0x163c8",
+   "etc/n_Zoid.dat:0x16bb0",
+   "etc/n_Zoid.dat:0x17398",
+   "etc/n_Zoid.dat:0x17b80",
+   "etc/n_Zoid.dat:0x18368",
+   "etc/n_Zoid.dat:0x18b50",
+   "etc/n_Zoid.dat:0x19338",
+   "etc/n_Zoid.dat:0x19b20",
+   "etc/n_Zoid.dat:0x1a308",
+   "etc/n_Zoid.dat:0x1aaf0",
+   "etc/n_Zoid.dat:0x1b2d8",
+   "etc/n_Zoid.dat:0x1bac0",
+   "etc/n_Zoid.dat:0x1c2a8",
+   "etc/n_Zoid.dat:0x1ca90",
+   "etc/n_Zoid.dat:0x1d278",
+   "etc/n_Zoid.dat:0x1da60",
+   "etc/n_Zoid.dat:0x1e248",
+   "etc/n_Zoid.dat:0x1ea30",
+   "etc/n_Zoid.dat:0x1f218",
+   "etc/n_Zoid.dat:0x1fa00",
+   "etc/n_Zoid.dat:0x201e8",
+   "etc/n_Zoid.dat:0x209d0",
+   "etc/n_Zoid.dat:0x211b8",
+   "etc/n_Zoid.dat:0x219a0",
+   "etc/n_Zoid.dat:0x22188",
+   "etc/n_Zoid.dat:0x22970",
+   "etc/n_Zoid.dat:0x23158",
+   "etc/n_Zoid.dat:0x23940",
+   "etc/n_Zoid.dat:0x24128",
+   "etc/n_Zoid.dat:0x24910",
+   "etc/n_Zoid.dat:0x250f8",
+   "etc/n_Zoid.dat:0x258e0",
+   "etc/n_Zoid.dat:0x260c8",
+   "etc/n_Zoid.dat:0x268b0",
+   "etc/n_Zoid.dat:0x27098",
+   "etc/n_Zoid.dat:0x27880",
+   "etc/n_Zoid.dat:0x28068",
+   "etc/n_Zoid.dat:0x28850",
+   "etc/n_Zoid.dat:0x29038",
+   "etc/n_Zoid.dat:0x29820",
+   "etc/n_Zoid.dat:0x2a008",
+   "etc/n_Zoid.dat:0x2a7f0",
+   "etc/n_Zoid.dat:0x2afd8",
+   "etc/n_Zoid.dat:0x2b7c0",
+   "etc/n_Zoid.dat:0x2bfa8",
+   "etc/n_Zoid.dat:0x2c790",
+   "etc/n_Zoid.dat:0x2cf78",
+   "etc/n_Zoid.dat:0x2d760",
+   "etc/n_Zoid.dat:0x2df48",
+   "etc/n_Zoid.dat:0x2e730",
+   "etc/n_Zoid.dat:0x2ef18",
+   "etc/n_Zoid.dat:0x2f700",
+   "etc/n_Zoid.dat:0x2fee8"
+  ],
+  "kind": "zoid",
+  "index": 26
+ },
+ {
+  "id": "zoid:スナイプマスター",
+  "ja": "スナイプマスター",
+  "en": "SNIPE MASTER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0xd578"
+  ],
+  "kind": "zoid",
+  "index": 27
+ },
+ {
+  "id": "zoid:セイバータイガー",
+  "ja": "セイバータイガー",
+  "en": "ZABER FANG",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0xdd60"
+  ],
+  "kind": "zoid",
+  "index": 28
+ },
+ {
+  "id": "zoid:ダークホーン",
+  "ja": "ダークホーン",
+  "en": "DARK HORN",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0xf518"
+  ],
+  "kind": "zoid",
+  "index": 31
+ },
+ {
+  "id": "zoid:ダークスパイナー",
+  "ja": "ダークスパイナー",
+  "en": "DARK SPINER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0xfd00"
+  ],
+  "kind": "zoid",
+  "index": 32
+ },
+ {
+  "id": "zoid:レッドホーン",
+  "ja": "レッドホーン",
+  "en": "RED HORN",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x104e8"
+  ],
+  "kind": "zoid",
+  "index": 33
+ },
+ {
+  "id": "zoid:レブラプター",
+  "ja": "レブラプター",
+  "en": "REV RAPTOR",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x10cd0"
+  ],
+  "kind": "zoid",
+  "index": 34
+ },
+ {
+  "id": "zoid:ディアブロタイガーα",
+  "ja": "ディアブロタイガーα",
+  "en": "DIABLO TIGER ALPHA",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x114b8"
+  ],
+  "kind": "zoid",
+  "index": 35
+ },
+ {
+  "id": "zoid:ディアブロタイガーβ",
+  "ja": "ディアブロタイガーβ",
+  "en": "DIABLO TIGER BETA",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x11ca0"
+  ],
+  "kind": "zoid",
+  "index": 36
+ },
+ {
+  "id": "zoid:サイクロプス弐式",
+  "ja": "サイクロプス弐式",
+  "en": "CYCLOPS TYPE II",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x12488"
+  ],
+  "kind": "zoid",
+  "index": 37
+ },
+ {
+  "id": "zoid:サイクロプス壱式",
+  "ja": "サイクロプス壱式",
+  "en": "CYCLOPS TYPE I",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x12c70"
+  ],
+  "kind": "zoid",
+  "index": 38
+ },
+ {
+  "id": "zoid:サラマンダー",
+  "ja": "サラマンダー",
+  "en": "SALAMANDER",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x14c10"
+  ],
+  "kind": "zoid",
+  "index": 42
+ },
+ {
+  "id": "zoid:パーフェクトゾイド",
+  "ja": "パーフェクトゾイド",
+  "en": "PERFECT ZOID",
+  "cap": 31,
+  "where": [
+   "etc/n_Zoid.dat:0x30eb8"
+  ],
+  "kind": "zoid",
+  "index": 99
+ }
+]

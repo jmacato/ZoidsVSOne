@@ -1,0 +1,11 @@
+wait 45
+shot 01_memcard
+press A 1
+wait 30
+shot 02_title
+press START 1
+wait 15
+shot 03_menu
+press D_DOWN 1
+wait 6
+shot 04_menu_down

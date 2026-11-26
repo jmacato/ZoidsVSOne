@@ -1,0 +1,1752 @@
+[
+ {
+  "id": 100,
+  "offset": 8562,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\n　　ＶＳモードを終了して、　　　\r\n　　タイトル画面へ戻ります。　　\r\n　　よろしいですか？　　　　　　",
+  "en": "\r\n  Quit VS Mode and return to\r\n  the title screen?\r\n  Are you sure?"
+ },
+ {
+  "id": 101,
+  "offset": 8698,
+  "bytes": 100,
+  "ja": "設立間もない試作機戦闘試験小隊　\r\n「ブルーユニコン」に新兵が配属さ\r\nれた。　　　　　　　　　　　　　",
+  "en": "A newly formed prototype combat\r\ntest squad, \"Blue Unicorn,\"\r\nhas received its new recruits."
+ },
+ {
+  "id": 102,
+  "offset": 8800,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「さあて、オレの小隊にきた新兵　\r\n　さんというのはお前たちか？」　",
+  "en": "Albane\r\n\"Well, well. So you two are the\r\n rookies they sent my squad?\""
+ },
+ {
+  "id": 103,
+  "offset": 8902,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「ザン・フェールです！」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Zan Fel, sir!\"\r\n"
+ },
+ {
+  "id": 104,
+  "offset": 9004,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「ティータ・ブリーズです！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Tita Breeze, sir!\"\r\n"
+ },
+ {
+  "id": 105,
+  "offset": 9106,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「オレが隊長のアルバーンだ。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"I'm Albane, your captain.\"\r\n"
+ },
+ {
+  "id": 106,
+  "offset": 9208,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「わかっていると思うがここは主に\r\n　新型機体をテストする小隊だ。」",
+  "en": "Albane\r\n\"I'm sure you know this squad's\r\n main job is testing new Zoids.\""
+ },
+ {
+  "id": 107,
+  "offset": 9310,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「さっそくだが、まずは新型ゾイド\r\n　を使い模擬戦を行う。」　　　　",
+  "en": "Albane\r\n\"Straight to business. First,\r\n a mock battle in a new Zoid.\""
+ },
+ {
+  "id": 108,
+  "offset": 9412,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「ザン！いよいよね。」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Zan! This is it!\"\r\n"
+ },
+ {
+  "id": 109,
+  "offset": 9514,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「ああ、がんばろうぜ！」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Yeah! Let's knock 'em dead!\"\r\n"
+ },
+ {
+  "id": 110,
+  "offset": 9616,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ひよっこども、出撃だ！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Alright, greenhorns, move out!\"\r\n"
+ },
+ {
+  "id": 111,
+  "offset": 9718,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 112,
+  "offset": 9820,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「よし、やったぜ！！」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Alright! We did it!!\"\r\n"
+ },
+ {
+  "id": 113,
+  "offset": 9922,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「ザン、はしゃぎ過ぎよ。」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Zan, don't get carried away.\"\r\n"
+ },
+ {
+  "id": 114,
+  "offset": 10024,
+  "bytes": 100,
+  "ja": "共和国兵　　　　　　　　　　　　\r\n「うわぁぁぁぁーー！！」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Republic Soldier\r\n\"Aaaaaaagh!!\"\r\n"
+ },
+ {
+  "id": 115,
+  "offset": 10126,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「なんだ！？」　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"What was that!?\"\r\n"
+ },
+ {
+  "id": 116,
+  "offset": 10228,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「基地内に帝国軍を確認！　　　　\r\n　奇襲です！！」　　　　　　　　",
+  "en": "Tita\r\n\"Imperial troops on base!\r\n It's a surprise attack!!\""
+ },
+ {
+  "id": 117,
+  "offset": 10330,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「くっ！模擬戦闘機では応戦は無理\r\n　か。仕方ない、脱出するぞ！」　",
+  "en": "Albane\r\n\"Tch! Our training units can't\r\n fight this. We're pulling out!\""
+ },
+ {
+  "id": 118,
+  "offset": 10432,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「隊長、危ない！！」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Captain, look out!!\"\r\n"
+ },
+ {
+  "id": 119,
+  "offset": 10534,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「！！」　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"!!\"\r\n"
+ },
+ {
+  "id": 120,
+  "offset": 10636,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「うっ…」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Ugh...\"\r\n"
+ },
+ {
+  "id": 121,
+  "offset": 10738,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「隊長！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Captain!!\"\r\n"
+ },
+ {
+  "id": 122,
+  "offset": 10840,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「だ、大丈夫だ、心配するな…。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"I-I'm fine. Don't worry...\"\r\n"
+ },
+ {
+  "id": 123,
+  "offset": 10942,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「でも隊長…。」　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"But Captain...\"\r\n"
+ },
+ {
+  "id": 124,
+  "offset": 11044,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「心配ない！それよりここから脱出\r\n　する…！」　　　　　　　　　　",
+  "en": "Albane\r\n\"I said I'm fine! Right now we\r\n need to get out of here...!\""
+ },
+ {
+  "id": 125,
+  "offset": 11146,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「…ぐはっ！！…」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"...Gah!!...\"\r\n"
+ },
+ {
+  "id": 126,
+  "offset": 11248,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「隊長！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Captain!!\"\r\n"
+ },
+ {
+  "id": 127,
+  "offset": 11350,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「無理です！その体では…」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"You can't! Not like this...\"\r\n"
+ },
+ {
+  "id": 128,
+  "offset": 11452,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「すまない…、オレを置いてお前達\r\n　だけでも脱出しろ。」　　　　　",
+  "en": "Albane\r\n\"Sorry... Leave me. At least you\r\n two can still make it out.\""
+ },
+ {
+  "id": 129,
+  "offset": 11554,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「隊長！！ここはオレとティータで\r\n　くい止めます。」　　　　　　　",
+  "en": "Zan\r\n\"Captain!! Tita and I will hold\r\n them off here.\""
+ },
+ {
+  "id": 130,
+  "offset": 11656,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「その間に脱出してください。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Get yourself out of here, sir!\"\r\n"
+ },
+ {
+  "id": 131,
+  "offset": 11758,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ザン…、ティータ…………………\r\n　すまない…。」　　　　　　　　",
+  "en": "Albane\r\n\"Zan... Tita............\r\n Thank you...\""
+ },
+ {
+  "id": 132,
+  "offset": 11860,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「いいか無理するな。生き残ること\r\n　だけ考えろ！」　　　　　　　　",
+  "en": "Albane\r\n\"Listen, don't push it. Just\r\n focus on staying alive!\""
+ },
+ {
+  "id": 133,
+  "offset": 11962,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「オレもできる限り援護する！」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"I'll cover you however I can!\"\r\n"
+ },
+ {
+  "id": 134,
+  "offset": 12064,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 135,
+  "offset": 12166,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「何とか脱出できたようですね。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Looks like we made it out.\"\r\n"
+ },
+ {
+  "id": 136,
+  "offset": 12268,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ああ…うまくいったな」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Yeah... nicely done.\"\r\n"
+ },
+ {
+  "id": 137,
+  "offset": 12370,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「待って！何か通信が…」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Wait! Incoming transmission...\"\r\n"
+ },
+ {
+  "id": 138,
+  "offset": 12472,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「んっ！！帝国のコードだな。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Hm!! That's an Imperial code.\"\r\n"
+ },
+ {
+  "id": 139,
+  "offset": 12574,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「ということは…。」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Which means...\"\r\n"
+ },
+ {
+  "id": 140,
+  "offset": 12676,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「近くにいます！」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"They're close by!\"\r\n"
+ },
+ {
+  "id": 141,
+  "offset": 12778,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「なんだってこんな時に！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Why now, of all times!\"\r\n"
+ },
+ {
+  "id": 142,
+  "offset": 12880,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「…どうも様子がヘンです。」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"...Something's not right.\"\r\n"
+ },
+ {
+  "id": 143,
+  "offset": 12982,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「どうやら帝国のタイガー部隊のよ\r\n　うだな。」　　　　　　　　　　",
+  "en": "Albane\r\n\"Looks like one of the Empire's\r\n Tiger units.\""
+ },
+ {
+  "id": 144,
+  "offset": 13084,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「こちらに接近してきます！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"They're heading our way!\"\r\n"
+ },
+ {
+  "id": 145,
+  "offset": 13186,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ここで待っているのは不利だな。\r\n　よし、先手を打つ！」　　　　　",
+  "en": "Albane\r\n\"Waiting here is a losing game.\r\n Right, we strike first!\""
+ },
+ {
+  "id": 146,
+  "offset": 13288,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「いくぞ！！」　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Let's go!!\"\r\n"
+ },
+ {
+  "id": 147,
+  "offset": 13390,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 148,
+  "offset": 13492,
+  "bytes": 100,
+  "ja": "ブルーユニコンはアルバーンの　　\r\n治療のために市街地に到着した。　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Blue Unicorn reached the city\r\nso Albane could get treatment.\r\n"
+ },
+ {
+  "id": 149,
+  "offset": 13594,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「隊長！もう大丈夫なのですか？」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Captain! Are you okay now?\"\r\n"
+ },
+ {
+  "id": 150,
+  "offset": 13696,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ああ、この通りだ。傷はほぼ完治\r\n　した。」　　　　　　　　　　　",
+  "en": "Albane\r\n\"Yep, see for yourself. I'm just\r\n about healed up.\""
+ },
+ {
+  "id": 151,
+  "offset": 13798,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「これでブルーユニコンも本格的に\r\n　活動できますね。」　　　　　　",
+  "en": "Tita\r\n\"Now Blue Unicorn can finally\r\n get down to real work.\""
+ },
+ {
+  "id": 152,
+  "offset": 13900,
+  "bytes": 100,
+  "ja": "共和国兵　　　　　　　　　　　　\r\n「たいへんです！帝国軍が市街地に\r\n　攻撃を始めました！」　　　　　",
+  "en": "Republic Soldier\r\n\"Trouble! The Empire's attacking\r\n the city!\""
+ },
+ {
+  "id": 153,
+  "offset": 14002,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「何だって！どうして…」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"What!? But how...\"\r\n"
+ },
+ {
+  "id": 154,
+  "offset": 14104,
+  "bytes": 100,
+  "ja": "共和国兵　　　　　　　　　　　　\r\n「わかりません！敵は姿を消してい\r\n　たので発見が遅れました。」　　",
+  "en": "Republic Soldier\r\n\"No idea! The enemy was cloaked,\r\n so we spotted them too late!\""
+ },
+ {
+  "id": 155,
+  "offset": 14206,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「光学迷彩か…。」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Optical camouflage, huh...\"\r\n"
+ },
+ {
+  "id": 156,
+  "offset": 14308,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ザン、ティータ、行くぞ！　　　\r\n　ブルーユニコン、出撃！」　　　",
+  "en": "Albane\r\n\"Zan, Tita, let's go!\r\n Blue Unicorn, move out!\""
+ },
+ {
+  "id": 157,
+  "offset": 14410,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 158,
+  "offset": 14512,
+  "bytes": 100,
+  "ja": "市街地の戦闘中、ブルーユニコンに\r\n共和国航空基地より、緊急の通信が\r\n入った。　　　　　　　　　　　　",
+  "en": "Mid-battle in the city, Blue\r\nUnicorn got an urgent call from\r\na Republic air base."
+ },
+ {
+  "id": 159,
+  "offset": 14614,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「隊長、航空基地より通信！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Captain, the air base is\r\n calling in!\""
+ },
+ {
+  "id": 160,
+  "offset": 14716,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「帝国軍から攻撃を受けているとの\r\n　報告です。」　　　　　　　　　",
+  "en": "Tita\r\n\"They say they're under attack\r\n by Imperial forces.\""
+ },
+ {
+  "id": 161,
+  "offset": 14818,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「隊長、助けに行きましょう！」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Captain, let's go help them!\"\r\n"
+ },
+ {
+  "id": 162,
+  "offset": 14920,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「でも、航空基地までの距離だと今\r\n　からでは間に合わないかも…。」",
+  "en": "Tita\r\n\"But the air base is so far,\r\n we may not make it in time...\""
+ },
+ {
+  "id": 163,
+  "offset": 15022,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「隊長！」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Captain!\"\r\n"
+ },
+ {
+  "id": 164,
+  "offset": 15124,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「よし！たとえダメでも待ってるわ\r\n　けにはいかない！」　　　　　　",
+  "en": "Albane\r\n\"Right! Even if it's hopeless,\r\n we can't just sit here!\""
+ },
+ {
+  "id": 165,
+  "offset": 15226,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「よっしゃあ！やるぞー！！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Alright! Let's do this!!\"\r\n"
+ },
+ {
+  "id": 166,
+  "offset": 15328,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「隊長機を撃破して街を抜けるぞ！\r\n　出撃だ！」　　　　　　　　　　",
+  "en": "Albane\r\n\"Take out their commander and\r\n break through the city! Go!\""
+ },
+ {
+  "id": 167,
+  "offset": 15430,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 168,
+  "offset": 15532,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「しかし今この場を離れるわけには\r\n　いかんな…。」　　　　　　　　",
+  "en": "Albane\r\n\"But we can't leave this place\r\n right now...\""
+ },
+ {
+  "id": 169,
+  "offset": 15634,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「くっ…！！」　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Dang it...!!\"\r\n"
+ },
+ {
+  "id": 170,
+  "offset": 15736,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「隊長！航空基地に援軍が到着した\r\n　との報告です！」　　　　　　　",
+  "en": "Tita\r\n\"Captain! Reinforcements have\r\n reached the air base!\""
+ },
+ {
+  "id": 171,
+  "offset": 15838,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「そうか、オレ達もここを片付けて\r\n　航空基地へ向かうぞ！」　　　　",
+  "en": "Albane\r\n\"Good. We'll mop up here, then\r\n head for the air base!\""
+ },
+ {
+  "id": 172,
+  "offset": 15940,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「いそげ！！」　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Hurry!!\"\r\n"
+ },
+ {
+  "id": 173,
+  "offset": 16042,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 174,
+  "offset": 16144,
+  "bytes": 100,
+  "ja": "市街を脱出したブルーユニコンは、\r\n航空基地への途中で、帝国軍同士の\r\n戦闘を目撃した。　　　　　　　　",
+  "en": "Leaving the city for the air\r\nbase, Blue Unicorn witnessed a\r\nbattle between Imperial units."
+ },
+ {
+  "id": 175,
+  "offset": 16246,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「あれは…。」　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"What is that...?\"\r\n"
+ },
+ {
+  "id": 176,
+  "offset": 16348,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ザン！見えるか？」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Zan! You seeing this?\"\r\n"
+ },
+ {
+  "id": 177,
+  "offset": 16450,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「ん？…帝国軍のゾイドだ！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Huh? ...Those are\r\n Imperial Zoids!\""
+ },
+ {
+  "id": 178,
+  "offset": 16552,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「まさか、ケンカかしら？」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Don't tell me it's a squabble?\"\r\n"
+ },
+ {
+  "id": 179,
+  "offset": 16654,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「！！」　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"!!\"\r\n"
+ },
+ {
+  "id": 180,
+  "offset": 16756,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「あ、あれはデススティンガー！」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Th-That's a Death Stinger!\"\r\n"
+ },
+ {
+  "id": 181,
+  "offset": 16858,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「相手は帝国の小隊だな。」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"And it's fighting an Imperial\r\n squad.\""
+ },
+ {
+  "id": 182,
+  "offset": 16960,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「いったいどうしたんだろ？」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"What on earth is going on?\"\r\n"
+ },
+ {
+  "id": 183,
+  "offset": 17062,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「隊長、どうしますか？」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Captain, what do we do?\"\r\n"
+ },
+ {
+  "id": 184,
+  "offset": 17164,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「何かウラがあるようだ。」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Something's fishy here.\"\r\n"
+ },
+ {
+  "id": 185,
+  "offset": 17266,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「しかし帝国軍は帝国軍、両方とも\r\n　敵だ！」　　　　　　　　　　　",
+  "en": "Albane\r\n\"But Imperials are Imperials.\r\n They're both the enemy!\""
+ },
+ {
+  "id": 186,
+  "offset": 17368,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「目標はデススティンガーだ！！　\r\n　攻撃を集中しろ！！」　　　　　",
+  "en": "Albane\r\n\"Target the Death Stinger!!\r\n Concentrate your fire!!\""
+ },
+ {
+  "id": 187,
+  "offset": 17470,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 188,
+  "offset": 17572,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「ちっ、共和国軍か…。」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"Tch, the Republic...\"\r\n"
+ },
+ {
+  "id": 189,
+  "offset": 17674,
+  "bytes": 100,
+  "ja": "リバイアス　　　　　　　　　　　\r\n「そこの共和国軍！余計な手出しを\r\n　するなら覚悟しろ！」　　　　　",
+  "en": "Leviathe\r\n\"You, Republic! Stick your nose\r\n in this and you'll regret it!\""
+ },
+ {
+  "id": 190,
+  "offset": 17776,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「どうもおかしい。」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Something's off.\"\r\n"
+ },
+ {
+  "id": 191,
+  "offset": 17878,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「こちら、アルバーン大尉だ！！　\r\n　帝国軍応答してくれ。」　　　　",
+  "en": "Albane\r\n\"This is Captain Albane!!\r\n Imperial forces, respond.\""
+ },
+ {
+  "id": 192,
+  "offset": 17980,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「こちら、マックス曹長だ。」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"This is Sergeant Major Max.\"\r\n"
+ },
+ {
+  "id": 193,
+  "offset": 18082,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「人手がいりそうだな。」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Looks like you need a hand.\"\r\n"
+ },
+ {
+  "id": 194,
+  "offset": 18184,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「余計なお世話だと言いたい所だが\r\n　今度ばかりは、違うようだ。」　",
+  "en": "Max\r\n\"I'd tell you to butt out, but\r\n this time, I can't afford to.\""
+ },
+ {
+  "id": 195,
+  "offset": 18286,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「私達のゾイドはすでに限界だ。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Our Zoids are already at their\r\n limit.\""
+ },
+ {
+  "id": 196,
+  "offset": 18388,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「信用できないぜ…。」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"I don't trust 'em...\"\r\n"
+ },
+ {
+  "id": 197,
+  "offset": 18490,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「この状況では選択の余地はない。\r\n　死にたくはないだろう？」　　　",
+  "en": "Max\r\n\"In this mess, we don't get to\r\n choose. Or do you want to die?\""
+ },
+ {
+  "id": 198,
+  "offset": 18592,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「決まりだな。」　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Then it's settled.\"\r\n"
+ },
+ {
+  "id": 199,
+  "offset": 18694,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「デススティンガーを攻撃だ！」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Attack the Death Stinger!\"\r\n"
+ },
+ {
+  "id": 200,
+  "offset": 18796,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「その声はザン！？」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"That voice... Zan!?\"\r\n"
+ },
+ {
+  "id": 201,
+  "offset": 18898,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「ライナー！？お前か！」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Reiner!? Is that you!?\"\r\n"
+ },
+ {
+  "id": 202,
+  "offset": 19000,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「何だお前ら、知り合いか？」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"What, you two know each other?\"\r\n"
+ },
+ {
+  "id": 203,
+  "offset": 19102,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「こいつとは、ちょっとした因縁が\r\n　ありましてね。」　　　　　　　",
+  "en": "Reiner\r\n\"Let's just say we've got some\r\n history.\""
+ },
+ {
+  "id": 204,
+  "offset": 19204,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「ライナー！昔話は後だ！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Reiner! Reminisce later!\"\r\n"
+ },
+ {
+  "id": 205,
+  "offset": 19306,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「行くぞ！出撃だ！」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Let's go! Move out!\"\r\n"
+ },
+ {
+  "id": 206,
+  "offset": 19408,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 207,
+  "offset": 19510,
+  "bytes": 100,
+  "ja": "リバイアス　　　　　　　　　　　\r\n「そこの共和国軍！余計な手出しを\r\n　するなら覚悟しろ！」　　　　　",
+  "en": "Leviathe\r\n\"You, Republic! Stick your nose\r\n in this and you'll regret it!\""
+ },
+ {
+  "id": 208,
+  "offset": 19612,
+  "bytes": 100,
+  "ja": "デススティンガーとの闘いの後で、\r\n帝国の小隊は姿を消した。　　　　\r\nそこへ、共和国のゾイドが現れた。",
+  "en": "The Imperial squad vanished\r\nafter the Death Stinger fight.\r\nThen a Republic Zoid appeared."
+ },
+ {
+  "id": 209,
+  "offset": 19714,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「あれはブレードライガー。」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"That's a Blade Liger.\"\r\n"
+ },
+ {
+  "id": 210,
+  "offset": 19816,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「なにか様子が変だな。」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Something's wrong with it.\"\r\n"
+ },
+ {
+  "id": 211,
+  "offset": 19918,
+  "bytes": 100,
+  "ja": "共和国兵　　　　　　　　　　　　\r\n「うわぁぁぁぁ！！だ、誰か！！」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Republic Soldier\r\n\"Waaagh!! S-Somebody help!!\"\r\n"
+ },
+ {
+  "id": 212,
+  "offset": 20020,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ゾイドが暴走しているのか？！」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Has the Zoid gone berserk!?\"\r\n"
+ },
+ {
+  "id": 213,
+  "offset": 20122,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「こちらに来ます！」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"It's coming this way!\"\r\n"
+ },
+ {
+  "id": 214,
+  "offset": 20224,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「暴走を食い止めるぞ！！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"We're stopping that rampage!!\"\r\n"
+ },
+ {
+  "id": 215,
+  "offset": 20326,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 216,
+  "offset": 20428,
+  "bytes": 100,
+  "ja": "デススティンガーは姿を消した。　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "The Death Stinger disappeared.\r\n\r\n"
+ },
+ {
+  "id": 217,
+  "offset": 20530,
+  "bytes": 100,
+  "ja": "ブルーユニコンは帝国の小隊、　　\r\n「ロットティガー」と一時的に協力\r\nすることになった。　　　　　　　",
+  "en": "Blue Unicorn agreed to a brief\r\nalliance with the Imperial squad\r\n\"Rottiger.\""
+ },
+ {
+  "id": 218,
+  "offset": 20632,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「デススティンガーを倒したのに、\r\n　なぜ奴らと手を組むんですか？」",
+  "en": "Reiner\r\n\"We beat the Death Stinger, so\r\n why team up with these guys?\""
+ },
+ {
+  "id": 219,
+  "offset": 20734,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「今のオレ達の状態では、仕方ない\r\n　だろ。」　　　　　　　　　　　",
+  "en": "Max\r\n\"In the shape we're in, we don't\r\n have a choice.\""
+ },
+ {
+  "id": 220,
+  "offset": 20836,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「とても戦える状態ではない…。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"We can't fight like this...\"\r\n"
+ },
+ {
+  "id": 221,
+  "offset": 20938,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「モルガの集団が接近中！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"A pack of Molgas incoming!\"\r\n"
+ },
+ {
+  "id": 222,
+  "offset": 21040,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「何、帝国か？！」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"What, Imperials!?\"\r\n"
+ },
+ {
+  "id": 223,
+  "offset": 21142,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「いえ、所属は不明です。」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"No, unknown affiliation.\"\r\n"
+ },
+ {
+  "id": 224,
+  "offset": 21244,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「ずいぶん、にぎやかだな。」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Sure is lively around here.\"\r\n"
+ },
+ {
+  "id": 225,
+  "offset": 21346,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「あんたねえ…」　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Seriously, you...\"\r\n"
+ },
+ {
+  "id": 226,
+  "offset": 21448,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「マックスとかいったな！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Hey! Max, was it?\"\r\n"
+ },
+ {
+  "id": 227,
+  "offset": 21550,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「ん？なんだ？」　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Hm? What?\"\r\n"
+ },
+ {
+  "id": 228,
+  "offset": 21652,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「お前らは邪魔だ、退却しろ。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"You're in the way. Fall back.\"\r\n"
+ },
+ {
+  "id": 229,
+  "offset": 21754,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「！！」　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"!!\"\r\n"
+ },
+ {
+  "id": 230,
+  "offset": 21856,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「…………………礼をいうぞ。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"..........I owe you one.\"\r\n"
+ },
+ {
+  "id": 231,
+  "offset": 21958,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「さっさと行け。」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Get outta here.\"\r\n"
+ },
+ {
+  "id": 232,
+  "offset": 22060,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ザン、ティータ行くぞ！！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Zan, Tita, let's go!!\"\r\n"
+ },
+ {
+  "id": 233,
+  "offset": 22162,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 234,
+  "offset": 22264,
+  "bytes": 100,
+  "ja": "難を乗り越えたブルーユニコンに　\r\n新たな任務が伝えられた。　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Fresh from that close call, Blue\r\nUnicorn received a new mission.\r\n"
+ },
+ {
+  "id": 235,
+  "offset": 22366,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「我々の基地へ帝国軍が移動中との\r\n　情報だ。」　　　　　　　　　　",
+  "en": "Albane\r\n\"Intel says Imperial forces are\r\n moving toward our base.\""
+ },
+ {
+  "id": 236,
+  "offset": 22468,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「隊長！もう逃げるのは我慢できま\r\n　せん！」　　　　　　　　　　　",
+  "en": "Zan\r\n\"Captain! I can't stand running\r\n anymore!\""
+ },
+ {
+  "id": 237,
+  "offset": 22570,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ザン、今度は逃げんよ。」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"No running this time, Zan.\"\r\n"
+ },
+ {
+  "id": 238,
+  "offset": 22672,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「帝国を倒す事が今度の指令だ。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Orders are to beat the Empire.\"\r\n"
+ },
+ {
+  "id": 239,
+  "offset": 22774,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「作戦はあるんですか？」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Do we have a plan?\"\r\n"
+ },
+ {
+  "id": 240,
+  "offset": 22876,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「谷で帝国軍を待ち伏せて、奇襲を\r\n　かける」　　　　　　　　　　　",
+  "en": "Albane\r\n\"We ambush them in the valley\r\n and hit 'em by surprise.\""
+ },
+ {
+  "id": 241,
+  "offset": 22978,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「油断するなよ！！」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Stay sharp!!\"\r\n"
+ },
+ {
+  "id": 242,
+  "offset": 23080,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 243,
+  "offset": 23182,
+  "bytes": 100,
+  "ja": "任務を無事に完了させ、基地へ帰る\r\n途中のブルーユニコン。　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Mission accomplished, Blue\r\nUnicorn headed back to base.\r\n"
+ },
+ {
+  "id": 244,
+  "offset": 23284,
+  "bytes": 100,
+  "ja": "突如、何者かに攻撃を受ける。　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Suddenly, an unknown foe struck!\r\n\r\n"
+ },
+ {
+  "id": 245,
+  "offset": 23386,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ティータ！敵はどこだ！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Tita! Where's the enemy!?\"\r\n"
+ },
+ {
+  "id": 246,
+  "offset": 23488,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「隊長！！今の攻撃は…帝国軍では\r\n　ありません！」　　　　　　　　",
+  "en": "Tita\r\n\"Captain!! That attack wasn't\r\n the Empire!\""
+ },
+ {
+  "id": 247,
+  "offset": 23590,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「なに！？」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"What!?\"\r\n"
+ },
+ {
+  "id": 248,
+  "offset": 23692,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「きょ…共和国軍です。」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"I-It's the Republic Army.\"\r\n"
+ },
+ {
+  "id": 249,
+  "offset": 23794,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「何だって！」　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"No way!\"\r\n"
+ },
+ {
+  "id": 250,
+  "offset": 23896,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「どういうことだ？…とにかく今は\r\n　応戦するしかない！」　　　　　",
+  "en": "Albane\r\n\"What's going on? ...Whatever it\r\n is, we've got to fight back!\""
+ },
+ {
+  "id": 251,
+  "offset": 23998,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「いくぞ！！」　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Let's go!!\"\r\n"
+ },
+ {
+  "id": 252,
+  "offset": 24100,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 253,
+  "offset": 24202,
+  "bytes": 100,
+  "ja": "レザール　　　　　　　　　　　　\r\n「アルバーン、味方と思って混乱し\r\n　ているようだな。」　　　　　　",
+  "en": "Lezard\r\n\"Albane's rattled. He thought we\r\n were on his side.\""
+ },
+ {
+  "id": 254,
+  "offset": 24304,
+  "bytes": 100,
+  "ja": "無事に基地に到着することのできた\r\nブルーユニコン。　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Blue Unicorn made it safely\r\nback to base.\r\n"
+ },
+ {
+  "id": 255,
+  "offset": 24406,
+  "bytes": 100,
+  "ja": "しかし、そこでもまた帝国の攻撃を\r\n受ける。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "But even there, the Empire\r\nattacked them.\r\n"
+ },
+ {
+  "id": 256,
+  "offset": 24508,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「隊長！」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Captain!\"\r\n"
+ },
+ {
+  "id": 257,
+  "offset": 24610,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「また味方じゃないだろうな…。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Don't tell me it's our own side\r\n again...\""
+ },
+ {
+  "id": 258,
+  "offset": 24712,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「違います、今度は帝国軍です！」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"No, this time it's the Empire!\"\r\n"
+ },
+ {
+  "id": 259,
+  "offset": 24814,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「さっきは味方今度は帝国！隊長！\r\n　我々は人気抜群ですね。」　　　",
+  "en": "Zan\r\n\"First our side, now the Empire!\r\n We're sure popular, Captain!\""
+ },
+ {
+  "id": 260,
+  "offset": 24916,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「オレに感謝しろよ。」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"You can thank me for that.\"\r\n"
+ },
+ {
+  "id": 261,
+  "offset": 25018,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「おっと、無駄口をたたいている場\r\n　合じゃないようだ。」　　　　　",
+  "en": "Albane\r\n\"Whoops, guess this is no time\r\n for chitchat.\""
+ },
+ {
+  "id": 262,
+  "offset": 25120,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「敵ゾイド、基地内へ侵入！！」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Enemy Zoids inside the base!!\"\r\n"
+ },
+ {
+  "id": 263,
+  "offset": 25222,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「来た！」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Here they come!\"\r\n"
+ },
+ {
+  "id": 264,
+  "offset": 25324,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ザン、ティータ！行くぞ！！」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Zan, Tita! Let's go!!\"\r\n"
+ },
+ {
+  "id": 265,
+  "offset": 25426,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 266,
+  "offset": 25528,
+  "bytes": 100,
+  "ja": "ブルーユニコンは、帝国の攻撃から\r\n基地を守った。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Blue Unicorn defended the base\r\nfrom the Imperial assault.\r\n"
+ },
+ {
+  "id": 267,
+  "offset": 25630,
+  "bytes": 100,
+  "ja": "そんな時、謎の通信を受信した。　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Then they picked up a mysterious\r\ntransmission.\r\n"
+ },
+ {
+  "id": 268,
+  "offset": 25732,
+  "bytes": 100,
+  "ja": "それは帝国軍のゾイド開発基地で、\r\n新型ゾイドを開発しているという、\r\n情報だった。　　　　　　　　　　",
+  "en": "It claimed an Imperial Zoid\r\ndevelopment base was building a\r\nnew model of Zoid."
+ },
+ {
+  "id": 269,
+  "offset": 25834,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「隊長。この通信どう思います？」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Captain, what do you make of\r\n this message?\""
+ },
+ {
+  "id": 270,
+  "offset": 25936,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ただのデマとも思えん。」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"I doubt it's just a rumor.\"\r\n"
+ },
+ {
+  "id": 271,
+  "offset": 26038,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「でも帝国の仕掛けたワナの　　　\r\n　可能性もありますよ。」　　　　",
+  "en": "Tita\r\n\"But it could be a trap set by\r\n the Empire.\""
+ },
+ {
+  "id": 272,
+  "offset": 26140,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「新型ゾイドの開発をしてるなら、\r\n　黙ってるわけにはいかないさ。」",
+  "en": "Zan\r\n\"If they're building a new Zoid,\r\n we can't just sit back!\""
+ },
+ {
+  "id": 273,
+  "offset": 26242,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「調査に行くぞ！！　　　　　　　\r\n　ブルーユニコン、出撃！！」　　",
+  "en": "Albane\r\n\"We're going to investigate!!\r\n Blue Unicorn, move out!!\""
+ },
+ {
+  "id": 274,
+  "offset": 26344,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 275,
+  "offset": 26446,
+  "bytes": 100,
+  "ja": "開発基地で見つけた新型のゾイドは\r\nライガーゼロであった。　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "The new Zoid at the development\r\nbase was the Liger Zero.\r\n"
+ },
+ {
+  "id": 276,
+  "offset": 26548,
+  "bytes": 100,
+  "ja": "ブルーユニコンはライガーゼロを　\r\n奪取しようとしたが…。　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Blue Unicorn tried to seize the\r\nLiger Zero, but...\r\n"
+ },
+ {
+  "id": 277,
+  "offset": 26650,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「！？おまえたちはあの時の！！」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"!? It's you guys from before!!\"\r\n"
+ },
+ {
+  "id": 278,
+  "offset": 26752,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「おっと、そう簡単に渡すわけには\r\n　いかないな。」　　　　　　　　",
+  "en": "Reiner\r\n\"Whoa there, we're not handing\r\n it over that easily.\""
+ },
+ {
+  "id": 279,
+  "offset": 26854,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「あんた達とは縁があるようね。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"We meet again. Must be fate.\"\r\n"
+ },
+ {
+  "id": 280,
+  "offset": 26956,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「このロットティガーを倒せたら　\r\n　持っていくんだな。」　　　　　",
+  "en": "Max\r\n\"Get past Rottiger, and it's\r\n all yours.\""
+ },
+ {
+  "id": 281,
+  "offset": 27058,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ザン、ティータ、行くぞ！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Zan, Tita, let's go!\"\r\n"
+ },
+ {
+  "id": 282,
+  "offset": 27160,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「了解！今度こそ勝負だ！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Roger! This time we settle it!\"\r\n"
+ },
+ {
+  "id": 283,
+  "offset": 27262,
+  "bytes": 100,
+  "ja": "戦いに勝利しライガーゼロの奪取に\r\n成功したブルーユニコン。　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Victorious, Blue Unicorn secured\r\nthe Liger Zero.\r\n"
+ },
+ {
+  "id": 284,
+  "offset": 27364,
+  "bytes": 100,
+  "ja": "基地への帰りにまたも、敵の攻撃を\r\n受ける。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "On the way back to base, they\r\ncame under attack again.\r\n"
+ },
+ {
+  "id": 285,
+  "offset": 27466,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「隊長！また共和国軍です。」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Captain! Our own side, again.\"\r\n"
+ },
+ {
+  "id": 286,
+  "offset": 27568,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「いい加減にしろよな！」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Give it a rest already!\"\r\n"
+ },
+ {
+  "id": 287,
+  "offset": 27670,
+  "bytes": 100,
+  "ja": "レザール　　　　　　　　　　　　\r\n「アルバーン。久しぶりだな。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Lezard\r\n\"Albane. It's been a while.\"\r\n"
+ },
+ {
+  "id": 288,
+  "offset": 27772,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「き、きさまレザール！」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Wh-Why, you... Lezard!\"\r\n"
+ },
+ {
+  "id": 289,
+  "offset": 27874,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「どうして、お前が？！」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"What are you doing here!?\"\r\n"
+ },
+ {
+  "id": 290,
+  "offset": 27976,
+  "bytes": 100,
+  "ja": "レザール　　　　　　　　　　　　\r\n「貴様に話す必要はない。」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Lezard\r\n\"You don't need to know.\"\r\n"
+ },
+ {
+  "id": 291,
+  "offset": 28078,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「えっ！隊長の知り合い？」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Huh! The Captain knows him?\"\r\n"
+ },
+ {
+  "id": 292,
+  "offset": 28180,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ザン！ティータ！気をつけろ！　\r\n　こいつは強敵だ！」　　　　　　",
+  "en": "Albane\r\n\"Zan! Tita! Watch yourselves!\r\n He's a dangerous opponent!\""
+ },
+ {
+  "id": 293,
+  "offset": 28282,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「相手はたった二機だ！勝負をつけ\r\n　てやる！！」　　　　　　　　　",
+  "en": "Zan\r\n\"There's only two of 'em! Let's\r\n finish this!!\""
+ },
+ {
+  "id": 294,
+  "offset": 28384,
+  "bytes": 100,
+  "ja": "ガルド　　　　　　　　　　　　　\r\n「フ…テラガイストも甘くみられた\r\n　ものだ。」　　　　　　　　　　",
+  "en": "Gard\r\n\"Heh... How little they think of\r\n Terra Geist.\""
+ },
+ {
+  "id": 295,
+  "offset": 28486,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ブルーユニコン、出撃！！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Blue Unicorn, move out!!\"\r\n"
+ },
+ {
+  "id": 296,
+  "offset": 28588,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 297,
+  "offset": 28690,
+  "bytes": 100,
+  "ja": "テラガイストの攻撃を受け、多大な\r\nダメージを受けたブルーユニコンに\r\n新型ゾイドが補給された。　　　　",
+  "en": "Badly damaged by Terra Geist's\r\nattack, Blue Unicorn received a\r\nbrand-new Zoid."
+ },
+ {
+  "id": 298,
+  "offset": 28792,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「な、何だ！あれは！」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Wh-What the!? What is that!?\"\r\n"
+ },
+ {
+  "id": 299,
+  "offset": 28894,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「見たことないゾイドね。」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Never seen a Zoid like that.\"\r\n"
+ },
+ {
+  "id": 300,
+  "offset": 28996,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「しっかり驚け！」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Go ahead, be amazed!\"\r\n"
+ },
+ {
+  "id": 301,
+  "offset": 29098,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「あれこそ我々の新型ゾイド！！　\r\n　ゴジュラスギガだ！」　　　　　",
+  "en": "Albane\r\n\"That's our new Zoid!!\r\n The Gojulas Giga!\""
+ },
+ {
+  "id": 302,
+  "offset": 29200,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「スゲー！これで楽勝だ！！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Awesome! Now it's in the bag!!\"\r\n"
+ },
+ {
+  "id": 303,
+  "offset": 29302,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ついに完成したか。」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"So it's finally done.\"\r\n"
+ },
+ {
+  "id": 304,
+  "offset": 29404,
+  "bytes": 100,
+  "ja": "共和国兵　　　　　　　　　　　　\r\n「たいへんです！！テラガイストが\r\n　攻めてきました！！」　　　　　",
+  "en": "Republic Soldier\r\n\"Trouble!! Terra Geist is\r\n attacking!!\""
+ },
+ {
+  "id": 305,
+  "offset": 29506,
+  "bytes": 100,
+  "ja": "バイパー　　　　　　　　　　　　\r\n「きさまら共和国など我々の敵では\r\n　ない！」　　　　　　　　　　　",
+  "en": "Viper\r\n\"You Republic dogs are no match\r\n for us!\""
+ },
+ {
+  "id": 306,
+  "offset": 29608,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「隊長！」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Captain!\"\r\n"
+ },
+ {
+  "id": 307,
+  "offset": 29710,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ブルーユニコン！出撃！！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Blue Unicorn! Move out!!\"\r\n"
+ },
+ {
+  "id": 308,
+  "offset": 29812,
+  "bytes": 100,
+  "ja": "ザン＆ティータ　　　　　　　　　\r\n「了解！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan & Tita\r\n\"Roger!!\"\r\n"
+ },
+ {
+  "id": 309,
+  "offset": 29914,
+  "bytes": 100,
+  "ja": "基地から撤退するテラガイストの、\r\n追撃命令がブルーユニコンにくださ\r\nれた。　　　　　　　　　　　　　",
+  "en": "Blue Unicorn was ordered to\r\npursue Terra Geist as it\r\nretreated from the base."
+ },
+ {
+  "id": 310,
+  "offset": 30016,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「隊長！テラガイストを発見しまし\r\n　た。」　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Captain! Terra Geist spotted.\"\r\n"
+ },
+ {
+  "id": 311,
+  "offset": 30118,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ん？」　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Hm?\"\r\n"
+ },
+ {
+  "id": 312,
+  "offset": 30220,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「テラガイストの近くに見えるのは\r\n　ロットティガーじゃないか？」　",
+  "en": "Albane\r\n\"Is that Rottiger I see near\r\n Terra Geist?\""
+ },
+ {
+  "id": 313,
+  "offset": 30322,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「隊長！ロットティガーより通信　\r\n　です。」　　　　　　　　　　　",
+  "en": "Tita\r\n\"Captain! Rottiger is hailing\r\n us.\""
+ },
+ {
+  "id": 314,
+  "offset": 30424,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「何だって？」　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Say what?\"\r\n"
+ },
+ {
+  "id": 315,
+  "offset": 30526,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「通信つなげます。」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Patching them through.\"\r\n"
+ },
+ {
+  "id": 316,
+  "offset": 30628,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「こちら、マックス曹長だ。」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"This is Sergeant Major Max.\"\r\n"
+ },
+ {
+  "id": 317,
+  "offset": 30730,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「こちら、アルバーン大尉だ。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"This is Captain Albane.\"\r\n"
+ },
+ {
+  "id": 318,
+  "offset": 30832,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「こちらにも事情があって提案した\r\n　いことがある。」　　　　　　　",
+  "en": "Max\r\n\"We've got our reasons, and a\r\n proposal for you.\""
+ },
+ {
+  "id": 319,
+  "offset": 30934,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「提案？」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"A proposal?\"\r\n"
+ },
+ {
+  "id": 320,
+  "offset": 31036,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「テラガイスト追撃は我らも同じ。\r\n　ここは共同戦線を張らないか？」",
+  "en": "Max\r\n\"We're both after Terra Geist.\r\n How about joining forces?\""
+ },
+ {
+  "id": 321,
+  "offset": 31138,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「いいだろう。目的が同じなら断る\r\n　必要はない。」　　　　　　　　",
+  "en": "Albane\r\n\"Fine. Same goal, so no reason\r\n to refuse.\""
+ },
+ {
+  "id": 322,
+  "offset": 31240,
+  "bytes": 100,
+  "ja": "バイパー　　　　　　　　　　　　\r\n「ふっふっふ…我々テラガイストの\r\n　前に共和国も帝国も無い！」　　",
+  "en": "Viper\r\n\"Heh heh... Republic or Empire,\r\n it's all one to Terra Geist!\""
+ },
+ {
+  "id": 323,
+  "offset": 31342,
+  "bytes": 100,
+  "ja": "バイパー　　　　　　　　　　　　\r\n「この私に勝てると思うな！！」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Viper\r\n\"Don't think you can beat me!!\"\r\n"
+ },
+ {
+  "id": 324,
+  "offset": 31444,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「やったー！見ろ！これが共和国軍\r\n　の力だ！！」　　　　　　　　　",
+  "en": "Zan\r\n\"Yeah! Look at that! That's the\r\n power of the Republic Army!!\""
+ },
+ {
+  "id": 325,
+  "offset": 31546,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「調子にのるな！ザン！」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Don't get cocky, Zan!\"\r\n"
+ },
+ {
+  "id": 326,
+  "offset": 31648,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「元気だけは一番だな。」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"He's got spirit, I'll give him\r\n that much.\""
+ },
+ {
+  "id": 327,
+  "offset": 31750,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「新兵の小隊だったとは。」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"A squad of rookies, who knew.\"\r\n"
+ },
+ {
+  "id": 328,
+  "offset": 31852,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「それ、どういう意味ですか？」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"What's that supposed to mean?\"\r\n"
+ },
+ {
+  "id": 329,
+  "offset": 31954,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ティータ！」　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Tita!\"\r\n"
+ },
+ {
+  "id": 330,
+  "offset": 32056,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「まあ、いいじゃないか。こうして\r\n　敵を倒せたんだ。」　　　　　　",
+  "en": "Max\r\n\"Aw, let it slide. We took the\r\n enemy down, didn't we?\""
+ },
+ {
+  "id": 331,
+  "offset": 32158,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「この件は公式報告書には書かない\r\n　つもりだ。」　　　　　　　　　",
+  "en": "Albane\r\n\"I don't plan to put any of this\r\n in the official report.\""
+ },
+ {
+  "id": 332,
+  "offset": 32260,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「同感だな。お互いもめごとに巻き\r\n　込まれたくはない。」　　　　　",
+  "en": "Max\r\n\"Agreed. Neither of us needs the\r\n headache.\""
+ },
+ {
+  "id": 333,
+  "offset": 32362,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「若いの、ザンとかいったな？」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Hey, kid. Zan, was it?\"\r\n"
+ },
+ {
+  "id": 334,
+  "offset": 32464,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「見込みはありそうだ。せいぜい、\r\n　がんばるんだな。」　　　　　　",
+  "en": "Max\r\n\"You've got potential. Try not\r\n to waste it.\""
+ },
+ {
+  "id": 335,
+  "offset": 32566,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「おっさんもな！」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"You too, old man!\"\r\n"
+ },
+ {
+  "id": 336,
+  "offset": 32668,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「…全く…」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"...Kids, I swear...\"\r\n"
+ },
+ {
+  "id": 337,
+  "offset": 32770,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「かわいいボウヤね。」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"What a cute little boy.\"\r\n"
+ },
+ {
+  "id": 338,
+  "offset": 32872,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「…もう、ザンのバカ。」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"...Ugh, Zan, you idiot.\"\r\n"
+ },
+ {
+  "id": 339,
+  "offset": 32974,
+  "bytes": 100,
+  "ja": "テラガイスト。帝国内部にひそむ炎\r\nはいまだに、ゆらめいている。　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Terra Geist. The flame lurking\r\nin the Empire still flickers.\r\n"
+ },
+ {
+  "id": 340,
+  "offset": 33076,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「断る。」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"No deal.\"\r\n"
+ },
+ {
+  "id": 341,
+  "offset": 33178,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「帝国で何が起っているかは知らぬ\r\n　が我々にとって君たちも敵だ。」",
+  "en": "Albane\r\n\"Whatever's going on in the\r\n Empire, you're our enemy too.\""
+ },
+ {
+  "id": 342,
+  "offset": 33280,
+  "bytes": 100,
+  "ja": "バイパー　　　　　　　　　　　　\r\n「たいした自信だな。」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Viper\r\n\"Quite confident, aren't you?\"\r\n"
+ },
+ {
+  "id": 343,
+  "offset": 33382,
+  "bytes": 100,
+  "ja": "バイパー　　　　　　　　　　　　\r\n「我々テラガイストの前に共和国も\r\n　帝国も無い！覚悟しろ！」　　　",
+  "en": "Viper\r\n\"Republic or Empire, it's all\r\n one to Terra Geist! Now die!\""
+ },
+ {
+  "id": 344,
+  "offset": 33484,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「これで終わったな。お前たちも、\r\n　よくがんばった。」　　　　　　",
+  "en": "Albane\r\n\"That's the end of it. You two\r\n did good out there.\""
+ },
+ {
+  "id": 345,
+  "offset": 33586,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「やったー！これでオレ達も一人前\r\n　の兵士だ！」　　　　　　　　　",
+  "en": "Zan\r\n\"Yeah! Now we're real soldiers!\"\r\n"
+ },
+ {
+  "id": 346,
+  "offset": 33688,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「こらっ！これくらいでいい気にな\r\n　るな！」　　　　　　　　　　　",
+  "en": "Albane\r\n\"Hey! Don't let one win go to\r\n your head!\""
+ },
+ {
+  "id": 347,
+  "offset": 33790,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「もう、ザンったら！」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Honestly, Zan!\"\r\n"
+ },
+ {
+  "id": 348,
+  "offset": 33892,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「ごめん！ティータ。」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Sorry, Tita!\"\r\n"
+ },
+ {
+  "id": 349,
+  "offset": 33994,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「やれやれ…。」　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Good grief...\"\r\n"
+ }
+]

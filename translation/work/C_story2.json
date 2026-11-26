@@ -1,0 +1,1717 @@
+[
+ {
+  "id": 350,
+  "offset": 34096,
+  "bytes": 100,
+  "ja": "しかし「テラガイスト」が消滅した\r\nわけではない。帝国内部にうごめく\r\n炎はいまだゆらめいている。　　　",
+  "en": "But Terra Geist is not finished.\r\nWithin the Empire, its flames\r\nstill flicker in the dark."
+ },
+ {
+  "id": 351,
+  "offset": 34198,
+  "bytes": 100,
+  "ja": "帝国軍の開発基地…。　　　　　　\r\nここでは、ゾイド強化プログラムの\r\nテストが行われていた。　　　　　",
+  "en": "An Imperial development base...\r\nHere, a Zoid enhancement program\r\nwas being put through testing."
+ },
+ {
+  "id": 352,
+  "offset": 34300,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「テスト中にいきなり暴走か！」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"It went berserk in mid-test!\"\r\n"
+ },
+ {
+  "id": 353,
+  "offset": 34402,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「一体、どういうことだ…！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"What the heck is going on?!\"\r\n"
+ },
+ {
+  "id": 354,
+  "offset": 34504,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「そんなことより、隊長！！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"Never mind that, Captain!!\"\r\n"
+ },
+ {
+  "id": 355,
+  "offset": 34606,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「わかってる。強化プログラムに何\r\n　か異常が発生したようだ。」　　",
+  "en": "Claudia\r\n\"I know. Something's gone wrong\r\n with the enhancement program.\""
+ },
+ {
+  "id": 356,
+  "offset": 34708,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「相手はジェノザウラーか。」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"A Geno Saurer, huh?\"\r\n"
+ },
+ {
+  "id": 357,
+  "offset": 34810,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「我々ロットティガーには申し分　\r\n　ない相手だな。」　　　　　　　",
+  "en": "Reiner\r\n\"Now that's a worthy opponent\r\n for Rottiger.\""
+ },
+ {
+  "id": 358,
+  "offset": 34912,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「よく言った、ライナー。　　　　\r\n　ジェノザウラーを止めるぞ！」　",
+  "en": "Max\r\n\"Well said, Reiner.\r\n Let's stop that Geno Saurer!\""
+ },
+ {
+  "id": 359,
+  "offset": 35014,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「時間はあまりないようね。」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"We don't have much time.\"\r\n"
+ },
+ {
+  "id": 360,
+  "offset": 35116,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「いくぞ！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Let's go!\"\r\n"
+ },
+ {
+  "id": 361,
+  "offset": 35218,
+  "bytes": 100,
+  "ja": "ゾイド強化プログラムを暴走させた\r\nウイルスの被害は共和国軍にも拡大\r\nしていった。　　　　　　　　　　",
+  "en": "The virus that corrupted the\r\nenhancement program soon spread\r\nto the Republic Army as well."
+ },
+ {
+  "id": 362,
+  "offset": 35320,
+  "bytes": 100,
+  "ja": "そして被害は共和国の基地に広がっ\r\nていった。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "The damage spread all the way\r\nto a Republic base.\r\n"
+ },
+ {
+  "id": 363,
+  "offset": 35422,
+  "bytes": 100,
+  "ja": "そこに到着したロットティガーは、\r\n基地破壊の犯人にされてしまう。　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Arriving on the scene, Rottiger\r\nwas blamed for the destruction.\r\n"
+ },
+ {
+  "id": 364,
+  "offset": 35524,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「まずいな。我々が攻撃したと思わ\r\n　れている。」　　　　　　　　　",
+  "en": "Max\r\n\"Not good. They think we're\r\n the ones who attacked.\""
+ },
+ {
+  "id": 365,
+  "offset": 35626,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「しかし、ウイルスとはやっかいな\r\n　代物だね。」　　　　　　　　　",
+  "en": "Claudia\r\n\"Still, a virus... That's one\r\n nasty piece of work.\""
+ },
+ {
+  "id": 366,
+  "offset": 35728,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「どうして出動命令が下ったかよう\r\n　やく見えてきたわね。」　　　　",
+  "en": "Claudia\r\n\"Now I see why we got the order\r\n to deploy.\""
+ },
+ {
+  "id": 367,
+  "offset": 35830,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「どういうことですか？」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"What do you mean?\"\r\n"
+ },
+ {
+  "id": 368,
+  "offset": 35932,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「このロットティガーが特務部隊　\r\n　だからさ。」　　　　　　　　　",
+  "en": "Max\r\n\"Because Rottiger is a special\r\n ops unit.\""
+ },
+ {
+  "id": 369,
+  "offset": 36034,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「身内を調べる特務警察とも言われ\r\n　てるけど。」　　　　　　　　　",
+  "en": "Claudia\r\n\"Some call us internal affairs,\r\n since we investigate our own.\""
+ },
+ {
+  "id": 370,
+  "offset": 36136,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「今回のウイルスの件も内部犯行ら\r\n　しいからな。」　　　　　　　　",
+  "en": "Max\r\n\"This virus business looks like\r\n an inside job, too.\""
+ },
+ {
+  "id": 371,
+  "offset": 36238,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「…結構なことだな。」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"...Isn't that just great.\"\r\n"
+ },
+ {
+  "id": 372,
+  "offset": 36340,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「ライナー、覚えとけ。」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Reiner, remember this.\"\r\n"
+ },
+ {
+  "id": 373,
+  "offset": 36442,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「命令には絶対服従、それが軍だ。\r\n　反抗するとオレのようになる。」",
+  "en": "Max\r\n\"In the army, orders are law.\r\n Buck them, you end up like me.\""
+ },
+ {
+  "id": 374,
+  "offset": 36544,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「敵は共和国軍。」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Our enemy: the Republic Army.\"\r\n"
+ },
+ {
+  "id": 375,
+  "offset": 36646,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「どうする、マックス？」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"What's the call, Max?\"\r\n"
+ },
+ {
+  "id": 376,
+  "offset": 36748,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「やるしかないだろ。」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Got no choice but to fight.\"\r\n"
+ },
+ {
+  "id": 377,
+  "offset": 36850,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「気をつけろ、あまり長引かせると\r\n　不利になる。」　　　　　　　　",
+  "en": "Claudia\r\n\"Careful. The longer this drags\r\n on, the worse it gets for us.\""
+ },
+ {
+  "id": 378,
+  "offset": 36952,
+  "bytes": 100,
+  "ja": "開発中の新型ゾイド護衛のために、\r\nロットティガー隊は一時的に開発基\r\n地に留まることになった。　　　　",
+  "en": "To guard a new Zoid under\r\ndevelopment, Rottiger stayed on\r\nat the development base."
+ },
+ {
+  "id": 379,
+  "offset": 37054,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「新型ゾイドはどうやらライガー系\r\n　らしい。」　　　　　　　　　　",
+  "en": "Max\r\n\"Word is, the new Zoid is some\r\n kind of Liger.\""
+ },
+ {
+  "id": 380,
+  "offset": 37156,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「軍内部でも機密との事だ。」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"It's classified, even inside\r\n the army.\""
+ },
+ {
+  "id": 381,
+  "offset": 37258,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「ほう、ライガー系か。」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"Oh? A Liger type, huh.\"\r\n"
+ },
+ {
+  "id": 382,
+  "offset": 37360,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「共和国の奴ら狙ってくるわね。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"The Republic will come for it.\"\r\n"
+ },
+ {
+  "id": 383,
+  "offset": 37462,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「…多分な。クローディア、先手を\r\n　打つというのは？」　　　　　　",
+  "en": "Max\r\n\"...Probably. Claudia, how about\r\n we strike first?\""
+ },
+ {
+  "id": 384,
+  "offset": 37564,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「そうね、丁度私も同じ事を考えて\r\n　いた所よ。」　　　　　　　　　",
+  "en": "Claudia\r\n\"Funny, I was just thinking the\r\n same thing.\""
+ },
+ {
+  "id": 385,
+  "offset": 37666,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「決まりだな。」　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Then it's settled.\"\r\n"
+ },
+ {
+  "id": 386,
+  "offset": 37768,
+  "bytes": 100,
+  "ja": "任務に成功したロットティガー。　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Rottiger completed its mission.\r\n\r\n"
+ },
+ {
+  "id": 387,
+  "offset": 37870,
+  "bytes": 100,
+  "ja": "その後、共和国が帝国軍基地へ奇襲\r\nをかけるとの情報を、帝国軍が極秘\r\nに手に入れた。　　　　　　　　　",
+  "en": "Later, the Empire secretly\r\nlearned of a Republic plan to\r\nraid an Imperial base."
+ },
+ {
+  "id": 388,
+  "offset": 37972,
+  "bytes": 100,
+  "ja": "直ちに、ロットティガーへと、奇襲\r\n作戦を阻止するべく指令が下った。\r\n　　　　　　　　　　　　　　　　",
+  "en": "Rottiger was ordered at once to\r\nstop the surprise attack.\r\n"
+ },
+ {
+  "id": 389,
+  "offset": 38074,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「サラマンダーごときが！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"It's only a Salamander!\"\r\n"
+ },
+ {
+  "id": 390,
+  "offset": 38176,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「甘く見るな！ライナー！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Don't get careless, Reiner!\"\r\n"
+ },
+ {
+  "id": 391,
+  "offset": 38278,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「まずい、このままでは帝国の基地\r\n　に行ってしまう。」　　　　　　",
+  "en": "Max\r\n\"Not good. At this rate it'll\r\n reach the Imperial base.\""
+ },
+ {
+  "id": 392,
+  "offset": 38380,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「短期決戦だ！あいつを叩くぞ！」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Make it quick! Take it down!\"\r\n"
+ },
+ {
+  "id": 393,
+  "offset": 38482,
+  "bytes": 100,
+  "ja": "ライナー＆マックス　　　　　　　\r\n「了解！」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner & Max\r\n\"Roger!\"\r\n"
+ },
+ {
+  "id": 394,
+  "offset": 38584,
+  "bytes": 100,
+  "ja": "航空基地での作戦を無事成功させた\r\nロットティガー。　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Rottiger pulled off the mission\r\nat the air base.\r\n"
+ },
+ {
+  "id": 395,
+  "offset": 38686,
+  "bytes": 100,
+  "ja": "しかし、その基地へ帰る途中。　　\r\nウイルス汚染されたゾイドの集団と\r\n遭遇した。　　　　　　　　　　　",
+  "en": "But on the way back to base,\r\nthey ran into a pack of\r\nvirus-infected Zoids."
+ },
+ {
+  "id": 396,
+  "offset": 38788,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「ウイルス汚染はかなり拡大して　\r\n　いるみたいだな。」　　　　　　",
+  "en": "Max\r\n\"Looks like the virus has spread\r\n pretty far.\""
+ },
+ {
+  "id": 397,
+  "offset": 38890,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「しかもデススティンガーまで。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"And a Death Stinger, too.\"\r\n"
+ },
+ {
+  "id": 398,
+  "offset": 38992,
+  "bytes": 100,
+  "ja": "リバイアス　　　　　　　　　　　\r\n「…お前たちがロットティガーか、\r\n　悪いが死んでもらう。」　　　　",
+  "en": "Leviathe\r\n\"...So you are Rottiger. Nothing\r\n personal, but you must die.\""
+ },
+ {
+  "id": 399,
+  "offset": 39094,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「きさま、誰だ！」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"Who the hell are you?!\"\r\n"
+ },
+ {
+  "id": 400,
+  "offset": 39196,
+  "bytes": 100,
+  "ja": "リバイアス　　　　　　　　　　　\r\n「知る必要はない！」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Leviathe\r\n\"You don't need to know!\"\r\n"
+ },
+ {
+  "id": 401,
+  "offset": 39298,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「何だと！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"What did you say?!\"\r\n"
+ },
+ {
+  "id": 402,
+  "offset": 39400,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「待て！クローディア！」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Hold it, Claudia!\"\r\n"
+ },
+ {
+  "id": 403,
+  "offset": 39502,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「そうか噂には聞いていたが…。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"So the rumors were true...\"\r\n"
+ },
+ {
+  "id": 404,
+  "offset": 39604,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「お前もゼネバスの復活を企てる者\r\n　だな。」　　　　　　　　　　　",
+  "en": "Max\r\n\"You're one of those plotting\r\n to bring back Zenebas.\""
+ },
+ {
+  "id": 405,
+  "offset": 39706,
+  "bytes": 100,
+  "ja": "リバイアス　　　　　　　　　　　\r\n「だったら、どうする？おとなしく\r\n　降伏するか？」　　　　　　　　",
+  "en": "Leviathe\r\n\"And if I am? Will you just\r\n surrender quietly?\""
+ },
+ {
+  "id": 406,
+  "offset": 39808,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「こいつ、ただの兵士じゃない！　\r\n　気を付けろ！！」　　　　　　　",
+  "en": "Claudia\r\n\"This one's no ordinary soldier!\r\n Watch yourselves!!\""
+ },
+ {
+  "id": 407,
+  "offset": 39910,
+  "bytes": 100,
+  "ja": "ウイルス汚染の裏には帝国軍将校が\r\n絡んでいることが判明した。　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "An Imperial officer was found to\r\nbe behind the virus outbreak.\r\n"
+ },
+ {
+  "id": 408,
+  "offset": 40012,
+  "bytes": 100,
+  "ja": "追撃してくるデススティンガー。　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "The Death Stinger gave chase.\r\n\r\n"
+ },
+ {
+  "id": 409,
+  "offset": 40114,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「圧倒的だな…。」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"It's way out of our league...\"\r\n"
+ },
+ {
+  "id": 410,
+  "offset": 40216,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「ん、あれは共和国軍！」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Hm? That's the Republic Army!\"\r\n"
+ },
+ {
+  "id": 411,
+  "offset": 40318,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「ムッ！！」　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"Hmph!!\"\r\n"
+ },
+ {
+  "id": 412,
+  "offset": 40420,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「周りは敵だらけのようだな。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Enemies on every side, huh.\"\r\n"
+ },
+ {
+  "id": 413,
+  "offset": 40522,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「共和国から通信が入ってます。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"The Republic is hailing us.\"\r\n"
+ },
+ {
+  "id": 414,
+  "offset": 40624,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「こちら、アルバーン大尉だ。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"This is Captain Albane.\"\r\n"
+ },
+ {
+  "id": 415,
+  "offset": 40726,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「こちら、マックス曹長だ。」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"This is Sergeant Major Max.\"\r\n"
+ },
+ {
+  "id": 416,
+  "offset": 40828,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「人手がいりそうだな。」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Looks like you need a hand.\"\r\n"
+ },
+ {
+  "id": 417,
+  "offset": 40930,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「余計なお世話だと言いたい所だが\r\n　今度ばかりは、違うようだ。」　",
+  "en": "Max\r\n\"I'd tell you to butt out, but\r\n this time, I can't afford to.\""
+ },
+ {
+  "id": 418,
+  "offset": 41032,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「信用するんですか？」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"You're trusting them?\"\r\n"
+ },
+ {
+  "id": 419,
+  "offset": 41134,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「この状況では選択の余地は　　　\r\n　ないようだ。」　　　　　　　　",
+  "en": "Max\r\n\"In this situation, we don't\r\n have much choice.\""
+ },
+ {
+  "id": 420,
+  "offset": 41236,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「決まりだな。」　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Then it's settled.\"\r\n"
+ },
+ {
+  "id": 421,
+  "offset": 41338,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「よーし！やるぞ！」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"All right! Let's do this!\"\r\n"
+ },
+ {
+  "id": 422,
+  "offset": 41440,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「おまえ！ザン！！」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"You! Zan!!\"\r\n"
+ },
+ {
+  "id": 423,
+  "offset": 41542,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「その声は、ライナーか！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"That voice... Reiner?!\"\r\n"
+ },
+ {
+  "id": 424,
+  "offset": 41644,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「何だ、お前ら、知り合いか？」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"What, you two know each other?\"\r\n"
+ },
+ {
+  "id": 425,
+  "offset": 41746,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「こいつとは、ちょっとした因縁が\r\n　ありましてね。」　　　　　　　",
+  "en": "Reiner\r\n\"Let's just say we've got some\r\n history.\""
+ },
+ {
+  "id": 426,
+  "offset": 41848,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「ライナー！昔話は後だ！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Reiner! Reminisce later!\"\r\n"
+ },
+ {
+  "id": 427,
+  "offset": 41950,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「気をつけろ！デススティンガーの\r\n　パイロット、ただ者じゃない！」",
+  "en": "Claudia\r\n\"Careful! That Death Stinger's\r\n pilot is something else!\""
+ },
+ {
+  "id": 428,
+  "offset": 42052,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ザン、お前はデススティンガーに\r\n　攻撃を集中しろ！」　　　　　　",
+  "en": "Albane\r\n\"Zan, concentrate your fire on\r\n the Death Stinger!\""
+ },
+ {
+  "id": 429,
+  "offset": 42154,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「残りはオレ達でたたく！！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"We'll handle the rest!!\"\r\n"
+ },
+ {
+  "id": 430,
+  "offset": 42256,
+  "bytes": 100,
+  "ja": "激戦のすえ、デススティンガーを　\r\n撃破したロットティガー隊。　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "After a fierce battle, Rottiger\r\ndestroyed the Death Stinger.\r\n"
+ },
+ {
+  "id": 431,
+  "offset": 42358,
+  "bytes": 100,
+  "ja": "そんな時、新型ゾイド完成の報告を\r\n受け基地で補給を受けていた。　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Hearing the new Zoid was ready,\r\nthey went back to base to refit.\r\n"
+ },
+ {
+  "id": 432,
+  "offset": 42460,
+  "bytes": 100,
+  "ja": "そこに共和国軍が強襲。　　　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Then the Republic Army struck.\r\n\r\n"
+ },
+ {
+  "id": 433,
+  "offset": 42562,
+  "bytes": 100,
+  "ja": "しかし警報装置は作動しなかった。\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "But the alarms never went off.\r\n\r\n"
+ },
+ {
+  "id": 434,
+  "offset": 42664,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「共和国軍が！」　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"The Republic Army!\"\r\n"
+ },
+ {
+  "id": 435,
+  "offset": 42766,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「タイミング悪すぎね。」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Talk about bad timing.\"\r\n"
+ },
+ {
+  "id": 436,
+  "offset": 42868,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「どうもヘンだな…。」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Something's not right...\"\r\n"
+ },
+ {
+  "id": 437,
+  "offset": 42970,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「！？あのゾイドは！」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Wait! That Zoid...!\"\r\n"
+ },
+ {
+  "id": 438,
+  "offset": 43072,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「ムッ！あれは、共和国軍の特別な\r\n　マーキング。」　　　　　　　　",
+  "en": "Max\r\n\"Hm! Those are special Republic\r\n markings.\""
+ },
+ {
+  "id": 439,
+  "offset": 43174,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「将校クラスが何故ここに！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"What's an officer doing here?!\"\r\n"
+ },
+ {
+  "id": 440,
+  "offset": 43276,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「クローディア、敵司令官を捕らえ\r\n　て情報を聞き出そう！」　　　　",
+  "en": "Max\r\n\"Claudia, let's capture their CO\r\n and make him talk!\""
+ },
+ {
+  "id": 441,
+  "offset": 43378,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「よし、了解した！　　　　　　　\r\n　ロットティガー出撃！」　　　　",
+  "en": "Claudia\r\n\"Right, understood!\r\n Rottiger, move out!\""
+ },
+ {
+  "id": 442,
+  "offset": 43480,
+  "bytes": 100,
+  "ja": "捕まえた共和国軍司令官から建設中\r\nの共和国軍前線基地の情報を聞きだ\r\nし、その基地の攻撃に向かった。　",
+  "en": "The captured commander revealed\r\na Republic forward base under\r\nconstruction. Rottiger moved in."
+ },
+ {
+  "id": 443,
+  "offset": 43582,
+  "bytes": 100,
+  "ja": "その途中、共和国軍と遭遇した。　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "On the way, they ran into the\r\nRepublic Army.\r\n"
+ },
+ {
+  "id": 444,
+  "offset": 43684,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「ガスのせいでやけに視界が悪い。\r\n　同士討ちに気をつけろ。」　　　",
+  "en": "Max\r\n\"This gas is killing visibility.\r\n Watch for friendly fire.\""
+ },
+ {
+  "id": 445,
+  "offset": 43786,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「格闘戦でいっきに仕掛ける。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"We close in and hit 'em fast.\"\r\n"
+ },
+ {
+  "id": 446,
+  "offset": 43888,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「ライナー、用心しな。」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Reiner, watch yourself.\"\r\n"
+ },
+ {
+  "id": 447,
+  "offset": 43990,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「ありがたい状況だな…。」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"Oh, just perfect...\"\r\n"
+ },
+ {
+  "id": 448,
+  "offset": 44092,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「視界ゼロか、フッフッ…ライナー\r\n　ビビるなよ！」　　　　　　　　",
+  "en": "Max\r\n\"Zero visibility, heh heh...\r\n Don't chicken out, Reiner!\""
+ },
+ {
+  "id": 449,
+  "offset": 44194,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「…心配ご無用…。」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"...Don't worry about me...\"\r\n"
+ },
+ {
+  "id": 450,
+  "offset": 44296,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「よし、出撃！」　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"All right, move out!\"\r\n"
+ },
+ {
+  "id": 451,
+  "offset": 44398,
+  "bytes": 100,
+  "ja": "敵基地の敷地内は厳重な警備体制が\r\nとられていた。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Security around the enemy base\r\nwas extremely tight.\r\n"
+ },
+ {
+  "id": 452,
+  "offset": 44500,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「この基地は共和国の前線の基地だ\r\n　油断するなよ。」　　　　　　　",
+  "en": "Max\r\n\"This is a Republic forward\r\n base. Stay on your guard.\""
+ },
+ {
+  "id": 453,
+  "offset": 44602,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「ライナー、死にたくなければ。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Reiner, if you want to live...\"\r\n"
+ },
+ {
+  "id": 454,
+  "offset": 44704,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「慎重に、か。」　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"...play it safe. Got it.\"\r\n"
+ },
+ {
+  "id": 455,
+  "offset": 44806,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「わかってるな。ここを突破する。\r\n　行くぞ！」　　　　　　　　　　",
+  "en": "Max\r\n\"You know the plan. We break\r\n through here. Let's go!\""
+ },
+ {
+  "id": 456,
+  "offset": 44908,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「ロットティガー、出撃！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Rottiger, move out!\"\r\n"
+ },
+ {
+  "id": 457,
+  "offset": 45010,
+  "bytes": 100,
+  "ja": "ライナー＆マックス　　　　　　　\r\n「了解！」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner & Max\r\n\"Roger!\"\r\n"
+ },
+ {
+  "id": 458,
+  "offset": 45112,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「まだ敵は来るぞ！とにかく周囲に\r\n　気をつけろ！」　　　　　　　　",
+  "en": "Max\r\n\"More of 'em coming! Stay sharp\r\n and watch your surroundings!\""
+ },
+ {
+  "id": 459,
+  "offset": 45214,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「ロットティガー、出撃！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Rottiger, move out!\"\r\n"
+ },
+ {
+  "id": 460,
+  "offset": 45316,
+  "bytes": 100,
+  "ja": "ライナー＆マックス　　　　　　　\r\n「了解！」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner & Max\r\n\"Roger!\"\r\n"
+ },
+ {
+  "id": 461,
+  "offset": 45418,
+  "bytes": 100,
+  "ja": "ロットティガー隊は敵前線基地を抜\r\nけたところで友軍と出会う。　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Clear of the enemy forward base,\r\nRottiger met up with friendlies.\r\n"
+ },
+ {
+  "id": 462,
+  "offset": 45520,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「やっと脱出か。」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Finally out of there.\"\r\n"
+ },
+ {
+  "id": 463,
+  "offset": 45622,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「隊長、友軍です。」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"Captain, friendly units.\"\r\n"
+ },
+ {
+  "id": 464,
+  "offset": 45724,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「何？…おかしい。ここで作戦行動\r\n　しているのは我々だけ…。」　　",
+  "en": "Claudia\r\n\"What? ...Odd. We're the only\r\n unit operating out here...\""
+ },
+ {
+  "id": 465,
+  "offset": 45826,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「みんな、ヤツは味方じゃない！　\r\n　例のゼネバス絡みの奴らだ！」　",
+  "en": "Claudia\r\n\"Everyone, they're not friendly!\r\n It's the Zenebas conspirators!\""
+ },
+ {
+  "id": 466,
+  "offset": 45928,
+  "bytes": 100,
+  "ja": "レザール　　　　　　　　　　　　\r\n「フッ…やっと気づいたか。」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Lezard\r\n\"Heh... So you finally noticed.\"\r\n"
+ },
+ {
+  "id": 467,
+  "offset": 46030,
+  "bytes": 100,
+  "ja": "バイパー　　　　　　　　　　　　\r\n「ふっ…我々テラガイストの実力を\r\n　見せてやる！」　　　　　　　　",
+  "en": "Viper\r\n\"Heh... Now witness the power of\r\n Terra Geist!\""
+ },
+ {
+  "id": 468,
+  "offset": 46132,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「隊長！」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"Captain!\"\r\n"
+ },
+ {
+  "id": 469,
+  "offset": 46234,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「妙な通信をキャッチしました。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"Picking up a strange signal.\"\r\n"
+ },
+ {
+  "id": 470,
+  "offset": 46336,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「何…これは帝国から共和国への…\r\n　何と言うことだ！」　　　　　　",
+  "en": "Claudia\r\n\"What... From the Empire to the\r\n Republic... This can't be!\""
+ },
+ {
+  "id": 471,
+  "offset": 46438,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「どうした！」　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"What is it?!\"\r\n"
+ },
+ {
+  "id": 472,
+  "offset": 46540,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「極秘で開発してるライガーゼロの\r\n　基地情報がもらされている！」　",
+  "en": "Claudia\r\n\"Intel on the secret Liger Zero\r\n base is being leaked!\""
+ },
+ {
+  "id": 473,
+  "offset": 46642,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「なんだって！うぁぁ！！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"What?! Aaagh!!\"\r\n"
+ },
+ {
+  "id": 474,
+  "offset": 46744,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「遠距離狙撃！共和国軍だ！」　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Long-range sniping! It's the\r\n Republic Army!\""
+ },
+ {
+  "id": 475,
+  "offset": 46846,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「散開して攻撃！もたもたしてると\r\n　エジキになる！長引かせるな！」",
+  "en": "Claudia\r\n\"Spread out and attack! Dawdle\r\n and you're toast! End it fast!\""
+ },
+ {
+  "id": 476,
+  "offset": 46948,
+  "bytes": 100,
+  "ja": "ライガーゼロを強奪すべく、共和国\r\nのブルーユニコン小隊が、攻撃を　\r\n仕掛けてきた。　　　　　　　　　",
+  "en": "To seize the Liger Zero, the\r\nRepublic's Blue Unicorn squad\r\nlaunched an attack."
+ },
+ {
+  "id": 477,
+  "offset": 47050,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「あのゴジュラスタイプは何だ！？\r\n　敵は新型も用意したか。」　　　",
+  "en": "Reiner\r\n\"What's that Gojulas type?!\r\n They brought a new model too?\""
+ },
+ {
+  "id": 478,
+  "offset": 47152,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「圧倒的だな。」　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"That's some serious firepower.\"\r\n"
+ },
+ {
+  "id": 479,
+  "offset": 47254,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「長引くほど敵が有利だ。　　　　\r\n　意地でも倒す！行くぞ！」　　　",
+  "en": "Claudia\r\n\"The longer this goes, the worse\r\n for us. Take it down! Go!\""
+ },
+ {
+  "id": 480,
+  "offset": 47356,
+  "bytes": 100,
+  "ja": "ライナー＆マックス　　　　　　　\r\n「了解！」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner & Max\r\n\"Roger!\"\r\n"
+ },
+ {
+  "id": 481,
+  "offset": 47458,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「くっ！」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Ngh!\"\r\n"
+ },
+ {
+  "id": 482,
+  "offset": 47560,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「隊長！戦闘の隙にライガーゼロが\r\n　強奪されました！！」　　　　　",
+  "en": "Reiner\r\n\"Captain! The Liger Zero was\r\n stolen in the confusion!!\""
+ },
+ {
+  "id": 483,
+  "offset": 47662,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「おのれ！…残りの敵を叩いてライ\r\n　ガーゼロを追うぞ！」　　　　　",
+  "en": "Claudia\r\n\"Damn! Mop up the rest, then\r\n we go after the Liger Zero!\""
+ },
+ {
+  "id": 484,
+  "offset": 47764,
+  "bytes": 100,
+  "ja": "ライナー＆マックス　　　　　　　\r\n「了解！」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner & Max\r\n\"Roger!\"\r\n"
+ },
+ {
+  "id": 485,
+  "offset": 47866,
+  "bytes": 100,
+  "ja": "奪われたライガーゼロを追う途中、\r\nロットティガーの前にテラガイスト\r\nが出現。　　　　　　　　　　　　",
+  "en": "Chasing the stolen Liger Zero,\r\nRottiger came face to face with\r\nTerra Geist."
+ },
+ {
+  "id": 486,
+  "offset": 47968,
+  "bytes": 100,
+  "ja": "帝国軍の情報を共和国軍に流して、\r\nウイルスプログラムを仕掛けたのは\r\n彼らだった。　　　　　　　　　　",
+  "en": "They had fed Imperial intel to\r\nthe Republic and planted the\r\nvirus program."
+ },
+ {
+  "id": 487,
+  "offset": 48070,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「やはり、きさまらの仕業か！」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"I knew it! This was your work!\"\r\n"
+ },
+ {
+  "id": 488,
+  "offset": 48172,
+  "bytes": 100,
+  "ja": "ガルド　　　　　　　　　　　　　\r\n「帝国軍の特殊部隊とは言ったもの\r\n　だな、ロットティガー。」　　　",
+  "en": "Gard\r\n\"They don't call you special\r\n forces for nothing, Rottiger.\""
+ },
+ {
+  "id": 489,
+  "offset": 48274,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「特殊な存在なら、あんたらに　　\r\n　負けるわ。」　　　　　　　　　",
+  "en": "Claudia\r\n\"If we're special, you lot are\r\n in a class of your own.\""
+ },
+ {
+  "id": 490,
+  "offset": 48376,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「軍の中に敵がいると噂には聞いて\r\n　いたが。」　　　　　　　　　　",
+  "en": "Reiner\r\n\"I'd heard rumors of an enemy\r\n inside the army, but...\""
+ },
+ {
+  "id": 491,
+  "offset": 48478,
+  "bytes": 100,
+  "ja": "ガルド　　　　　　　　　　　　　\r\n「悪いがキミたちは知りすぎたよう\r\n　だ。」　　　　　　　　　　　　",
+  "en": "Gard\r\n\"I'm afraid you've learned too\r\n much.\""
+ },
+ {
+  "id": 492,
+  "offset": 48580,
+  "bytes": 100,
+  "ja": "レザール　　　　　　　　　　　　\r\n「貴様らを帰すわけにはいかん。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Lezard\r\n\"You won't be going home.\"\r\n"
+ },
+ {
+  "id": 493,
+  "offset": 48682,
+  "bytes": 100,
+  "ja": "リバイアス　　　　　　　　　　　\r\n「観念するんだな！」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Leviathe\r\n\"Accept your fate!\"\r\n"
+ },
+ {
+  "id": 494,
+  "offset": 48784,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「お前達こそ覚悟しろ！」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"That goes double for you!\"\r\n"
+ },
+ {
+  "id": 495,
+  "offset": 48886,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「ロットティガーをなめるな！！」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Don't underestimate Rottiger!!\"\r\n"
+ },
+ {
+  "id": 496,
+  "offset": 48988,
+  "bytes": 100,
+  "ja": "ライガーゼロのＣＡＳ（チェンジン\r\nグ・アーマー・システム）を輸送中\r\nに何者かの攻撃で市街地に落下。　",
+  "en": "Liger Zero's CAS (Changing Armor\r\nSystem) was attacked in transit\r\nby unknowns and crashed in town."
+ },
+ {
+  "id": 497,
+  "offset": 49090,
+  "bytes": 100,
+  "ja": "その回収命令にロットティガーが　\r\n呼ばれた。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Rottiger was called in to\r\nrecover it.\r\n"
+ },
+ {
+  "id": 498,
+  "offset": 49192,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「落下は事故じゃないとか…。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"They say the crash was no\r\n accident...\""
+ },
+ {
+  "id": 499,
+  "offset": 49294,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「我々に命令が下ったという意味を\r\n　考えるんだな。」　　　　　　　",
+  "en": "Claudia\r\n\"Ask yourself why they sent us,\r\n of all units.\""
+ },
+ {
+  "id": 500,
+  "offset": 49396,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「誰でもできる任務じゃないのは、\r\n　保証付だな。」　　　　　　　　",
+  "en": "Max\r\n\"One thing's guaranteed: this is\r\n no job for just anyone.\""
+ },
+ {
+  "id": 501,
+  "offset": 49498,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「噂をすれば…隊長！きました。　\r\n　奴らです。」　　　　　　　　　",
+  "en": "Reiner\r\n\"Speak of the devil... Captain!\r\n Here they come. It's them.\""
+ },
+ {
+  "id": 502,
+  "offset": 49600,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「テラガイストか！」　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Terra Geist!\"\r\n"
+ },
+ {
+  "id": 503,
+  "offset": 49702,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「こりないヤツらだ！」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"These guys never learn!\"\r\n"
+ },
+ {
+  "id": 504,
+  "offset": 49804,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「ヤツらを潰しＣＡＳを回収だ！」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Crush them! Recover the CAS!\"\r\n"
+ },
+ {
+  "id": 505,
+  "offset": 49906,
+  "bytes": 100,
+  "ja": "退却するテラガイストを追撃。　　\r\n途中でブルーユニコン隊と出会う。\r\n　　　　　　　　　　　　　　　　",
+  "en": "Pursuing Terra Geist as it fled,\r\nthey ran into Blue Unicorn.\r\n"
+ },
+ {
+  "id": 506,
+  "offset": 50008,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「また会ったな。何か縁が　　　　\r\n　あるらしいな。」　　　　　　　",
+  "en": "Claudia\r\n\"We meet again. We seem to keep\r\n crossing paths.\""
+ },
+ {
+  "id": 507,
+  "offset": 50110,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「あんたらも我々と同じ相手を　　\r\n　追ってるようだな。」　　　　　",
+  "en": "Albane\r\n\"Looks like you're chasing the\r\n same people we are.\""
+ },
+ {
+  "id": 508,
+  "offset": 50212,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「帝国内部の敵だ。そいつらが　　\r\n　ウラで暗躍している。」　　　　",
+  "en": "Claudia\r\n\"Traitors in the Empire. They've\r\n been working from the shadows.\""
+ },
+ {
+  "id": 509,
+  "offset": 50314,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「奴ら帝国、共和国両方で動いた　\r\n　ようだな。」　　　　　　　　　",
+  "en": "Max\r\n\"Looks like they've been busy on\r\n both sides.\""
+ },
+ {
+  "id": 510,
+  "offset": 50416,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「どうだ。この件は共同戦線を　　\r\n　張るという事で？」　　　　　　",
+  "en": "Albane\r\n\"What do you say we team up on\r\n this one?\""
+ },
+ {
+  "id": 511,
+  "offset": 50518,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「いいだろう。我々もヤツらは　　\r\n　目障りだ。」　　　　　　　　　",
+  "en": "Claudia\r\n\"Fine. They're a thorn in our\r\n side too.\""
+ },
+ {
+  "id": 512,
+  "offset": 50620,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「損な役回りばかりで死にたくは　\r\n　ないな。」　　　　　　　　　　",
+  "en": "Max\r\n\"I'd hate to die always drawing\r\n the short straw.\""
+ },
+ {
+  "id": 513,
+  "offset": 50722,
+  "bytes": 100,
+  "ja": "バイパー　　　　　　　　　　　　\r\n「言いたいことはそれだけか。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Viper\r\n\"Is that all you have to say?\"\r\n"
+ },
+ {
+  "id": 514,
+  "offset": 50824,
+  "bytes": 100,
+  "ja": "バイパー　　　　　　　　　　　　\r\n「テラガイストの力を　　　　　　\r\n　思い知らせてやる！」　　　　　",
+  "en": "Viper\r\n\"I'll show you the power of\r\n Terra Geist!\""
+ },
+ {
+  "id": 515,
+  "offset": 50926,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「うざいヤツらだ！全く！」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"Man, these guys are a pain!\"\r\n"
+ },
+ {
+  "id": 516,
+  "offset": 51028,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「せいぜい期待してるぜ、　　　　\r\n　共和国さんよ。」　　　　　　　",
+  "en": "Reiner\r\n\"Show us what you've got,\r\n Republic boys.\""
+ },
+ {
+  "id": 517,
+  "offset": 51130,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「よーし！いくぞ！！」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"All right! Let's go!!\"\r\n"
+ },
+ {
+  "id": 518,
+  "offset": 51232,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「やったな！」　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"We did it!\"\r\n"
+ },
+ {
+  "id": 519,
+  "offset": 51334,
+  "bytes": 100,
+  "ja": "ザン　　　　　　　　　　　　　　\r\n「見ろ！これが共和国軍の力だ！」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Zan\r\n\"See that?! That's the power of\r\n the Republic Army!\""
+ },
+ {
+  "id": 520,
+  "offset": 51436,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「調子にのるな！ザン！」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Don't get cocky, Zan!\"\r\n"
+ },
+ {
+  "id": 521,
+  "offset": 51538,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「元気だけは一番だな。」　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"He's got spirit, I'll give him\r\n that much.\""
+ },
+ {
+  "id": 522,
+  "offset": 51640,
+  "bytes": 100,
+  "ja": "ティータ　　　　　　　　　　　　\r\n「何ですって！？」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Tita\r\n\"Excuse me?!\"\r\n"
+ },
+ {
+  "id": 523,
+  "offset": 51742,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「ティータもだ！」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"You too, Tita!\"\r\n"
+ },
+ {
+  "id": 524,
+  "offset": 51844,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「こんな子供がいるとはね…。」　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Just a bunch of kids, huh...\"\r\n"
+ },
+ {
+  "id": 525,
+  "offset": 51946,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「まあ、いいじゃないか。こうして\r\n　敵を倒せたんだ。」　　　　　　",
+  "en": "Max\r\n\"Aw, let it slide. We took the\r\n enemy down, didn't we?\""
+ },
+ {
+  "id": 526,
+  "offset": 52048,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「この件は公式報告書には書かない\r\n　つもりだ。」　　　　　　　　　",
+  "en": "Albane\r\n\"I don't plan to put any of this\r\n in the official report.\""
+ },
+ {
+  "id": 527,
+  "offset": 52150,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「同感だな。もめごとはおこしたく\r\n　ない。」　　　　　　　　　　　",
+  "en": "Max\r\n\"Agreed. I'd rather not stir up\r\n trouble.\""
+ },
+ {
+  "id": 528,
+  "offset": 52252,
+  "bytes": 100,
+  "ja": "アルバーン　　　　　　　　　　　\r\n「せいぜい、気をつけるんだな。」\r\n　　　　　　　　　　　　　　　　",
+  "en": "Albane\r\n\"Watch your backs out there.\"\r\n"
+ },
+ {
+  "id": 529,
+  "offset": 52354,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「フッ、おまえたちもな。」　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"Heh, you too.\"\r\n"
+ },
+ {
+  "id": 530,
+  "offset": 52456,
+  "bytes": 100,
+  "ja": "しかし「テラガイスト」が消滅した\r\nわけではない。帝国内部にうごめく\r\n炎はいまだゆらめいている。　　　",
+  "en": "But Terra Geist is not finished.\r\nWithin the Empire, its flames\r\nstill flicker in the dark."
+ },
+ {
+  "id": 531,
+  "offset": 52558,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「もう敵の手など借りん。ヤツらを\r\n　倒すのはロットティガー隊だ！」",
+  "en": "Claudia\r\n\"No more help from the enemy.\r\n Rottiger takes them down!\""
+ },
+ {
+  "id": 532,
+  "offset": 52660,
+  "bytes": 100,
+  "ja": "バイパー　　　　　　　　　　　　\r\n「こちらも手加減はしない。　　　\r\n　テラガイストをなめるな！」　　",
+  "en": "Viper\r\n\"No holding back this time.\r\n Don't you mock Terra Geist!\""
+ },
+ {
+  "id": 533,
+  "offset": 52762,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「行くぞ！！」　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Let's go!!\"\r\n"
+ },
+ {
+  "id": 534,
+  "offset": 52864,
+  "bytes": 100,
+  "ja": "ライナー＆マックス　　　　　　　\r\n「了解！」　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner & Max\r\n\"Roger!\"\r\n"
+ },
+ {
+  "id": 535,
+  "offset": 52966,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「やったな…。」　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Max\r\n\"We did it...\"\r\n"
+ },
+ {
+  "id": 536,
+  "offset": 53068,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「これで帝国内もしばらく　　　　\r\n　静かになる…。」　　　　　　　",
+  "en": "Reiner\r\n\"That should keep the Empire\r\n quiet for a while...\""
+ },
+ {
+  "id": 537,
+  "offset": 53170,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「そう、しばらくね。」　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Claudia\r\n\"Yes. For a while.\"\r\n"
+ },
+ {
+  "id": 538,
+  "offset": 53272,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「奴らがテラガイストの全員だとは\r\n　思えん。」　　　　　　　　　　",
+  "en": "Max\r\n\"I doubt that's all of\r\n Terra Geist.\""
+ },
+ {
+  "id": 539,
+  "offset": 53374,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「では、まだ…。」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"Then there's still...\"\r\n"
+ },
+ {
+  "id": 540,
+  "offset": 53476,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「わからん。しかし、これだけは　\r\n　言える。敵は身近にもいる。」　",
+  "en": "Max\r\n\"Can't say. But I'll say this:\r\n the enemy is right among us.\""
+ },
+ {
+  "id": 541,
+  "offset": 53578,
+  "bytes": 100,
+  "ja": "クローディア　　　　　　　　　　\r\n「ふぅ、我々の任務もまだまだ終わ\r\n　りそうもないな…」　　　　　　",
+  "en": "Claudia\r\n\"Well... looks like our job is\r\n far from over...\""
+ },
+ {
+  "id": 542,
+  "offset": 53680,
+  "bytes": 100,
+  "ja": "「テラガイスト」は消滅したわけで\r\nはない。帝国内部にうごめく炎は、\r\nいまだゆらめいている。　　　　　",
+  "en": "Terra Geist is not gone. Within\r\nthe Empire, its flames still\r\nflicker in the dark."
+ },
+ {
+  "id": 543,
+  "offset": 53782,
+  "bytes": 166,
+  "ja": "　装甲が厚く、主に長距離攻撃を得意とする\r\n後方砲撃ゾイド。　　　　　　　　　　　　\r\n　ホバー走行機能を搭載し、弱点である　　\r\n機動力の低さを補った特別仕様機。　　　　",
+  "en": "A heavily armored rear-support artillery\r\nZoid that excels at long-range attack.\r\nThis special model adds a hover drive\r\nto make up for its poor mobility."
+ },
+ {
+  "id": 544,
+  "offset": 53950,
+  "bytes": 166,
+  "ja": "　高い操作性を持ち、格闘戦を得意とする　\r\n基本タイプのゾイド。　　　　　　　　　　\r\n　パワーはさほど高くはないが、　　　　　\r\nバランスが良く、カスタマイズの幅も広い。",
+  "en": "An easy-handling basic Zoid that excels\r\nin melee. Its power is modest, but it is\r\nwell balanced and offers a wide range\r\nof customization."
+ },
+ {
+  "id": 545,
+  "offset": 54118,
+  "bytes": 166,
+  "ja": "　重装甲重武装で、突撃戦を得意とする　　\r\n重撃ゾイド。　　　　　　　　　　　　　　\r\n　機動性はさほど高くはないが、　　　　　\r\n武装のパワーが十分補っている。　　　　　",
+  "en": "A heavily armored, heavily armed assault\r\nZoid that excels at charging attacks.\r\nIts mobility is modest, but the power of\r\nits weapons more than makes up for it."
+ },
+ {
+  "id": 546,
+  "offset": 54286,
+  "bytes": 166,
+  "ja": "　格闘が主体の戦闘をするゾイド。　　　　\r\nライガーゼロシリーズの基本形態にあたる。\r\n　いくつかある形態の中で、パワー、機動性\r\n共に最もバランスのとれた基本形態。　　　",
+  "en": "A Zoid that fights mainly in melee, and\r\nthe base form of the Liger Zero series.\r\nOf its several forms, this one has the\r\nbest balance of power and mobility."
+ },
+ {
+  "id": 547,
+  "offset": 54454,
+  "bytes": 166,
+  "ja": "　独特の低い体高で地面を進む、　　　　　\r\n小型汎用ソイド。　　　　　　　　　　　　\r\n　若干動作にクセがあるが、低い体高で　　\r\n敵の攻撃をかいくぐることができる。　　　",
+  "en": "A small all-purpose Zoid that crawls\r\nalong the ground on its low frame.\r\nIts movement is a bit quirky, but its\r\nlow build lets it slip under attacks."
+ },
+ {
+  "id": 548,
+  "offset": 54622,
+  "bytes": 166,
+  "ja": "　荷電粒子砲とバスタークローを併せ持つ　\r\nバーサークフューラー基本形態ゾイド。　　\r\n　強力な荷電粒子砲の装備により、　　　　\r\n高い戦闘能力を誇る高機動戦闘形態。　　　",
+  "en": "Berserk Fury's base form, packing a\r\nBuster Claw and a Charged Particle\r\nCannon. That powerful cannon makes this\r\nhigh-mobility combat form a top fighter."
+ },
+ {
+  "id": 549,
+  "offset": 54790,
+  "bytes": 166,
+  "ja": "　バーサークフューラーの高速格闘戦形態。\r\n　大型ブースターの装備により速度とパワー\r\n更に機動性の向上が図られており、より格闘\r\n戦に向いた仕様の高速高機動形態。　　　　",
+  "en": "The Berserk Fury's high-speed melee\r\nform. Large boosters raise its speed,\r\npower and mobility, making it a fast,\r\nagile form built for close combat."
+ },
+ {
+  "id": 550,
+  "offset": 54958,
+  "bytes": 166,
+  "ja": "　機動性、瞬発力に富んだ格闘戦ゾイド。　\r\n　機動性を高めたため装甲値がやや低いが、\r\nパワーと機動力を併せ持っているため　　　\r\n格闘戦に向いている。　　　　　　　　　　",
+  "en": "A melee Zoid with great mobility and\r\nquick reflexes. Its armor is a bit thin\r\nfrom the focus on mobility, but its mix\r\nof power and speed suits close combat."
+ },
+ {
+  "id": 551,
+  "offset": 55126,
+  "bytes": 166,
+  "ja": "　近接格闘を主体とするゾイド。　　　　　\r\n　パワー重視の能力になっているため、やや\r\n機動性が低いが、近接戦に持ち込んだ時には\r\nブレードの高レベルな戦いが望める。　　　",
+  "en": "A Zoid that fights mainly up close. It\r\nis built for power, so its mobility is a\r\nbit low, but once in close it delivers\r\ntop-class blade combat."
+ },
+ {
+  "id": 552,
+  "offset": 55294,
+  "bytes": 166,
+  "ja": "　隠密性に優れ、行動力に富んだゾイド。　\r\n　高い機動力を備えているが、最大の特徴は\r\n隠密系特殊武装による敵のかく乱能力だ。　\r\n　行動力と特殊能力を生かす操作が必要だ。",
+  "en": "A stealthy Zoid with great freedom of\r\nmovement. Mobility is high, but its key\r\ntrait is confusing foes with special\r\nstealth gear. Play to those strengths."
+ },
+ {
+  "id": 553,
+  "offset": 55462,
+  "bytes": 166,
+  "ja": "　ライガーゼロの高速戦形態。　　　　　　\r\n　速度向上のため装甲に軽量化が図られて　\r\nいるので装甲値はやや低めだが、その分　　\r\n機動性能がずば抜けた、超高速戦格闘形態。",
+  "en": "The Liger Zero's high-speed form. Armor\r\nwas lightened for speed, so it is a bit\r\nfragile, but its mobility is unmatched.\r\nAn ultra-fast melee combat form."
+ },
+ {
+  "id": 554,
+  "offset": 55630,
+  "bytes": 166,
+  "ja": "　ライガーゼロの格闘戦形態。　　　　　　\r\n　格闘性能とパワーを特化させ、　　　　　\r\n各種ジェネレーターの装備により機動性をも\r\n向上させた、格闘戦闘強化形態。　　　　　",
+  "en": "The Liger Zero's melee combat form. It\r\nspecializes in close-combat power, and\r\nits Generators boost its mobility too.\r\nAn enhanced melee combat form."
+ },
+ {
+  "id": 555,
+  "offset": 55798,
+  "bytes": 166,
+  "ja": "　ライガーゼロの砲撃戦形態。　　　　　　\r\n　各種砲台の重武装により、機動性能が　　\r\n極端に低下したが、有り余る砲撃力が　　　\r\n十分すぎるパワーを持つ、砲撃重武装形態。",
+  "en": "The Liger Zero's artillery form. Its\r\nheavy guns cripple its mobility, but its\r\nsheer firepower more than makes up for\r\nit. A heavily armed bombardment form."
+ },
+ {
+  "id": 556,
+  "offset": 55966,
+  "bytes": 166,
+  "ja": "　ライガーゼロの特殊技能形態。　　　　　\r\n　電撃攻撃や光学迷彩といった特殊な能力を\r\n備え、スタンブレードなどの各種装備を　　\r\n合わせ持つ、特殊電撃武装形態。　　　　　",
+  "en": "The Liger Zero's special-ability form.\r\nIt has electric attacks and optical\r\ncamouflage, plus gear like the Stun\r\nBlade. An electro-strike combat form."
+ },
+ {
+  "id": 557,
+  "offset": 56134,
+  "bytes": 166,
+  "ja": "　高速での戦闘攻撃を主体とするゾイド。　\r\n　機動性が高く、優れた加速性能を誇る。　\r\n　ステアリングが若干弱いので、　　　　　\r\n操作には特徴をつかまなければならない。　",
+  "en": "A Zoid built for high-speed attacks.\r\nHighly mobile, with superb acceleration.\r\nIts steering is a little weak, so you\r\nmust learn its quirks to handle it."
+ },
+ {
+  "id": 558,
+  "offset": 56302,
+  "bytes": 166,
+  "ja": "　重装甲で重撃格闘を得意とするゾイド。　\r\n　高い攻撃力を持ち、高い反応を見せるが、\r\n基本的に動作は鈍い。能力を生かすためには\r\nパイロットの腕が問われる機体である。　　",
+  "en": "A heavily armored heavy melee Zoid. It\r\nhits hard and reacts fast, but moves\r\nslowly overall. Getting the most out of\r\nit takes a skilled pilot."
+ },
+ {
+  "id": 559,
+  "offset": 56470,
+  "bytes": 166,
+  "ja": "　重撃格闘戦のゴジュラスに、　　　　　　\r\n砲撃能力まで加えた重砲撃ゾイド。　　　　\r\n　装甲強化によって動作性は低下したが、　\r\n砲撃力の追加による力は凄まじい。　　　　",
+  "en": "A heavy artillery Zoid that adds cannon\r\nfire to the Gojulas's heavy melee power.\r\nIts extra armor slows it down, but the\r\nadded firepower is tremendous."
+ },
+ {
+  "id": 560,
+  "offset": 56638,
+  "bytes": 166,
+  "ja": "　大型の近接格闘戦ゾイド。　　　　　　　\r\n　ボディー各所のパワーの強化による　　　\r\n高い格闘性能はすさまじい威力を持ち、　　\r\n他のゾイドを圧倒する。　　　　　　　　　",
+  "en": "A large close-combat Zoid. Power boosts\r\nthroughout its body give it fearsome\r\nmelee strength that overwhelms other\r\nZoids."
+ },
+ {
+  "id": 561,
+  "offset": 56806,
+  "bytes": 166,
+  "ja": "　高機動格闘能力を強化されたゾイド。　　\r\n　機動力の向上、装甲の強化、さらに　　　\r\nエクスブレイカーによる攻撃力の向上が　　\r\n図られているなど、底知れない力を持つ。　",
+  "en": "A Zoid with boosted high-speed melee\r\npower. Its mobility and armor are both\r\nimproved, and its Excalibur blades add\r\nattack power. Its strength is boundless."
+ },
+ {
+  "id": 562,
+  "offset": 56974,
+  "bytes": 166,
+  "ja": "　高い生命力を誇る、高機動ゾイド。　　　\r\n　攻撃性能を主に強化されている上に、　　\r\n荷電粒子砲まで搭載されている。　　　　　\r\n　ホバー走行機能で移動性能も優れている。",
+  "en": "A tough, highly mobile Zoid. Its attack\r\npower is the main upgrade, and it even\r\ncarries a Charged Particle Cannon. Its\r\nhover drive also makes it very mobile."
+ },
+ {
+  "id": 563,
+  "offset": 57142,
+  "bytes": 166,
+  "ja": "　ジェノザウラーの特殊武装仕様。　　　　\r\n　主に長距離戦に対応させるための、　　　\r\nレーダー機能の拡大、更にミサイルポッドの\r\n武装追加がなされている。　　　　　　　　",
+  "en": "A special-armament Geno Saurer. Built\r\nmainly for long-range combat, it has an\r\nexpanded radar and an added Missile\r\nPod."
+ },
+ {
+  "id": 564,
+  "offset": 57310,
+  "bytes": 32,
+  "ja": "「助けに行きましょう！」　　　　",
+  "en": "\"Let's go help them!\""
+ },
+ {
+  "id": 565,
+  "offset": 57344,
+  "bytes": 32,
+  "ja": "「まだここを離れるわけには！」　",
+  "en": "\"We can't leave here yet!\""
+ },
+ {
+  "id": 566,
+  "offset": 57378,
+  "bytes": 166,
+  "ja": "　格闘運動性能と多彩なミサイルを併せ持つ\r\nゾイド。　　　　　　　　　　　　　　　　\r\n　対地、対空、対ゾイドミサイルを使い分け\r\nアイアンハンマーは強力な一撃をはなつ。　",
+  "en": "A Zoid that pairs melee agility with\r\nmany missiles: anti-ground, anti-air\r\nand anti-Zoid, used as needed. Its\r\nIron Hammer delivers a crushing blow."
+ },
+ {
+  "id": 567,
+  "offset": 57546,
+  "bytes": 166,
+  "ja": "　運動性能と砲撃力を強化された、　　　　\r\nＰＫ仕様ゾイド。　　　　　　　　　　　　\r\n　動力系の強化が図られており、各種　　　\r\n砲撃武装も追加された。　　　　　　　　　",
+  "en": "A PK-spec Zoid with boosted agility\r\nand firepower. Its drive systems were\r\nupgraded, and various artillery\r\nweapons were added."
+ },
+ {
+  "id": 568,
+  "offset": 57714,
+  "bytes": 166,
+  "ja": "　俊敏性と精密さを併せ持つ、射撃ゾイド。\r\n　様々な砲撃武装に加え、高いサーチ能力を\r\n備えるため、ピンポイントの射撃攻撃でも　\r\nその優れた能力を発揮する。　　　　　　　",
+  "en": "A nimble, precise shooting Zoid. Along\r\nwith many gun weapons, it has strong\r\nsearch ability, so it excels even at\r\npinpoint shots."
+ },
+ {
+  "id": 570,
+  "offset": 57894,
+  "bytes": 166,
+  "ja": "　高い射撃精度を誇る、精密射撃ゾイド。　\r\n　射撃はより長距離、精密になっている。　\r\n　射撃能力だけではなく、格闘面での増強も\r\nバランスよく図られているのが特徴だ。　　",
+  "en": "A precision shooting Zoid with superb\r\naccuracy. Its shots reach farther and\r\nhit truer. Its melee ability has also\r\nbeen boosted for good balance."
+ },
+ {
+  "id": 571,
+  "offset": 58062,
+  "bytes": 166,
+  "ja": "　パワー重視の機動ゾイド。　　　　　　　\r\n　全体的にバランスのとれた機体ではあるが\r\nパワー重視のため、若干操作にクセがある。\r\n　武装によっての変化が大きいのも特徴だ。",
+  "en": "A power-focused mobile Zoid. It is well\r\nbalanced overall, but its focus on power\r\nmakes its handling a bit quirky. Its\r\nloadout can also change it greatly."
+ },
+ {
+  "id": 572,
+  "offset": 58230,
+  "bytes": 32,
+  "ja": "「帝国は我々の敵だ！」　　　　　",
+  "en": "\"The Empire is our enemy!\""
+ },
+ {
+  "id": 573,
+  "offset": 58264,
+  "bytes": 32,
+  "ja": "「様子をみよう。」　　　　　　　",
+  "en": "\"Let's wait and see.\""
+ },
+ {
+  "id": 574,
+  "offset": 58298,
+  "bytes": 166,
+  "ja": "　レッドホーンの重火器カスタマイズ仕様。\r\n　装甲は更に強化されており、欠点である　\r\n足回りのバランスも改良されているが、　　\r\nやはり重火器に頼る戦法が適している。　　",
+  "en": "A heavy-weapons custom Red Horn. Its\r\narmor is even tougher, and its weak leg\r\nbalance is improved, but it still fights\r\nbest by relying on heavy weapons."
+ },
+ {
+  "id": 575,
+  "offset": 58466,
+  "bytes": 166,
+  "ja": "　大型武装の変更が可能な電子能力ゾイド。\r\n　基本武装のジャミングブレードは長距離の\r\nサーチが可能な上に複数発のビームを同時に\r\n発射できる強力な武器だ。　　　　　　　　",
+  "en": "An electronic-warfare Zoid that can swap\r\nits large weapons. Its standard Jamming\r\nBlade can search at long range and fire\r\nseveral beams at once. A strong weapon."
+ },
+ {
+  "id": 576,
+  "offset": 58634,
+  "bytes": 166,
+  "ja": "　重量、重装甲の要塞ゾイド。　　　　　　\r\n　足回りの遅さは、大型の砲台と　　　　　\r\n変更可能な各種重火器とのバラエティーで、\r\n十分補える機体だ。　　　　　　　　　　　",
+  "en": "A heavy, armored fortress Zoid. Its slow\r\nlegs are offset by its large cannon and\r\na variety of swappable heavy weapons.\r\n"
+ },
+ {
+  "id": 577,
+  "offset": 58802,
+  "bytes": 166,
+  "ja": "　遠距離攻撃武装を持たないが、高い　　　\r\n格闘能力を有する白兵戦専門ゾイド。　　　\r\n　各種格闘専用武装により、　　　　　　　\r\nバラエティーに富んだ近接格闘が可能だ。　",
+  "en": "It has no long-range weapons, but its\r\nmelee skill is high: a Zoid made purely\r\nfor close combat. Its many melee weapons\r\nallow a wide variety of close attacks."
+ },
+ {
+  "id": 578,
+  "offset": 58970,
+  "bytes": 166,
+  "ja": "　未来の世界から来たサイバーゾイド。　　\r\n　太陽光をエネルギーとして動いている。　\r\n　クールな性格で乗り手を選ぶゾイドだが、\r\nその分スマートな加速が期待できる。　　　",
+  "en": "A Cyber Zoid from the future, powered\r\nby sunlight. It has a cool temper and\r\nchooses its rider, but in return it\r\noffers smooth acceleration."
+ },
+ {
+  "id": 579,
+  "offset": 59138,
+  "bytes": 166,
+  "ja": "　未来の世界から来たサイバーゾイド。　　\r\n　太陽光をエネルギーとして動いている。　\r\n　大変荒い性格をしており扱いは難しいが、\r\nパワフルな加速性が期待できる。　　　　　",
+  "en": "A Cyber Zoid from the future, powered\r\nby sunlight. Its wild temper makes it\r\nhard to handle, but it offers powerful\r\nacceleration."
+ },
+ {
+  "id": 580,
+  "offset": 59306,
+  "bytes": 166,
+  "ja": "　太古の遺跡で眠っていた蒸気駆動ゾイド。\r\n　頭部に装備された最強防御二又角による、\r\n高い防御力をほこり、背中の爆裂鉄球砲は　\r\n大岩をも簡単に打ち砕くという。　　　　　",
+  "en": "A steam Zoid, long asleep in old ruins.\r\nIts Ultimate Defense Fork Horn gives it\r\nhigh defense, and the Blast Iron Ball\r\nCannon on its back can shatter boulders."
+ },
+ {
+  "id": 581,
+  "offset": 59474,
+  "bytes": 166,
+  "ja": "　太古の遺跡で眠っていた蒸気駆動ゾイド。\r\n　頭部に装備された最強突撃長槍角で　　　\r\n敵を切り裂き、爆裂鉄球砲との　　　　　　\r\nコンビネーション攻撃で戦場を駆ける。　　",
+  "en": "A steam Zoid, long asleep in old ruins.\r\nIt rends foes with its Ultimate Assault\r\nLance Horn, charging across the field in\r\ncombos with its Blast Iron Ball Cannon."
+ },
+ {
+  "id": 582,
+  "offset": 59642,
+  "bytes": 24,
+  "ja": "「いいだろう。」　　　　",
+  "en": "\"Fine by me.\""
+ },
+ {
+  "id": 583,
+  "offset": 59668,
+  "bytes": 18,
+  "ja": "「断る。」　　　　",
+  "en": "\"No deal.\""
+ },
+ {
+  "id": 584,
+  "offset": 59688,
+  "bytes": 166,
+  "ja": "　カノントータスの主砲。　　　　　　　　\r\n　大型の光弾が単発ごとに発射される、　　\r\n長距離砲。　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "The Cannon Tortoise's main gun. A\r\nlong-range cannon that fires large\r\nenergy shells one at a time.\r\n"
+ },
+ {
+  "id": 585,
+  "offset": 59856,
+  "bytes": 166,
+  "ja": "　２連装のビーム砲。　　　　　　　　　　\r\n　高速自動のチャージが可能なので、　　　\r\nある程度の連射が可能。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A twin Beam Cannon. Fast automatic\r\ncharging allows fairly rapid fire.\r\n\r\n"
+ },
+ {
+  "id": 586,
+  "offset": 60024,
+  "bytes": 166,
+  "ja": "　コマンドウルフに標準的に装備された、　\r\n２連装のビーム砲。　　　　　　　　　　　\r\n　威力はさほど高くはないが、　　　　　　\r\n扱いやすい武器である。　　　　　　　　　",
+  "en": "A twin Beam Cannon, standard on the\r\nCommand Wolf. Not very powerful, but\r\nan easy weapon to handle.\r\n"
+ },
+ {
+  "id": 587,
+  "offset": 60192,
+  "bytes": 166,
+  "ja": "　対ゾイド仕様の３連装衝撃砲。　　　　　\r\n　ターゲットのゾイドに向かって、　　　　\r\n３発の光弾が連続発射される。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A triple anti-Zoid Shock Cannon. It\r\nfires three energy shots in a row at\r\nthe target Zoid.\r\n"
+ },
+ {
+  "id": 588,
+  "offset": 60360,
+  "bytes": 166,
+  "ja": "　ディバイソンの固定武装である、　　　　\r\n１７個の砲身から成る、重砲撃武装。　　　\r\n　１７本の光線を同時発射するほか、　　　\r\n光線を一束にまとめた強力な技が使用可能。",
+  "en": "The Dibison's fixed heavy armament,\r\nwith 17 barrels. It fires 17 beams at\r\nonce, or can bundle them into a single\r\npowerful blast."
+ },
+ {
+  "id": 589,
+  "offset": 60528,
+  "bytes": 166,
+  "ja": "　小型の８連装ミサイルポッド。　　　　　\r\n　ターゲットを追尾する小型ミサイルが、　\r\n連装分同時発射される。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A small 8-tube Missile Pod. It fires\r\nsmall homing missiles from every tube\r\nat once.\r\n"
+ },
+ {
+  "id": 591,
+  "offset": 60708,
+  "bytes": 166,
+  "ja": "　２連装の小型ガトリング砲。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A small twin Gatling gun.\r\n\r\n\r\n"
+ },
+ {
+  "id": 592,
+  "offset": 60876,
+  "bytes": 166,
+  "ja": "　モルガの開閉式のハッチの中に収納された\r\n二連装の中型追尾ミサイル。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Twin medium homing missiles stored in\r\nthe Molga's opening hatch.\r\n\r\n"
+ },
+ {
+  "id": 593,
+  "offset": 61044,
+  "bytes": 168,
+  "ja": "　バスタークローと共に、ウェポンアームに\r\n組み込まれた２連装のビームキャノン。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A twin Beam Cannon built into the\r\nWeapon Arm along with the Buster Claw.\r\n\r\n"
+ },
+ {
+  "id": 595,
+  "offset": 61226,
+  "bytes": 166,
+  "ja": "　後方支援のために開発された、　　　　　\r\nカノントータスの大型ビーム砲。　　　　　\r\n　主砲と共に装備できるので、二種類の　　\r\n大砲によるコンビネーション攻撃も可能だ。",
+  "en": "The Cannon Tortoise's large beam cannon,\r\nmade for rear support. It can be paired\r\nwith the main gun for combination\r\nattacks with two kinds of cannon."
+ },
+ {
+  "id": 598,
+  "offset": 61418,
+  "bytes": 166,
+  "ja": "　２連装の長距離ビームキャノン。　　　　\r\n　スタビライザーの装備により、　　　　　\r\n重量による大幅なスピード低下を防いだ。　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A twin long-range Beam Cannon. Its\r\nStabilizer prevents a big drop in speed\r\nfrom the added weight.\r\n"
+ },
+ {
+  "id": 599,
+  "offset": 61586,
+  "bytes": 166,
+  "ja": "　長距離への発射が可能なビーム砲。　　　\r\n　本来は大型ゾイドのライフル銃として　　\r\n開発されたため、高い威力を秘めている。　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A beam gun that fires at long range.\r\nOriginally built as a rifle for large\r\nZoids, so it packs a lot of power.\r\n"
+ }
+]

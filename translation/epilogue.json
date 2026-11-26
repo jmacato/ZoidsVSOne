@@ -1,0 +1,1394 @@
+[
+ {
+  "id": 0,
+  "ja": "",
+  "en": "ZOIDS VS.",
+  "cap": 79
+ },
+ {
+  "id": 1,
+  "ja": "",
+  "en": "Decomp, English Translation",
+  "cap": 79
+ },
+ {
+  "id": 2,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 3,
+  "ja": "",
+  "en": "AGPL-3.0-only © 2026 Jumar Macato",
+  "cap": 79
+ },
+ {
+  "id": 4,
+  "ja": "",
+  "en": "This is an unofficial fan translation.",
+  "cap": 79
+ },
+ {
+  "id": 5,
+  "ja": "",
+  "en": "No endorsement from the original",
+  "cap": 79
+ },
+ {
+  "id": 6,
+  "ja": "",
+  "en": "copyright holders is implied.",
+  "cap": 79
+ },
+ {
+  "id": 7,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 8,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 9,
+  "ja": "ＺＯＩＤＳ　ＶＳ．",
+  "en": "ZOIDS VS.",
+  "cap": 79
+ },
+ {
+  "id": 10,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 11,
+  "ja": "スタッフ",
+  "en": "Staff",
+  "cap": 79
+ },
+ {
+  "id": 12,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 13,
+  "ja": "シニアエグゼクティブプロデューサー",
+  "en": "Senior Executive Producer",
+  "cap": 79
+ },
+ {
+  "id": 14,
+  "ja": "!7　富山　幹太郎　　（株式会社トミー）",
+  "en": "  Kantaro Tomiyama (TOMY Company, Ltd.)",
+  "cap": 79
+ },
+ {
+  "id": 15,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 16,
+  "ja": "エグゼクティブプロデューサー",
+  "en": "Executive Producer",
+  "cap": 79
+ },
+ {
+  "id": 17,
+  "ja": "!0　柳澤　茂樹　　（株式会社トミー）",
+  "en": "  Shigeki Yanagisawa (TOMY Company, Ltd.)",
+  "cap": 79
+ },
+ {
+  "id": 18,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 19,
+  "ja": "キャスト ",
+  "en": "Cast",
+  "cap": 79
+ },
+ {
+  "id": 20,
+  "ja": "　バン　　　　　　　　　岸尾　大輔　　",
+  "en": "  Van: Daisuke Kishio",
+  "cap": 79
+ },
+ {
+  "id": 21,
+  "ja": "!1　フィーネ　　　　　　大本　眞基子",
+  "en": "  Fiona: Makiko Ohmoto",
+  "cap": 79
+ },
+ {
+  "id": 22,
+  "ja": "　アーバイン　　　　　　藤原　啓治",
+  "en": "  Irvine: Keiji Fujiwara",
+  "cap": 79
+ },
+ {
+  "id": 23,
+  "ja": "　ハーマン　　　　　　　堀川　仁",
+  "en": "  Herman: Jin Horikawa",
+  "cap": 79
+ },
+ {
+  "id": 24,
+  "ja": "　レイヴン　　　　　　　斎賀　みつき　",
+  "en": "  Raven: Mitsuki Saiga",
+  "cap": 79
+ },
+ {
+  "id": 25,
+  "ja": "!2　ヒルツ　　　　　　　櫻井　孝宏　",
+  "en": "  Hiltz: Takahiro Sakurai",
+  "cap": 79
+ },
+ {
+  "id": 26,
+  "ja": "　リーゼ　　　　　　　　日高　のり子",
+  "en": "  Reese: Noriko Hidaka",
+  "cap": 79
+ },
+ {
+  "id": 27,
+  "ja": "　シュバルツ　　　　　　上田　祐司",
+  "en": "  Schubaltz: Yuji Ueda",
+  "cap": 79
+ },
+ {
+  "id": 28,
+  "ja": "　トーマ　　　　　　　　伊藤　健太郎",
+  "en": "  Thomas: Kentaro Ito",
+  "cap": 79
+ },
+ {
+  "id": 29,
+  "ja": "　ロッソ　　　　　　　　中村　大樹",
+  "en": "  Rosso: Daiki Nakamura",
+  "cap": 79
+ },
+ {
+  "id": 30,
+  "ja": "　ヴィオーラ　　　　　　深見　梨加",
+  "en": "  Viola: Rika Fukami",
+  "cap": 79
+ },
+ {
+  "id": 31,
+  "ja": "　プロイツェン　　　　　大塚　芳忠",
+  "en": "  Prozen: Hochu Otsuka",
+  "cap": 79
+ },
+ {
+  "id": 32,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 33,
+  "ja": "!5　ビット　　　　　　　櫻井　孝宏",
+  "en": "  Bit: Takahiro Sakurai",
+  "cap": 79
+ },
+ {
+  "id": 34,
+  "ja": "　リノン　　　　　　　　川澄　綾子",
+  "en": "  Leena: Ayako Kawasumi",
+  "cap": 79
+ },
+ {
+  "id": 35,
+  "ja": "　バラット　　　　　　　松風　雅也",
+  "en": "  Brad: Masaya Matsukaze",
+  "cap": 79
+ },
+ {
+  "id": 36,
+  "ja": "　ハリー　　　　　　　　高木　渉　　　",
+  "en": "  Harry: Wataru Takagi",
+  "cap": 79
+ },
+ {
+  "id": 37,
+  "ja": "　ベガ　　　　　　　　　くまいもとこ　",
+  "en": "  Vega: Motoko Kumai",
+  "cap": 79
+ },
+ {
+  "id": 38,
+  "ja": "　ジャック　　　　　　　藤原　啓治　　",
+  "en": "  Jack: Keiji Fujiwara",
+  "cap": 79
+ },
+ {
+  "id": 39,
+  "ja": "　レオン　　　　　　　　千葉　進歩",
+  "en": "  Leon: Susumu Chiba",
+  "cap": 79
+ },
+ {
+  "id": 40,
+  "ja": "　ナオミ　　　　　　　　夏樹　リオ　　",
+  "en": "  Naomi: Rio Natsuki",
+  "cap": 79
+ },
+ {
+  "id": 41,
+  "ja": "　マリー　　　　　　　　平松　晶子",
+  "en": "  Mary: Akiko Hiramatsu",
+  "cap": 79
+ },
+ {
+  "id": 42,
+  "ja": "　クリス　　　　　　　　柚木　涼香",
+  "en": "  Chris: Ryoka Yuzuki",
+  "cap": 79
+ },
+ {
+  "id": 43,
+  "ja": "　ケリー　　　　　　　　比嘉　久美子",
+  "en": "  Kelly: Kumiko Higa",
+  "cap": 79
+ },
+ {
+  "id": 44,
+  "ja": "　カークランド　　　　　宮下　道央　　",
+  "en": "  Kirkland: Michio Miyashita",
+  "cap": 79
+ },
+ {
+  "id": 45,
+  "ja": "　ストラ　　　　　　　　咲野　俊介",
+  "en": "  Stoller: Shunsuke Sakuya",
+  "cap": 79
+ },
+ {
+  "id": 46,
+  "ja": "　ピアス　　　　　　　　玉川　紗己子",
+  "en": "  Pierce: Sakiko Tamagawa",
+  "cap": 79
+ },
+ {
+  "id": 47,
+  "ja": "　フーマ　　　　　　　　浅野　まゆみ",
+  "en": "  Fuma: Mayumi Asano",
+  "cap": 79
+ },
+ {
+  "id": 48,
+  "ja": "　ジャッジマン　　　　　堀川　仁　　　",
+  "en": "  Judge: Jin Horikawa",
+  "cap": 79
+ },
+ {
+  "id": 49,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 50,
+  "ja": "　アトレー　　　　　　　日高　のり子　",
+  "en": "  Athle: Noriko Hidaka",
+  "cap": 79
+ },
+ {
+  "id": 51,
+  "ja": "　レジーナ　　　　　　　深見　梨加　　",
+  "en": "  Regina: Rika Fukami",
+  "cap": 79
+ },
+ {
+  "id": 52,
+  "ja": "　ブラッド　　　　　　　松風　雅也　　",
+  "en": "  Blood: Masaya Matsukaze",
+  "cap": 79
+ },
+ {
+  "id": 53,
+  "ja": "　フラン　　　　　　　　玉川　紗己子　",
+  "en": "  Fran: Sakiko Tamagawa",
+  "cap": 79
+ },
+ {
+  "id": 54,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 55,
+  "ja": "　ザン　　　　　　　　　上田　祐司　　",
+  "en": "  Zan: Yuji Ueda",
+  "cap": 79
+ },
+ {
+  "id": 56,
+  "ja": "　ティータ　　　　　　　平松　晶子　　",
+  "en": "  Tita: Akiko Hiramatsu",
+  "cap": 79
+ },
+ {
+  "id": 57,
+  "ja": "　アルバーン　　　　　　咲野　俊介　　",
+  "en": "  Albane: Shunsuke Sakuya",
+  "cap": 79
+ },
+ {
+  "id": 58,
+  "ja": "　ライナー　　　　　　　千葉　進歩　　",
+  "en": "  Reiner: Susumu Chiba",
+  "cap": 79
+ },
+ {
+  "id": 59,
+  "ja": "　マックス　　　　　　　藤原　啓治",
+  "en": "  Max: Keiji Fujiwara",
+  "cap": 79
+ },
+ {
+  "id": 60,
+  "ja": "　クローディア　　　　　柚木　涼香　　",
+  "en": "  Claudia: Ryoka Yuzuki",
+  "cap": 79
+ },
+ {
+  "id": 61,
+  "ja": "　ガルド　　　　　　　　伊藤　健太郎　",
+  "en": "  Gard: Kentaro Ito",
+  "cap": 79
+ },
+ {
+  "id": 62,
+  "ja": "　レザール　　　　　　　中村　大樹　　",
+  "en": "  Lezard: Daiki Nakamura",
+  "cap": 79
+ },
+ {
+  "id": 63,
+  "ja": "　リバイアス　　　　　　川澄　綾子　　",
+  "en": "  Leviathe: Ayako Kawasumi",
+  "cap": 79
+ },
+ {
+  "id": 64,
+  "ja": "　バイパー　　　　　　　大塚　芳忠　　",
+  "en": "  Viper: Hochu Otsuka",
+  "cap": 79
+ },
+ {
+  "id": 65,
+  "ja": "　帝国オペレーター　　　比嘉　久美子　",
+  "en": "  Imperial Operator: Kumiko Higa",
+  "cap": 79
+ },
+ {
+  "id": 66,
+  "ja": "　共和国オペレーター　　浅野　まゆみ　",
+  "en": "  Republic Operator: Mayumi Asano",
+  "cap": 79
+ },
+ {
+  "id": 67,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 68,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 69,
+  "ja": "キャラクターデザイン",
+  "en": "Character Design",
+  "cap": 79
+ },
+ {
+  "id": 70,
+  "ja": "　ＸＥＢＥＣ",
+  "en": "  XEBEC",
+  "cap": 79
+ },
+ {
+  "id": 71,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 72,
+  "ja": "　キャラクターデザイン作画",
+  "en": "  Character Design Artwork",
+  "cap": 79
+ },
+ {
+  "id": 73,
+  "ja": "　　坂崎　忠",
+  "en": "    Tadashi Sakazaki",
+  "cap": 79
+ },
+ {
+  "id": 74,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 75,
+  "ja": "　キャラクター色彩設定",
+  "en": "  Character Color Design",
+  "cap": 79
+ },
+ {
+  "id": 76,
+  "ja": "　　伴　夏代",
+  "en": "    Natsuyo Ban",
+  "cap": 79
+ },
+ {
+  "id": 77,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 78,
+  "ja": "音響制作",
+  "en": "Sound Production",
+  "cap": 79
+ },
+ {
+  "id": 79,
+  "ja": "　株式会社　ハーフ　エイチ・ピー　スタジオ",
+  "en": "  Half H.P Studio, Inc.",
+  "cap": 79
+ },
+ {
+  "id": 80,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 81,
+  "ja": "　音響プロデューサー",
+  "en": "  Sound Producer",
+  "cap": 79
+ },
+ {
+  "id": 82,
+  "ja": "　　西名 　武",
+  "en": "    Takeshi Nishina",
+  "cap": 79
+ },
+ {
+  "id": 83,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 84,
+  "ja": "　録音ディレクター",
+  "en": "  Recording Director",
+  "cap": 79
+ },
+ {
+  "id": 85,
+  "ja": "　　明田川　仁",
+  "en": "    Jin Aketagawa",
+  "cap": 79
+ },
+ {
+  "id": 86,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 87,
+  "ja": "協力",
+  "en": "Cooperation",
+  "cap": 79
+ },
+ {
+  "id": 88,
+  "ja": "　株式会社　小学館プロダクション",
+  "en": "  Shogakukan Productions Co., Ltd.",
+  "cap": 79
+ },
+ {
+  "id": 89,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 90,
+  "ja": "　　中沢　利洋",
+  "en": "    Toshihiro Nakazawa",
+  "cap": 79
+ },
+ {
+  "id": 91,
+  "ja": "　　伊藤　忠久",
+  "en": "    Tadahisa Ito",
+  "cap": 79
+ },
+ {
+  "id": 92,
+  "ja": "　　佐藤　孝司",
+  "en": "    Takashi Sato",
+  "cap": 79
+ },
+ {
+  "id": 93,
+  "ja": "!3　　宮澤　秀典",
+  "en": "    Hidenori Miyazawa",
+  "cap": 79
+ },
+ {
+  "id": 94,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 95,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 96,
+  "ja": "株式会社　トミー",
+  "en": "TOMY Company, Ltd.",
+  "cap": 79
+ },
+ {
+  "id": 97,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 98,
+  "ja": "　ゼネラルマネージャー",
+  "en": "  General Manager",
+  "cap": 79
+ },
+ {
+  "id": 99,
+  "ja": "　　森岡　俊広",
+  "en": "    Toshihiro Morioka",
+  "cap": 79
+ },
+ {
+  "id": 100,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 101,
+  "ja": "　マネージャー",
+  "en": "  Manager",
+  "cap": 79
+ },
+ {
+  "id": 102,
+  "ja": "　　横田　村主",
+  "en": "    Suguru Yokota",
+  "cap": 79
+ },
+ {
+  "id": 103,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 104,
+  "ja": "　マーケティング",
+  "en": "  Marketing",
+  "cap": 79
+ },
+ {
+  "id": 105,
+  "ja": "　　石川　満",
+  "en": "    Mitsuru Ishikawa",
+  "cap": 79
+ },
+ {
+  "id": 106,
+  "ja": "　　小林　正臣",
+  "en": "    Masaomi Kobayashi",
+  "cap": 79
+ },
+ {
+  "id": 107,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 108,
+  "ja": "　セールススタッフ",
+  "en": "  Sales Staff",
+  "cap": 79
+ },
+ {
+  "id": 109,
+  "ja": "　　山本　和彦",
+  "en": "    Kazuhiko Yamamoto",
+  "cap": 79
+ },
+ {
+  "id": 110,
+  "ja": "　　比企野　達也",
+  "en": "    Tatsuya Hikino",
+  "cap": 79
+ },
+ {
+  "id": 111,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 112,
+  "ja": "　スペシャルサンクス",
+  "en": "  Special Thanks",
+  "cap": 79
+ },
+ {
+  "id": 113,
+  "ja": "　　西川　英哉",
+  "en": "    Hideya Nishikawa",
+  "cap": 79
+ },
+ {
+  "id": 114,
+  "ja": "　　柏本　潔",
+  "en": "    Kiyoshi Kashimoto",
+  "cap": 79
+ },
+ {
+  "id": 115,
+  "ja": "　　菊地原　隆",
+  "en": "    Takashi Kikuchihara",
+  "cap": 79
+ },
+ {
+  "id": 116,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 117,
+  "ja": "　　大森　智広",
+  "en": "    Tomohiro Omori",
+  "cap": 79
+ },
+ {
+  "id": 118,
+  "ja": "　　大滝　理",
+  "en": "    Osamu Otaki",
+  "cap": 79
+ },
+ {
+  "id": 119,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 120,
+  "ja": "　　並木　由美子",
+  "en": "    Yumiko Namiki",
+  "cap": 79
+ },
+ {
+  "id": 121,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 122,
+  "ja": "!6　　もみやま　なおひと",
+  "en": "    Naohito Momiyama",
+  "cap": 79
+ },
+ {
+  "id": 123,
+  "ja": "　　野中　大三",
+  "en": "    Daizo Nonaka",
+  "cap": 79
+ },
+ {
+  "id": 124,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 125,
+  "ja": "　　小山　泰司",
+  "en": "    Taiji Koyama",
+  "cap": 79
+ },
+ {
+  "id": 126,
+  "ja": "　　田井中　潤",
+  "en": "    Jun Tainaka",
+  "cap": 79
+ },
+ {
+  "id": 127,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 128,
+  "ja": "　　安藤　恵美",
+  "en": "    Emi Ando",
+  "cap": 79
+ },
+ {
+  "id": 129,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 130,
+  "ja": "　ボーイズ企画部",
+  "en": "  Boys' Toys Planning Dept.",
+  "cap": 79
+ },
+ {
+  "id": 131,
+  "ja": "　　田島　豊",
+  "en": "    Yutaka Tajima",
+  "cap": 79
+ },
+ {
+  "id": 132,
+  "ja": "　　高橋　久直",
+  "en": "    Hisanao Takahashi",
+  "cap": 79
+ },
+ {
+  "id": 133,
+  "ja": "　　大河原　紀雄",
+  "en": "    Norio Okawara",
+  "cap": 79
+ },
+ {
+  "id": 134,
+  "ja": "　　奥津　正道",
+  "en": "    Masamichi Okutsu",
+  "cap": 79
+ },
+ {
+  "id": 135,
+  "ja": "　　大崎　仁規",
+  "en": "    Masanori Osaki",
+  "cap": 79
+ },
+ {
+  "id": 136,
+  "ja": "　　中瀬　崇嗣",
+  "en": "    Takatsugu Nakase",
+  "cap": 79
+ },
+ {
+  "id": 137,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 138,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 139,
+  "ja": "　コンテンツ開発部",
+  "en": "  Content Development Dept.",
+  "cap": 79
+ },
+ {
+  "id": 140,
+  "ja": "　　功刀　文孝",
+  "en": "    Fumitaka Kunugi",
+  "cap": 79
+ },
+ {
+  "id": 141,
+  "ja": "　　山崎　治郎",
+  "en": "    Jiro Yamazaki",
+  "cap": 79
+ },
+ {
+  "id": 142,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 143,
+  "ja": "　ミッションモードシナリオ",
+  "en": "  Mission Mode Scenario",
+  "cap": 79
+ },
+ {
+  "id": 144,
+  "ja": "　　鈴木　力（株式会社クレセント）",
+  "en": "    Chikara Suzuki (Crescent Inc.)",
+  "cap": 79
+ },
+ {
+  "id": 145,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 146,
+  "ja": "　シナリオ協力",
+  "en": "  Scenario Assistance",
+  "cap": 79
+ },
+ {
+  "id": 147,
+  "ja": "　　中島　圭（株式会社アメディオ）",
+  "en": "    Kei Nakajima (Amedio Inc.)",
+  "cap": 79
+ },
+ {
+  "id": 148,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 149,
+  "ja": "　オープニング制作",
+  "en": "  Opening Production",
+  "cap": 79
+ },
+ {
+  "id": 150,
+  "ja": "　ＣＧ制作・プロデュース",
+  "en": "  CG Production and Producing",
+  "cap": 79
+ },
+ {
+  "id": 151,
+  "ja": "　　株式会社デジタル・メディア・ラボ",
+  "en": "    Digital Media Lab Inc.",
+  "cap": 79
+ },
+ {
+  "id": 152,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 153,
+  "ja": "　編集",
+  "en": "  Editing",
+  "cap": 79
+ },
+ {
+  "id": 154,
+  "ja": "　　有限会社　エックスワン",
+  "en": "    X-One Co., Ltd.",
+  "cap": 79
+ },
+ {
+  "id": 155,
+  "ja": "　　　岡林　克樹",
+  "en": "      Katsuki Okabayashi",
+  "cap": 79
+ },
+ {
+  "id": 156,
+  "ja": "　　　中野　利恵",
+  "en": "      Rie Nakano",
+  "cap": 79
+ },
+ {
+  "id": 157,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 158,
+  "ja": "　　株式会社　オンアンドオフ",
+  "en": "    On and Off Inc.",
+  "cap": 79
+ },
+ {
+  "id": 159,
+  "ja": "　　　高橋　保",
+  "en": "      Tamotsu Takahashi",
+  "cap": 79
+ },
+ {
+  "id": 160,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 161,
+  "ja": "　パッケージ・マニュアル",
+  "en": "  Package and Manual",
+  "cap": 79
+ },
+ {
+  "id": 162,
+  "ja": "　　レイアウト",
+  "en": "    Layout",
+  "cap": 79
+ },
+ {
+  "id": 163,
+  "ja": "　　　ＳＴＦ Project　　原口　一也",
+  "en": "      STF Project  Kazuya Haraguchi",
+  "cap": 79
+ },
+ {
+  "id": 164,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 165,
+  "ja": "　　デザイン",
+  "en": "    Design",
+  "cap": 79
+ },
+ {
+  "id": 166,
+  "ja": "　　　Ｃ.Ｒ.Ｍ",
+  "en": "      C.R.M",
+  "cap": 79
+ },
+ {
+  "id": 167,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 168,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 169,
+  "ja": "!4株式会社　ＳＨＯＥＩＳＹＡ",
+  "en": "SHOEISHA Co., Ltd.",
+  "cap": 79
+ },
+ {
+  "id": 170,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 171,
+  "ja": "　プランニング",
+  "en": "  Planning",
+  "cap": 79
+ },
+ {
+  "id": 172,
+  "ja": "　　菊池　徹",
+  "en": "    Toru Kikuchi",
+  "cap": 79
+ },
+ {
+  "id": 173,
+  "ja": "　　浜千代(無所属・新)",
+  "en": "    Hamachiyo (Independent, New)",
+  "cap": 79
+ },
+ {
+  "id": 174,
+  "ja": "　　尾崎　秀丸",
+  "en": "    Hidemaru Ozaki",
+  "cap": 79
+ },
+ {
+  "id": 175,
+  "ja": "　　安達2000ＧＴ",
+  "en": "    Adachi 2000GT",
+  "cap": 79
+ },
+ {
+  "id": 176,
+  "ja": "　　しむら舞子",
+  "en": "    Maiko Shimura",
+  "cap": 79
+ },
+ {
+  "id": 177,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 178,
+  "ja": "　グラフィックデザイン",
+  "en": "  Graphic Design",
+  "cap": 79
+ },
+ {
+  "id": 179,
+  "ja": "　　カズ",
+  "en": "    Kazu",
+  "cap": 79
+ },
+ {
+  "id": 180,
+  "ja": "　　野津　まこと",
+  "en": "    Makoto Nozu",
+  "cap": 79
+ },
+ {
+  "id": 181,
+  "ja": "　　野中（徹志・新）",
+  "en": "    Nonaka (Tetsushi, New)",
+  "cap": 79
+ },
+ {
+  "id": 182,
+  "ja": "　　紀　蔵",
+  "en": "    Norizo",
+  "cap": 79
+ },
+ {
+  "id": 183,
+  "ja": "　　杉園　未来也",
+  "en": "    Mikiya Sugizono",
+  "cap": 79
+ },
+ {
+  "id": 184,
+  "ja": "　　西村　貴之",
+  "en": "    Takayuki Nishimura",
+  "cap": 79
+ },
+ {
+  "id": 185,
+  "ja": "　　阿部　恵美",
+  "en": "    Emi Abe",
+  "cap": 79
+ },
+ {
+  "id": 186,
+  "ja": "　　佐藤　和子",
+  "en": "    Kazuko Sato",
+  "cap": 79
+ },
+ {
+  "id": 187,
+  "ja": "　　Nobuchika_Hirai",
+  "en": "    Nobuchika Hirai",
+  "cap": 79
+ },
+ {
+  "id": 188,
+  "ja": "　　Alan_Smithee",
+  "en": "    Alan Smithee",
+  "cap": 79
+ },
+ {
+  "id": 189,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 190,
+  "ja": "　プログラミング",
+  "en": "  Programming",
+  "cap": 79
+ },
+ {
+  "id": 191,
+  "ja": "　　さやま.ゆ（アルテア）",
+  "en": "    Sayama.Yu (Altair)",
+  "cap": 79
+ },
+ {
+  "id": 192,
+  "ja": "　　たぁさん （アルテア）",
+  "en": "    Taa-san (Altair)",
+  "cap": 79
+ },
+ {
+  "id": 193,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 194,
+  "ja": "　作曲＆効果音",
+  "en": "  Music and Sound Effects",
+  "cap": 79
+ },
+ {
+  "id": 195,
+  "ja": "　　有限会社　光遊社",
+  "en": "    Koyusha Co., Ltd.",
+  "cap": 79
+ },
+ {
+  "id": 196,
+  "ja": "　　　佐藤　隆一",
+  "en": "      Ryuichi Sato",
+  "cap": 79
+ },
+ {
+  "id": 197,
+  "ja": "　　　山口　和高",
+  "en": "      Kazutaka Yamaguchi",
+  "cap": 79
+ },
+ {
+  "id": 198,
+  "ja": "　　　竹本　晃",
+  "en": "      Akira Takemoto",
+  "cap": 79
+ },
+ {
+  "id": 199,
+  "ja": "　　　ＳＨＩＮ",
+  "en": "      SHIN",
+  "cap": 79
+ },
+ {
+  "id": 200,
+  "ja": "　　　諸橋　邦行",
+  "en": "      Kuniyuki Morohashi",
+  "cap": 79
+ },
+ {
+  "id": 201,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 202,
+  "ja": "　ディレクション",
+  "en": "  Direction",
+  "cap": 79
+ },
+ {
+  "id": 203,
+  "ja": "　　菊池　徹",
+  "en": "    Toru Kikuchi",
+  "cap": 79
+ },
+ {
+  "id": 204,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 205,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 206,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 207,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 208,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 209,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 210,
+  "ja": "　総合プロデューサー",
+  "en": "  General Producer",
+  "cap": 79
+ },
+ {
+  "id": 211,
+  "ja": "　　おざわ　ふみひこ",
+  "en": "    Fumihiko Ozawa",
+  "cap": 79
+ },
+ {
+  "id": 212,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 213,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 214,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 215,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 216,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 217,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 218,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 219,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 220,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 221,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 222,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 223,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 224,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 225,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 226,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 227,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 228,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 229,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 230,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 231,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ }
+]

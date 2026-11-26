@@ -1,0 +1,37 @@
+[
+ {
+  "id": "short title",
+  "ja": "ゾイドバーサス",
+  "en": "Zoids VS.",
+  "cap": 32,
+  "offset": "0x1820"
+ },
+ {
+  "id": "short maker",
+  "ja": "TOMY",
+  "en": "TOMY",
+  "cap": 32,
+  "offset": "0x1840"
+ },
+ {
+  "id": "long title",
+  "ja": "ゾイドバーサス",
+  "en": "Zoids VS.",
+  "cap": 64,
+  "offset": "0x1860"
+ },
+ {
+  "id": "long maker",
+  "ja": "(C)1983-2002　TOMY",
+  "en": "(C)1983-2002 TOMY",
+  "cap": 64,
+  "offset": "0x18a0"
+ },
+ {
+  "id": "description",
+  "ja": "(C)1999-2001　SHO-PRO・MBS・JRK",
+  "en": "(C)1999-2001 SHO-PRO/MBS/JRK",
+  "cap": 128,
+  "offset": "0x18e0"
+ }
+]

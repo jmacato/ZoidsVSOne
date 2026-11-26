@@ -1,0 +1,205 @@
+#include "types.h"
+
+/* s382..s1983 are unreferenced here; they keep the unit's .rodata layout */
+static const char s382[] = "shadow.h";
+static const char s395[] = "shadow alloc error\n";
+static const char s481[] = "unmatch versions between system(%d) and ptcl-file(%d)";
+static const char s499[] = "MemCardInit\n";
+static const char s538[] = "MemCard%d SECTOR \n";
+static const char s566[] = "MemCard Mount \215\317\n";
+static const char s567[] = "MemCard Mount set \n";
+static const char s568[] = "MemCard Mount Ok :";
+static const char s569[] = "\t\217C\225\2341\216\270\224s. (%d)\n";
+static const char s570[] = "\tCardUnMount. (%d)\n";
+static const char s571[] = "\t\217C\225\234 Ok \n";
+static const char s572[] = "\tMount %d \n";
+static const char s573[] = "MemCard Mount End \n";
+static const char s605[] = "\t\217C\225\2342\216\270\224s. (%d)\n";
+static const char s625[] = "\t\217C\225\2343\216\270\224s. (%d)\n";
+static const char s655[] = "MemCard Mountnochk \n";
+static const char s667[] = "Memcard EncErr\n";
+static const char s669[] = "Memcard EncErr1End\n";
+static const char s685[] = "MemCard FormatOk \n";
+static const char s707[] = "MemCard \216g\227p\202\305\202\253\202\310\202\242\203J\201[\203h \n";
+static const char s715[] = "MemCard%d mcerrIO\203G\203\211\201[ \n";
+static const char s716[] = "MemCard%d mcerr\203\201\203\202\203\212\203J\201[\203h\202\305\202\310\202\242 \n";
+static const char s717[] = "MemCard%d mcerr\224j\211\363\n";
+static const char s741[] = "MemCard freesize=%d freedir=%d \n";
+static const char s743[] = "NEED FILENUM";
+static const char s753[] = "\tLeave StartCheck\n";
+static const char s763[] = "\tUnMount \216\270\224s\n";
+static const char s776[] = "CARD Format :";
+static const char s777[] = "\t\217\211\212\372\211\273\216\270\224s 1st . (%d)\n";
+static const char s778[] = "\t\217\211\212\372\211\273\216\270\224s 2nd . (%d)\n";
+static const char s779[] = "\t\217\211\212\372\211\273 done. (%d)\n";
+static const char s783[] = "GetStatus \n";
+static const char s784[] = "failed. (%d)\n";
+static const char s785[] = "\tGameName:%.4s Company:%.2s Fno:%d\n";
+static const char s786[] = "\tSaveSize:%d Time:%d \n";
+static const char s787[] = "\tfileName[%.32s] MSG[ADR=%d] \n";
+static const char s788[] = "\tFreeSize:%d FreeDir:%d \n";
+static const char s807[] = "\tCARDGetSectorSize() failed. (%d)\n";
+static const char s808[] = "File:%s Delete \n";
+static const char s809[] = "MemCard \215\354\220\254 1st\t";
+static const char s810[] = "done. (%d:%d:%d)\n";
+static const char s811[] = "TypeStart\n%sTypeEnd\n";
+static const char s812[] = "CARDWriteSize \203f\201[\203^\203T\203C\203Y%dByte \203Z\201[\203u\203T\203C\203Y%dByte\n";
+static const char s813[] = "\203\201\203\202\203\212\223]\221\227 %d Byte %x\n";
+static const char s814[] = "CARD CLOSE OK\n";
+static const char s815[] = "CARD \203\201\203\202\203\212\212J\225\372OK\n";
+static const char s832[] = "CARDWrite %dByte SaveSize=%d \n";
+static const char s833[] = "failedwrite_a. (%d)\n";
+static const char s834[] = "\tWriteByte(%8d)\n";
+static const char s835[] = "failedwrite_b. (%d)\n";
+static const char s836[] = "done. (%d)\n";
+static const char s847[] = "MemCardOpen\t%s ";
+static const char s849[] = "MemCard ReOpen\t%s \n";
+static const char s861[] = "MemCardClose\t";
+static const char s874[] = "\245\245Busy\245\245";
+static const char s910[] = "\t\203\201\203\202\203\212\201[SizeErr1:%d %x\n";
+static const char s911[] = "\t\203\201\203\202\203\212\201[SizeErr2:%d %x\n";
+static const char s912[] = "MemCardRead %dByte %dByte \n";
+static const char s913[] = "\t\203\201\203\202\203\212\201[\212m\225\333:%d %x\n";
+static const char s914[] = "Read:failed. (%d)\n";
+static const char s915[] = "\tReadByte(%d)\n";
+static const char s916[] = "failedB. (%d)\n";
+static const char s917[] = "done. (%d) %d Byte\n";
+static const char s918[] = "\t\203\201\203\202\203\212\201[ReadSizeErr:%d %x\n";
+static const char s922[] = "/etc/zoidvs.tga";
+static const char s923[] = "/etc/ci.tpl";
+static const u8 s924[12] = {0x80, 0x0E, 0xE7, 0xC8, 0x80, 0x0E, 0xE7, 0xD8, 0x80, 0x2A, 0x00, 0x70};
+static const char s971[] = "Memcpy St\n";
+static const char s972[] = "\203]\203C\203h\203o\201[\203T\203X                                   ";
+static const char s973[] = "ICON NO IMG\n";
+static const char s974[] = "CLUT ERR\n";
+static const char s975[] = "CLUT OK\n";
+static const char s976[] = "ICON NO CLUT\n";
+static const char s977[] = "Status set\217\200\224\365 memcpy\n";
+static const char s1011[] = "MemFile SaveSt slot=%d fname=[%s] iveno=%d\n";
+static const char s1066[] = "Load1:End Stage=%d Mapno=%d Single=%d NowZoid=%d NowCust=%d \220l\225\250=%d \213\340=%d\n";
+static const char s1067[] = "Zoid\202\314\203f\201[\203^\202\305\202\310\202\242\n";
+static const char s1068[] = "Zoid\202\314\203f\201[\203^\201F\203`\203F\203b\203N\203T\203\200\203G\203\211\201[\n";
+static const char s1145[] = "Memcard MsgWaitPut:SLOT=%d MSGNO=%d\n";
+static const char s1172[] = "Memcard MsgWaitPutNotSlotChk:SLOT=%d MSGNO=%d\n";
+static const char s1184[] = "MSG WAIT";
+static const char s1194[] = "MSG WAIT NoChkSlot";
+static const char s1208[] = "\203v\203\214\203C\203f\201[\203^\201@\201@                                 ";
+static const char s1209[] = "ZOIDSVS.TEA";
+static const char s1210[] = "MemCardFileMake\226\263\202\265 \203t\203@\203C\203\213\203N\203\212\203G\203C\203g\212J\216n\n";
+static const char s1211[] = "MemCardFileMake\226\263\202\265 \203t\203@\203C\203\213\203N\203\212\203G\203C\203g\216\270\224s\n";
+static const char s1212[] = "MemCardFileICON\217\356\225\361\220\266\220\254\216\270\224s \n";
+static const char s1213[] = "MemCardFileICON\217\356\225\361\220\266\220\254 \220\254\214\367 \n";
+static const char s1221[] = "CARDMakeIconSize \203f\201[\203^\203T\203C\203Y%dByte \203Z\201[\203u\203T\203C\203Y%dByte\n";
+static const char s1222[] = "CARDMakeIconSize \216\270\224s\n";
+static const char s1223[] = "CARDMakeIconSize \220\254\214\367\n";
+static const char s1240[] = "CARDWriteG %dByte SaveSize=%d no=%d \n";
+static const char s1257[] = "\t\203\201\203\202\203\212\201[\203t\203@\203C\203\213\203\212\201[\203h\203M\203\203\203U\216\270\224s \n";
+static const char s1258[] = "\t\203\201\203\202\203\212\201[\212m\225\333RG:%d %x no=%d \n";
+static const char s1259[] = "\tReadByteRG(%d)\n";
+static const char s1260[] = "done.RG (%d) %d Byte size=%d\n";
+static const char s1297[] = "\n\n\nLoad\213\214:Start Stage=%d Mapno=%d Single=%d NowZoid=%d NowCust=%d\n \220l\225\250=%d \213\340=%d partsnum=%d posh=%d %s \225\252\212\204%d SaveSize=%d\n";
+static const char s1298[] = "MemSaveFile0 EndSUM:%d %s \n";
+static const char s1350[] = "\n\nLoadGather:End1 Stage=%d Mapno=%d Single=%d NowZoid=%d NowCust=%d\n \220l\225\250=%d \213\340=%d partsnum=%d posh=%d %s \225\252\212\204%d\n";
+static const char s1351[] = "\n\nLoadGather:End2 \203o\203g\203N\203\212\203A=%d Stage=%d Mapno=%d Single=%d NowZoid=%d NowCust=%d\n \220l\225\250=%d \213\340=%d partsnum=%d posh=%d %s \225\252\212\204%d\n";
+static const char s1354[] = "Zoid\202\314\203f\201[\203^\201F\203`\203F\203b\203N\203T\203\200\203G\203\211\201[ SUM=%d \n";
+static const char s1382[] = "File1:%s Delete \n";
+static const char s1383[] = "\203t\203@\203C\203\213\215\354\220\2540\216\270\224sIOERR\n";
+static const char s1440[] = "MCC Enum ...";
+static const char s1442[] = "MCCEnumDevices() error\nTerminated\n";
+static const char s1443[] = "MCCEnum %d\n";
+static const char s1444[] = "\tMCC.NG\tUSB Server\202\306\202\314\222\312\220M\202\311\216\270\224s\n";
+static const char s1445[] = "\tMCC.OK\t\n";
+static const char s1446[] = "MccOpen Ok\n";
+static const char s1447[] = "MccOpen Err\n";
+static const char s1448[] = "MCC Fail\n";
+static const char s1449[] = "TTY Init .";
+static const char s1459[] = "FIO Init .";
+static const char s1461[] = " Host\222\342\216~\222\206!\t\n";
+static const char s1462[] = " Active\t\n";
+static const char s1483[] = "\tUSBAdapter EXI=%d\t";
+static const char s1494[] = "MCC PING Recv \n";
+static const char s1495[] = "MCC RePING Recv \n";
+static const char s1527[] = "mcc\203f\201[\203^\216\363\220M\217I\227\271\n";
+static const char s1528[] = "XFB BMP\221\227\220M\227v\213\201\223\301\214\240\226\275\227\337\216\363\220M ADR=%08X\n";
+static const char s1540[] = "mcc\203R\203\223\203g\203\215\201[\203\213\203R\201[\203h\216\363\220M\n";
+static const char s1541[] = "Recive 1stProc\217I\227\271\n";
+static const char s1542[] = " ApiCodex=%04X SubCode=%04X Size=%8X \n";
+static const char s1543[] = " ApiCoded=%04d SubCode=%04d Size=%8d \n";
+static const char s1544[] = "\217I\227\271\203R\201[\203h\212m\224F\n";
+static const char s1573[] = "usbSendBuf:\203X\203\214\203b\203h\215\354\220\254\225s\211\302\n";
+static const char s1589[] = "usbSendBufApi:\203X\203\214\203b\203h\215\354\220\254\225s\211\302\n";
+static const char s1590[] = "usbSendBufApiLeave:\203X\203\214\203b\203h\215\354\220\254\225s\211\302\n";
+static const char s1668[] = "XFB BMP\221\227\220M\227v\213\201\216\363\220M ADR=%08X\n";
+static const char s1676[] = "NowTime %d/%d/%d %02d:%02d:%02d \n";
+static const char s1678[] = "\212m\224F\203R\201[\203h\221\227\220M\n";
+static const char s1701[] = "mccwrite st1 size=%8d \227]\202\350=%04d adiv=%d rest=%d\n";
+static const char s1702[] = "mccwrite err count=%d\n";
+static const char s1703[] = "mccwrite ok\n";
+static const char s1705[] = "mccwrite End\n";
+static const char s1708[] = "mcchiowritemailbox\n";
+static const char s1723[] = "audio/se/se";
+static const char s1738[] = "SE Restore %d=%s\n";
+static const char s1757[] = "SE Load Num=%d fn=%s\n";
+static const char s1762[] = "SE UnLoaded POP POP POP now=%d\n";
+static const char s1955[] = "voice/%02d/V%02d_%02d.adp";
+static const char s1977[] = "SEQ StopSeq \n";
+static const char s1978[] = "SEQ Free \n";
+static const char s1979[] = "audio/bgm/%s.son";
+static const char s1980[] = "SEQ Play FileChk %s \n";
+static const char s1981[] = "audio/bgm/%s";
+static const char s1982[] = "SEQ LoadSfxOk \n";
+static const char s1983[] = "SEQ PlayOk %s \n";
+static const char sSeqStopFormat[] = "SEQ STOP %s\n";
+static const char sSeqPlayVolSetFormat[] = "SEQ PLAY OK VOLSET  %d\n";
+static const char sAudioSeqIdFormat[] = "AUDIO -----%d \n";
+static const char sSeqPlayFormat[] = "SEQ PLAY %s\n";
+
+extern s32 TeaSeqPlayFlag;
+extern u32 TeaSeqId;
+extern s16 TEA_BGMNO;
+extern s16 TEA_BGMVOL;
+extern void OSReport(const char *format, ...);
+extern void TEA_AudioSeqStop(void);
+extern void TEA_AudioSeqFree(void);
+extern s32 sReadPre(void);
+extern u32 HSD_AudioSeqPlay(s32 group, s32 song, char *name, s32 flags);
+extern s32 HSD_AudioSeqPlayCheck(void);
+extern u32 HSD_AudioSeqPlayGetSeqId(void);
+extern void TEA_AudioSeqVolume(u8 volume, s32 a, s32 b);
+
+void TEA_SeqPlay(s32 group, s32 song, char *name)
+{
+    u32 id;
+
+    if (TeaSeqPlayFlag == 1) {
+        OSReport(sSeqStopFormat, name);
+        TEA_AudioSeqStop();
+        TEA_AudioSeqFree();
+        TeaSeqPlayFlag = 0;
+    }
+    if (name == 0) {
+        TEA_BGMNO = -1;
+        return;
+    }
+    if (name[0] == 0) {
+        TEA_BGMNO = -1;
+        return;
+    }
+    sReadPre();
+    id = HSD_AudioSeqPlay(group, song, name, 0);
+    OSReport(sSeqPlayVolSetFormat, id);
+    if (id == -1) {
+        TEA_BGMNO = -1;
+        TeaSeqPlayFlag = 0;
+        return;
+    }
+    while (HSD_AudioSeqPlayCheck() == 1) {
+        sReadPre();
+    }
+    id = HSD_AudioSeqPlayGetSeqId();
+    OSReport(sAudioSeqIdFormat, id);
+    TeaSeqPlayFlag = 1;
+    TeaSeqId = id;
+    TEA_AudioSeqVolume(TEA_BGMVOL, 0, 0);
+    OSReport(sSeqPlayFormat, name);
+}

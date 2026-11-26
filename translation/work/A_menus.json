@@ -1,0 +1,1213 @@
+[
+ {
+  "id": 0,
+  "offset": 0,
+  "bytes": 44,
+  "ja": "　　　　　オリジナルストーリーモードです。　",
+  "en": "         Play Original Story Mode."
+ },
+ {
+  "id": 1,
+  "offset": 46,
+  "bytes": 44,
+  "ja": "　　　　　勝ち抜きゾイドバトルモードです。　",
+  "en": "   Fight a gauntlet in Zoid Battle Mode."
+ },
+ {
+  "id": 2,
+  "offset": 92,
+  "bytes": 44,
+  "ja": "　　　　　　　１対１の対戦モードです。　　　",
+  "en": "          One-on-one battle mode."
+ },
+ {
+  "id": 3,
+  "offset": 138,
+  "bytes": 44,
+  "ja": "　　　　　　ゲームの各種設定を行えます。　　",
+  "en": "       Change various game settings."
+ },
+ {
+  "id": 4,
+  "offset": 184,
+  "bytes": 134,
+  "ja": "　スロットＡのメモリーカードの　\r\n　データは壊れている可能性が　　\r\n　あります。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "The data on the Memory Card\r\nin Slot A may be corrupted."
+ },
+ {
+  "id": 5,
+  "offset": 320,
+  "bytes": 134,
+  "ja": "　　本体のメモリーカード画面で　\r\n　　確認し、セーブデータを　　　\r\n　　消して下さい。　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Check it in the Nintendo\r\nGameCube Memory Card Screen\r\nand delete the save data."
+ },
+ {
+  "id": 6,
+  "offset": 456,
+  "bytes": 44,
+  "ja": "　　　　　　　新しくゲームを始めます。　　　",
+  "en": "             Start a new game."
+ },
+ {
+  "id": 7,
+  "offset": 502,
+  "bytes": 44,
+  "ja": "　　　　データをロードしてゲームを始めます。",
+  "en": "       Load saved data and continue."
+ },
+ {
+  "id": 8,
+  "offset": 548,
+  "bytes": 44,
+  "ja": "　　　　　共和国のストーリーを開始します。　",
+  "en": "        Start the Republic's story."
+ },
+ {
+  "id": 9,
+  "offset": 594,
+  "bytes": 44,
+  "ja": "　　　　　　帝国のストーリーを開始します。　",
+  "en": "         Start the Empire's story."
+ },
+ {
+  "id": 10,
+  "offset": 640,
+  "bytes": 44,
+  "ja": "サブパーツスロットを選択してください。　　　",
+  "en": "Select a Sub-Parts Slot."
+ },
+ {
+  "id": 11,
+  "offset": 686,
+  "bytes": 40,
+  "ja": "ＶＳモードのバトルタイムを設定します。　",
+  "en": "Set the battle time for VS Mode."
+ },
+ {
+  "id": 12,
+  "offset": 728,
+  "bytes": 134,
+  "ja": "　セーブメニューを終了しますか？\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Exit the Save menu?"
+ },
+ {
+  "id": 13,
+  "offset": 864,
+  "bytes": 134,
+  "ja": "　ロードメニューを終了しますか？\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Exit the Load menu?"
+ },
+ {
+  "id": 14,
+  "offset": 1000,
+  "bytes": 40,
+  "ja": "ＶＳモードの画面分割を縦割りにします。　",
+  "en": "Split the VS Mode screen vertically."
+ },
+ {
+  "id": 15,
+  "offset": 1042,
+  "bytes": 40,
+  "ja": "ＶＳモードの画面分割を横割りにします。　",
+  "en": "Split the VS Mode screen horizontally."
+ },
+ {
+  "id": 16,
+  "offset": 1084,
+  "bytes": 40,
+  "ja": "プレイヤーのエントリーを行います。　　　",
+  "en": "Set up the player's Entry."
+ },
+ {
+  "id": 17,
+  "offset": 1126,
+  "bytes": 40,
+  "ja": "パートナーのエントリーを行います。　　　",
+  "en": "Set up the partner's Entry."
+ },
+ {
+  "id": 18,
+  "offset": 1168,
+  "bytes": 40,
+  "ja": "プレイヤーのパイロットを選択します。　　",
+  "en": "Select the player's pilot."
+ },
+ {
+  "id": 19,
+  "offset": 1210,
+  "bytes": 40,
+  "ja": "プレイヤーのゾイドを選択します。　　　　",
+  "en": "Select the player's Zoid."
+ },
+ {
+  "id": 20,
+  "offset": 1252,
+  "bytes": 40,
+  "ja": "パートナーのパイロットを選択します。　　",
+  "en": "Select the partner's pilot."
+ },
+ {
+  "id": 21,
+  "offset": 1294,
+  "bytes": 40,
+  "ja": "パートナーのゾイドを選択します。　　　　",
+  "en": "Select the partner's Zoid."
+ },
+ {
+  "id": 22,
+  "offset": 1336,
+  "bytes": 40,
+  "ja": "エントリーを終了します。　　　　　　　　",
+  "en": "Finish Entry."
+ },
+ {
+  "id": 23,
+  "offset": 1378,
+  "bytes": 40,
+  "ja": "パイロットを選択してください。　　　　　",
+  "en": "Select a pilot."
+ },
+ {
+  "id": 24,
+  "offset": 1420,
+  "bytes": 40,
+  "ja": "ゾイドを選択してください。　　　　　　　",
+  "en": "Select a Zoid."
+ },
+ {
+  "id": 25,
+  "offset": 1462,
+  "bytes": 40,
+  "ja": "ゾイド変更を行います。　　　　　　　　　",
+  "en": "Change your Zoid."
+ },
+ {
+  "id": 26,
+  "offset": 1504,
+  "bytes": 40,
+  "ja": "ウエポン変更を行います。　　　　　　　　",
+  "en": "Change Weapons."
+ },
+ {
+  "id": 27,
+  "offset": 1546,
+  "bytes": 40,
+  "ja": "オプションウエポン変更を行います。　　　",
+  "en": "Change Option Weapons."
+ },
+ {
+  "id": 28,
+  "offset": 1588,
+  "bytes": 40,
+  "ja": "サブパーツ変更を行います。　　　　　　　",
+  "en": "Change Sub-Parts."
+ },
+ {
+  "id": 29,
+  "offset": 1630,
+  "bytes": 40,
+  "ja": "すべてのセッティングを解除します。　　　",
+  "en": "Reset the entire setup."
+ },
+ {
+  "id": 30,
+  "offset": 1672,
+  "bytes": 40,
+  "ja": "セッティングを終了します。　　　　　　　",
+  "en": "Exit Setup."
+ },
+ {
+  "id": 31,
+  "offset": 1714,
+  "bytes": 40,
+  "ja": "マップインフォメーションを終了します。　",
+  "en": "Exit Map Information."
+ },
+ {
+  "id": 32,
+  "offset": 1756,
+  "bytes": 40,
+  "ja": "ウエポンスロットを選択してください。　　",
+  "en": "Select a Weapon Slot."
+ },
+ {
+  "id": 33,
+  "offset": 1798,
+  "bytes": 40,
+  "ja": "ウエポンを選択してください。　　　　　　",
+  "en": "Select a Weapon."
+ },
+ {
+  "id": 34,
+  "offset": 1840,
+  "bytes": 40,
+  "ja": "オプションウエポンを選択します。　　　　",
+  "en": "Select an Option Weapon."
+ },
+ {
+  "id": 35,
+  "offset": 1882,
+  "bytes": 40,
+  "ja": "サブパーツを選択してください。　　　　　",
+  "en": "Select Sub-Parts."
+ },
+ {
+  "id": 36,
+  "offset": 1924,
+  "bytes": 40,
+  "ja": "マップ状況を確認します。　　　　　　　　",
+  "en": "Check the current map status."
+ },
+ {
+  "id": 37,
+  "offset": 1966,
+  "bytes": 22,
+  "ja": "です。　　　　　　　　",
+  "en": "."
+ },
+ {
+  "id": 38,
+  "offset": 1990,
+  "bytes": 40,
+  "ja": "の\r\nウエポンを購入します。　　　　　　　",
+  "en": ":\r\nBuy Weapons for this Zoid."
+ },
+ {
+  "id": 39,
+  "offset": 2032,
+  "bytes": 40,
+  "ja": "の\r\nオプションを購入します。　　　　　　",
+  "en": ":\r\nBuy Options for this Zoid."
+ },
+ {
+  "id": 40,
+  "offset": 2074,
+  "bytes": 40,
+  "ja": "の\r\nサブパーツを購入します。　　　　　　",
+  "en": ":\r\nBuy Sub-Parts for this Zoid."
+ },
+ {
+  "id": 41,
+  "offset": 2116,
+  "bytes": 134,
+  "ja": "所有パーツリストがいっぱいのため\r\nパーツを外す事ができません。　　\r\nパーツを売却する等して、　　　　\r\nパーツを減らしてください。　　　",
+  "en": "Your Parts List is full, so\r\nparts can't be removed.\r\nSell parts or otherwise\r\nfree up space in the list."
+ },
+ {
+  "id": 42,
+  "offset": 2252,
+  "bytes": 40,
+  "ja": "ＢＧＭテスト、ボリューム調整を行います。",
+  "en": "Test BGM and adjust volume."
+ },
+ {
+  "id": 43,
+  "offset": 2294,
+  "bytes": 40,
+  "ja": "ボイステスト、ボリューム調整を行います。",
+  "en": "Test voices and adjust volume."
+ },
+ {
+  "id": 44,
+  "offset": 2336,
+  "bytes": 40,
+  "ja": "バイブレーションの設定を行います。　　　",
+  "en": "Change vibration settings."
+ },
+ {
+  "id": 45,
+  "offset": 2378,
+  "bytes": 40,
+  "ja": "ＶＳモードの画面分割設定を行います。　　",
+  "en": "Change VS Mode split-screen settings."
+ },
+ {
+  "id": 46,
+  "offset": 2420,
+  "bytes": 40,
+  "ja": "コンフィグを終了します。　　　　　　　　",
+  "en": "Exit Config."
+ },
+ {
+  "id": 47,
+  "offset": 2462,
+  "bytes": 40,
+  "ja": "ゲーム中のボリュームを調整します。　　　",
+  "en": "Adjust the in-game volume."
+ },
+ {
+  "id": 48,
+  "offset": 2504,
+  "bytes": 40,
+  "ja": "ボイステストを行います。　　　　　　　　",
+  "en": "Test voices."
+ },
+ {
+  "id": 49,
+  "offset": 2546,
+  "bytes": 124,
+  "ja": "エントリーを行います。　　　　　　　　　\r\nバトルで使用する、パイロットとゾイドの　\r\n選択を行ってください。　　　　　　　　　",
+  "en": "Make your Entry.\r\nChoose the pilots and Zoids you'll\r\nuse in battle."
+ },
+ {
+  "id": 50,
+  "offset": 2672,
+  "bytes": 124,
+  "ja": "ゾイドのセッティングを行います。　　　　\r\n装備変更、カラーチェンジなどが可能です。\r\nオリジナル専用機にカスタマイズできます。",
+  "en": "Set up your Zoid.\r\nChange equipment, colors, and more.\r\nBuild your own custom machine."
+ },
+ {
+  "id": 51,
+  "offset": 2798,
+  "bytes": 124,
+  "ja": "ゾイドショップです。　　　　　　　　　　\r\nゾイド、ウエポン等の売買を行います。　　\r\n購入にはバトルで獲得したＢＰが必要です。",
+  "en": "This is the Zoid Shop.\r\nBuy and sell Zoids, Weapons, etc.\r\nPurchases require BP won in battle."
+ },
+ {
+  "id": 52,
+  "offset": 2924,
+  "bytes": 124,
+  "ja": "マップインフォメーションです。　　　　　\r\n勝利条件と敗北条件の確認。　　　　　　　\r\nバトルを行うマップの情報を確認できます。",
+  "en": "This is Map Information.\r\nCheck Victory and Defeat Conditions.\r\nView info on the battlefield map."
+ },
+ {
+  "id": 53,
+  "offset": 3050,
+  "bytes": 124,
+  "ja": "ゲームのセーブ、ロードを行います。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Save or load your game."
+ },
+ {
+  "id": 54,
+  "offset": 3176,
+  "bytes": 124,
+  "ja": "現在エントリーをされている、プレイヤーと\r\nパートナーをチェンジします。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Swap the currently entered player\r\nand partner."
+ },
+ {
+  "id": 55,
+  "offset": 3302,
+  "bytes": 124,
+  "ja": "バトルを開始します。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Start the battle."
+ },
+ {
+  "id": 56,
+  "offset": 3428,
+  "bytes": 124,
+  "ja": "ＢＧＭテスト、ボリューム調整を行います。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Test BGM and adjust volume."
+ },
+ {
+  "id": 57,
+  "offset": 3554,
+  "bytes": 124,
+  "ja": "ゾイド、ウエポン等の購入を行います。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Buy Zoids, Weapons, and more."
+ },
+ {
+  "id": 58,
+  "offset": 3680,
+  "bytes": 124,
+  "ja": "ゾイド、ウエポン等の売却を行います。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sell Zoids, Weapons, and more."
+ },
+ {
+  "id": 59,
+  "offset": 3806,
+  "bytes": 124,
+  "ja": "ゾイドを購入します。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Buy Zoids."
+ },
+ {
+  "id": 60,
+  "offset": 3932,
+  "bytes": 124,
+  "ja": "ウエポンを購入します。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Buy Weapons."
+ },
+ {
+  "id": 61,
+  "offset": 4058,
+  "bytes": 124,
+  "ja": "オプションを購入します。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Buy Options."
+ },
+ {
+  "id": 62,
+  "offset": 4184,
+  "bytes": 124,
+  "ja": "サブパーツを購入します。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Buy Sub-Parts."
+ },
+ {
+  "id": 63,
+  "offset": 4310,
+  "bytes": 124,
+  "ja": "ゾイドを売却します。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sell Zoids."
+ },
+ {
+  "id": 64,
+  "offset": 4436,
+  "bytes": 124,
+  "ja": "ウエポンを売却します。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sell Weapons."
+ },
+ {
+  "id": 65,
+  "offset": 4562,
+  "bytes": 124,
+  "ja": "オプションを売却します。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sell Options."
+ },
+ {
+  "id": 66,
+  "offset": 4688,
+  "bytes": 124,
+  "ja": "サブパーツを売却します。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sell Sub-Parts."
+ },
+ {
+  "id": 67,
+  "offset": 4814,
+  "bytes": 124,
+  "ja": "バイブレーションをＯＦＦにします。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Turn vibration OFF."
+ },
+ {
+  "id": 68,
+  "offset": 4940,
+  "bytes": 124,
+  "ja": "購入するウエポンに対応したゾイドを選択し\r\nてください。　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Select a Zoid that can use the\r\nWeapon you want to buy."
+ },
+ {
+  "id": 69,
+  "offset": 5066,
+  "bytes": 124,
+  "ja": "購入するオプションに対応したゾイドを選択\r\nしてください。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Select a Zoid that can use the\r\nOption you want to buy."
+ },
+ {
+  "id": 70,
+  "offset": 5192,
+  "bytes": 124,
+  "ja": "購入するサブパーツに対応したゾイドを選択\r\nしてください。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Select a Zoid that can use the\r\nSub-Parts you want to buy."
+ },
+ {
+  "id": 71,
+  "offset": 5318,
+  "bytes": 124,
+  "ja": "このウエポンは取り外しできません。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "This Weapon can't be removed."
+ },
+ {
+  "id": 72,
+  "offset": 5444,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\n　　　バトルを開始します。　　　\r\n　　　　よろしいですか？　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\n       Start the battle.\r\n         Are you sure?"
+ },
+ {
+  "id": 73,
+  "offset": 5580,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\n　　エントリーを終了します。　　\r\n　　　　よろしいですか？　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\n         Finish Entry.\r\n         Are you sure?"
+ },
+ {
+  "id": 74,
+  "offset": 5716,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\nセッティングをすべて解除します。\r\n　　　　よろしいですか？　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\n    Reset the entire setup.\r\n         Are you sure?"
+ },
+ {
+  "id": 75,
+  "offset": 5852,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\n　　　　　　購入します。　　　　\r\n　　　　よろしいですか？　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\n      Make this purchase.\r\n         Are you sure?"
+ },
+ {
+  "id": 76,
+  "offset": 5988,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\n　　　　　　売却します。　　　　\r\n　　　　よろしいですか？　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\n        Sell this item.\r\n         Are you sure?"
+ },
+ {
+  "id": 77,
+  "offset": 6124,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\n　　　データをセーブします。　　\r\n　　　　よろしいですか？　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\n        Save your data.\r\n         Are you sure?"
+ },
+ {
+  "id": 78,
+  "offset": 6260,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\n　　　データをロードします。　　\r\n　　　　よろしいですか？　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\n        Load this data.\r\n         Are you sure?"
+ },
+ {
+  "id": 79,
+  "offset": 6396,
+  "bytes": 134,
+  "ja": "　これ以上ゾイドを持つことが　　\r\n　できません。　　　　　　　　　\r\n　持っているゾイドを売却して、　\r\n　ゾイド数を減らしてください。　",
+  "en": "You can't own any more\r\nZoids.\r\nSell some of the Zoids you\r\nown to make room."
+ },
+ {
+  "id": 80,
+  "offset": 6532,
+  "bytes": 134,
+  "ja": "　これ以上パーツを持つことが　　\r\n　できません。　　　　　　　　　\r\n　持っているパーツを売却して、　\r\n　パーツ数を減らしてください。　",
+  "en": "You can't own any more\r\nparts.\r\nSell some of the parts you\r\nown to make room."
+ },
+ {
+  "id": 81,
+  "offset": 6668,
+  "bytes": 40,
+  "ja": "マップ上の情報を確認してください。　　　",
+  "en": "Check the info on the map."
+ },
+ {
+  "id": 82,
+  "offset": 6710,
+  "bytes": 40,
+  "ja": "マップインフォメーションを終了します。　",
+  "en": "Exit Map Information."
+ },
+ {
+  "id": 83,
+  "offset": 6752,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\n　　初期化が終了しました。　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\n      Formatting complete."
+ },
+ {
+  "id": 84,
+  "offset": 6888,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\nこのデータに上書きセーブします。\r\n　　　　よろしいですか？　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\n   Overwrite this save data.\r\n         Are you sure?"
+ },
+ {
+  "id": 85,
+  "offset": 7024,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\n　　セーブが終了しました。　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\n         Save complete."
+ },
+ {
+  "id": 86,
+  "offset": 7160,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\n　　ロードが終了しました。　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\n         Load complete."
+ },
+ {
+  "id": 87,
+  "offset": 7296,
+  "bytes": 124,
+  "ja": "マップ情報の確認を行いますよ。　　　　　\r\nじ～っくり、作戦をねってくださいね。　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Let's check out the map info!\r\nTake your tiiime and plan, okay?"
+ },
+ {
+  "id": 88,
+  "offset": 7422,
+  "bytes": 124,
+  "ja": "ショップを終了します。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Exit the shop."
+ },
+ {
+  "id": 89,
+  "offset": 7548,
+  "bytes": 124,
+  "ja": "ショップを終了します。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Exit the shop."
+ },
+ {
+  "id": 90,
+  "offset": 7674,
+  "bytes": 124,
+  "ja": "バトルデータをロードします。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Load battle data."
+ },
+ {
+  "id": 91,
+  "offset": 7800,
+  "bytes": 124,
+  "ja": "ゾイドの所有上限が達しています。　　　　\r\nゾイドが購入できません。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "You've hit the Zoid limit.\r\nYou can't buy any more Zoids."
+ },
+ {
+  "id": 92,
+  "offset": 7926,
+  "bytes": 124,
+  "ja": "パーツの所有上限が達しています。　　　　\r\nウエポンが購入できません。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "You've hit the parts limit.\r\nYou can't buy any more Weapons."
+ },
+ {
+  "id": 93,
+  "offset": 8052,
+  "bytes": 124,
+  "ja": "パーツの所有上限が達しています。　　　　\r\nオプションウエポンが購入できません。　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "You've hit the parts limit.\r\nYou can't buy any more Option Weapons."
+ },
+ {
+  "id": 94,
+  "offset": 8178,
+  "bytes": 124,
+  "ja": "パーツの所有上限が達しています。　　　　\r\nサブパーツが購入できません。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "You've hit the parts limit.\r\nYou can't buy any more Sub-Parts."
+ },
+ {
+  "id": 95,
+  "offset": 8304,
+  "bytes": 40,
+  "ja": "セーブする場所を選択してください。　　　",
+  "en": "Select a file to save to."
+ },
+ {
+  "id": 96,
+  "offset": 8346,
+  "bytes": 40,
+  "ja": "ロードする場所を選択してください。　　　",
+  "en": "Select a file to load."
+ },
+ {
+  "id": 97,
+  "offset": 8388,
+  "bytes": 40,
+  "ja": "ロードを終了します。　　　　　　　　　　",
+  "en": "Exit the Load menu."
+ },
+ {
+  "id": 98,
+  "offset": 8430,
+  "bytes": 124,
+  "ja": "コンフィグを終了します。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Exit Config."
+ },
+ {
+  "id": 99,
+  "offset": 8556,
+  "bytes": 4,
+  "ja": "次へ",
+  "en": "Next"
+ },
+ {
+  "id": 1100,
+  "offset": 93272,
+  "bytes": 166,
+  "ja": "　３Ｄ立体把握システム搭載の、　　　　　\r\n長距離探索レーダー。　　　　　　　　　　\r\n　索敵範囲、レーダー範囲拡大　大。　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range search radar with a 3D\r\nspatial mapping system.\r\nSearch & radar range up: Large."
+ },
+ {
+  "id": 1101,
+  "offset": 93440,
+  "bytes": 166,
+  "ja": "　ターゲットカーソルの感応速度を　　　　\r\n少し高めるセンサー。　　　　　　　　　　\r\n　ロックオンスピー度向上。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sensor that slightly speeds up\r\ntarget cursor response.\r\nLock-on speed up."
+ },
+ {
+  "id": 1102,
+  "offset": 93608,
+  "bytes": 166,
+  "ja": "　ターゲットカーソルの感応速度を　　　　\r\nレーザーシステムにより高めたセンサー。　\r\n　ロックオンスピード向上。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sensor that uses a laser system to\r\nspeed up target cursor response.\r\nLock-on speed up."
+ },
+ {
+  "id": 1103,
+  "offset": 93776,
+  "bytes": 166,
+  "ja": "　ＧＰＳと磁気探知システムを併用し、　　\r\n飛躍的にカーソルの感応速度を高めた　　　\r\n高機能センサー。　　　　　　　　　　　　\r\n　ロックオンスピード向上。　　　　　　　",
+  "en": "High-performance sensor that pairs\r\nGPS with magnetic detection to\r\ngreatly speed up cursor response.\r\nLock-on speed up."
+ },
+ {
+  "id": 1104,
+  "offset": 93944,
+  "bytes": 166,
+  "ja": "　敵機に対する感知能力を　　　　　　　　\r\n少し高めるセンサー。　　　　　　　　　　\r\n　ロックオンスピードと命中率が向上する。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sensor that slightly boosts\r\nenemy detection.\r\nLock-on speed and accuracy up."
+ },
+ {
+  "id": 1105,
+  "offset": 94112,
+  "bytes": 166,
+  "ja": "　３Ｄ立体把握システム搭載によって、　　\r\n敵機に対する感知能力を高めるセンサー。　\r\n　ロックオンスピードと命中率が向上する。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sensor with a 3D spatial mapping\r\nsystem that boosts enemy detection.\r\nLock-on speed and accuracy up."
+ },
+ {
+  "id": 1106,
+  "offset": 94280,
+  "bytes": 166,
+  "ja": "　各種探知システムによって、　　　　　　\r\n敵機に対する感知能力を　　　　　　　　　\r\n飛躍的に高めるセンサー。　　　　　　　　\r\n　ロックオンスピードと命中率が向上する。",
+  "en": "Sensor that uses multiple detection\r\nsystems to greatly boost enemy\r\ndetection.\r\nLock-on speed and accuracy up."
+ },
+ {
+  "id": 1107,
+  "offset": 94448,
+  "bytes": 166,
+  "ja": "　弾道補正システムにより、　　　　　　　\r\n命中率を少し高めるユニット。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Unit that uses ballistic correction\r\nto slightly raise accuracy."
+ },
+ {
+  "id": 1108,
+  "offset": 94616,
+  "bytes": 166,
+  "ja": "　弾道補正システムにより、　　　　　　　\r\n命中率を高めるユニット。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Unit that uses ballistic correction\r\nto raise accuracy."
+ },
+ {
+  "id": 1109,
+  "offset": 94784,
+  "bytes": 166,
+  "ja": "　弾道補正システムにより、　　　　　　　\r\n命中率をかなり高めるユニット。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Unit that uses ballistic correction\r\nto raise accuracy considerably."
+ },
+ {
+  "id": 1110,
+  "offset": 94952,
+  "bytes": 166,
+  "ja": "　弾道補正システムにより、　　　　　　　\r\n命中率を飛躍的に高めるユニット。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Unit that uses ballistic correction\r\nto raise accuracy dramatically."
+ },
+ {
+  "id": 1111,
+  "offset": 95120,
+  "bytes": 166,
+  "ja": "　ギアのシステム伝導率を調整することで、\r\n旋回性能を高めるユニット。　　　　　　　\r\n　旋回性能修正値　弱。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Unit that tunes gear transmission\r\nto improve turning.\r\nTurn rate bonus: Low."
+ },
+ {
+  "id": 1112,
+  "offset": 95288,
+  "bytes": 166,
+  "ja": "　ギアのシステム伝導率を調整することで、\r\n旋回性能を高めるユニット。　　　　　　　\r\n　旋回性能修正値　中。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Unit that tunes gear transmission\r\nto improve turning.\r\nTurn rate bonus: Medium."
+ },
+ {
+  "id": 1113,
+  "offset": 95456,
+  "bytes": 166,
+  "ja": "　ギアのシステム伝導率を調整することで、\r\n旋回性能を高めるユニット。　　　　　　　\r\n　旋回性能修正値　強。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Unit that tunes gear transmission\r\nto improve turning.\r\nTurn rate bonus: High."
+ },
+ {
+  "id": 1114,
+  "offset": 95624,
+  "bytes": 166,
+  "ja": "　砲撃の強化のための、出力強化ユニット。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Output unit that strengthens\r\nartillery fire."
+ },
+ {
+  "id": 1115,
+  "offset": 95792,
+  "bytes": 166,
+  "ja": "　武器の出力を特化させるユニット。　　　\r\n若干命中率が犠牲になる。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Unit that focuses weapon output.\r\nAccuracy suffers slightly."
+ },
+ {
+  "id": 1116,
+  "offset": 95960,
+  "bytes": 166,
+  "ja": "　武器の出力を飛躍的に強化する　　　　　\r\n高性能ユニット。　　　　　　　　　　　　\r\n　ただし、出力バランスの変動によって、　\r\n命中率が低下してしまう。　　　　　　　　",
+  "en": "High-performance unit that greatly\r\nboosts weapon output. However, the\r\nunstable power balance lowers\r\naccuracy."
+ },
+ {
+  "id": 1117,
+  "offset": 96128,
+  "bytes": 166,
+  "ja": "　装甲値、索敵範囲、レーダー範囲、照準、\r\n命中率、旋回性能、砲撃力など、　　　　　\r\nあらゆる能力を向上させる、幻のユニット。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A fabled unit that boosts armor,\r\nsearch range, radar range, aim,\r\naccuracy, turning, firepower, and\r\nevery other ability."
+ },
+ {
+  "id": 1118,
+  "offset": 96296,
+  "bytes": 166,
+  "ja": "　通常２機装備される、小型のマシンガン。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A small machine gun, usually\r\nmounted in pairs."
+ },
+ {
+  "id": 1120,
+  "offset": 96476,
+  "bytes": 134,
+  "ja": "スロットＡのメモリーカードに、　\r\nゾイドバーサスのシステムデータが\r\nありません。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "The Memory Card in Slot A has\r\nno Zoids VS. system data."
+ },
+ {
+  "id": 1121,
+  "offset": 96612,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　\r\nディスクカバーを閉めてください。",
+  "en": "\r\n\r\n\r\nPlease close the Disc Cover."
+ },
+ {
+  "id": 1122,
+  "offset": 96748,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\nゾイドバーサスのディスクをセット\r\nしてください。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\nPlease insert the\r\nZoids VS. Game Disc."
+ },
+ {
+  "id": 1123,
+  "offset": 96884,
+  "bytes": 134,
+  "ja": "このディスクはゾイドバーサスの　\r\nディスクではありません。　　　　\r\nゾイドバーサスのディスクをセット\r\nしてください。　　　　　　　　　",
+  "en": "This is not the Zoids VS.\r\nGame Disc. Please insert the\r\nZoids VS. Game Disc."
+ },
+ {
+  "id": 1124,
+  "offset": 97020,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\nディスクを読めませんでした。　　\r\nくわしくは、本体の取扱説明書を　\r\nお読みください。　　　　　　　　",
+  "en": "The disc could not be read.\r\nPlease read the Nintendo\r\nGameCube Instruction Booklet\r\nfor more information."
+ },
+ {
+  "id": 1125,
+  "offset": 97156,
+  "bytes": 134,
+  "ja": "エラーが発生しました。　　　　　\r\n本体のパワーボタンを押して電源を\r\nＯＦＦにし、本体の取扱説明書の　\r\n指示に従ってください。　　　　　",
+  "en": "An error has occurred.\r\nPress the POWER Button to turn\r\nOFF, then refer to the Nintendo\r\nGameCube Instruction Booklet."
+ },
+ {
+  "id": 1126,
+  "offset": 97292,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\nスロットＡのメモリーカードに　　\r\nセーブします。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\nData will be saved to the\r\nMemory Card in Slot A."
+ },
+ {
+  "id": 1127,
+  "offset": 97428,
+  "bytes": 134,
+  "ja": "このままセーブをせずに元の画面に\r\n戻るならＹＥＳ。　　　　　　　　\r\nスロットの再確認はＮＯを選んでく\r\nださい。　　　　　　　　　　　　",
+  "en": "To return to the previous screen\r\nwithout saving, select YES.\r\nTo check the slots again,\r\nselect NO."
+ },
+ {
+  "id": 1128,
+  "offset": 97564,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\nスロットＡのメモリーカードを　　\r\nロードします。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\nData will be loaded from the\r\nMemory Card in Slot A."
+ },
+ {
+  "id": 1129,
+  "offset": 97700,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\nスロットＢのメモリーカードを　　\r\nロードします。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\nData will be loaded from the\r\nMemory Card in Slot B."
+ },
+ {
+  "id": 1130,
+  "offset": 97836,
+  "bytes": 134,
+  "ja": "スロットＡのメモリーカードに　　\r\n空き容量が足りません。　　　　　\r\nこのゲームをセーブするには、　　\r\n１０ブロックの空きが必要です。　",
+  "en": "The Memory Card in Slot A does\r\nnot have enough free space.\r\nSaving this game requires\r\n10 free blocks."
+ },
+ {
+  "id": 1131,
+  "offset": 97972,
+  "bytes": 134,
+  "ja": "　スロットＡのメモリーカードは　\r\n　初期化が必要です。　　　　　　\r\n　初期化してもよいですか？　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "The Memory Card in Slot A\r\nneeds to be formatted.\r\nFormat it now?"
+ },
+ {
+  "id": 1132,
+  "offset": 98108,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\nファイル数の制限を越えてしまうの\r\nで、これ以上ファイルを作ることが\r\nできません。　　　　　　　　　　",
+  "en": "\r\nThe file limit has been reached.\r\nNo more files can be created."
+ },
+ {
+  "id": 1133,
+  "offset": 98244,
+  "bytes": 134,
+  "ja": "スロットＡのメモリーカードに空き\r\n容量がないか、ファイル数の制限を\r\n超えてしまいます。　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "The Memory Card in Slot A is out\r\nof space or has too many files."
+ },
+ {
+  "id": 1134,
+  "offset": 98380,
+  "bytes": 134,
+  "ja": "このゲームをセーブするには、少な\r\nくとも１ファイル１０ブロックの　\r\n空き容量が必要です。　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Saving this game requires at\r\nleast 1 file and 10 free blocks."
+ },
+ {
+  "id": 1135,
+  "offset": 98516,
+  "bytes": 134,
+  "ja": "メモリーカードの内容を整理する　\r\nには、本体のメモリーカード画面で\r\nおこなってください。　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "To organize the Memory Card's\r\ncontents, use the Nintendo\r\nGameCube Memory Card Screen."
+ },
+ {
+  "id": 1136,
+  "offset": 98652,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\nスロットＡにメモリーカードが、　\r\n差し込まれていません。　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\nThere is no Memory Card\r\nin Slot A."
+ },
+ {
+  "id": 1137,
+  "offset": 98788,
+  "bytes": 134,
+  "ja": "このままゲームを進めた場合　　　\r\nセーブすることが出来ません。　　\r\nよろしければＹＥＳ、スロットの　\r\n再確認はＮＯを選んでください。　",
+  "en": "If you continue, you will not\r\nbe able to save.\r\nSelect YES to continue, or NO\r\nto check the slots again."
+ },
+ {
+  "id": 1138,
+  "offset": 98924,
+  "bytes": 134,
+  "ja": "スロットＡにメモリーカード以外の\r\nものがささっています。　　　　　\r\nメモリーカードをさしてください。\r\n　　　　　　　　　　　　　　　　",
+  "en": "The device in Slot A is not a\r\nMemory Card.\r\nPlease insert a Memory Card."
+ },
+ {
+  "id": 1139,
+  "offset": 99060,
+  "bytes": 134,
+  "ja": "スロットＢにメモリーカード以外の\r\nものがささっています。　　　　　\r\nメモリーカードをさしてください。\r\n　　　　　　　　　　　　　　　　",
+  "en": "The device in Slot B is not a\r\nMemory Card.\r\nPlease insert a Memory Card."
+ },
+ {
+  "id": 1140,
+  "offset": 99196,
+  "bytes": 134,
+  "ja": "スロットＡにささっているものは、\r\n使用できません。　　　　　　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "The device in Slot A cannot\r\nbe used."
+ },
+ {
+  "id": 1141,
+  "offset": 99332,
+  "bytes": 134,
+  "ja": "ゾイドバーサスのセーブデータに　\r\n修復が必要です。　　　　　　　　\r\nメモリーカードを差した状態で　　\r\nリセットをしてください。　　　　",
+  "en": "The Zoids VS. save data needs\r\nto be repaired. Leave the Memory\r\nCard inserted and press RESET."
+ },
+ {
+  "id": 1142,
+  "offset": 99468,
+  "bytes": 134,
+  "ja": "スロットＡのメモリーカードは、　\r\nデータが壊れているので初期化が　\r\n必要です。　　　　　　　　　　　\r\n初期化してもよいですか？　　　　",
+  "en": "The Memory Card in Slot A is\r\ncorrupted and must be formatted.\r\nFormat it now?"
+ },
+ {
+  "id": 1143,
+  "offset": 99604,
+  "bytes": 134,
+  "ja": "スロットＡのメモリーカードは、　\r\n壊れているので使用できません。　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "The Memory Card in Slot A is\r\ndamaged and cannot be used."
+ },
+ {
+  "id": 1144,
+  "offset": 99740,
+  "bytes": 134,
+  "ja": "セーブをします。メモリーカードや\r\n電源スイッチにはさわらないでくだ\r\nさい。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Saving data. Do not touch the\r\nMemory Card or POWER Button."
+ },
+ {
+  "id": 1145,
+  "offset": 99876,
+  "bytes": 134,
+  "ja": "セーブ中です。メモリーカードや　\r\n電源スイッチにはさわらないでくだ\r\nさい。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Saving... Do not touch the\r\nMemory Card or POWER Button."
+ },
+ {
+  "id": 1146,
+  "offset": 100012,
+  "bytes": 134,
+  "ja": "スロットＡのメモリーカードはこの\r\nゲームでは使用できません。　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "The Memory Card in Slot A cannot\r\nbe used with this game."
+ },
+ {
+  "id": 1147,
+  "offset": 100148,
+  "bytes": 134,
+  "ja": "スロットＡに、ゾイドバーサスの　\r\nシステムデータが入った　　　　　\r\nメモリーカードを差して下さい。　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Please insert a Memory Card\r\ncontaining Zoids VS. system\r\ndata into Slot A."
+ },
+ {
+  "id": 1148,
+  "offset": 100284,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\n　　スロットＡに何も　　　　　　\r\n　　差し込まれていません。　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\n      Nothing is inserted\r\n           in Slot A."
+ },
+ {
+  "id": 1149,
+  "offset": 100420,
+  "bytes": 134,
+  "ja": "スロットＢに何も差し込まれていま\r\nせん。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Nothing is inserted in Slot B."
+ },
+ {
+  "id": 1150,
+  "offset": 100556,
+  "bytes": 134,
+  "ja": "セーブデータが壊れています。　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "The save data is corrupted."
+ },
+ {
+  "id": 1151,
+  "offset": 100692,
+  "bytes": 134,
+  "ja": "このメモリーカードには対応してい\r\nません。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "This Memory Card is not\r\nsupported."
+ },
+ {
+  "id": 1152,
+  "offset": 100828,
+  "bytes": 134,
+  "ja": "スロットＡのメモリーカードに、　\r\nゾイドバーサスのシステムデータが\r\nありません。　　　　　　　　　　\r\nシステムデータを作成しますか？　",
+  "en": "The Memory Card in Slot A has\r\nno Zoids VS. system data.\r\nCreate system data now?"
+ },
+ {
+  "id": 1153,
+  "offset": 100964,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\nスロットＡにメモリーカードが、　\r\n差し込まれていません。　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\nThere is no Memory Card\r\nin Slot A."
+ },
+ {
+  "id": 1154,
+  "offset": 101100,
+  "bytes": 134,
+  "ja": "　　　　　　　　　　　　　　　　\r\nスロットＢにメモリーカードが、　\r\n差し込まれていません。　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "\r\nThere is no Memory Card\r\nin Slot B."
+ },
+ {
+  "id": 1155,
+  "offset": 101236,
+  "bytes": 23,
+  "ja": "峡谷/夜　　　　　　　　",
+  "en": "Canyon/Night"
+ },
+ {
+  "id": 1156,
+  "offset": 101261,
+  "bytes": 23,
+  "ja": "峡谷/昼　　　　　　　　",
+  "en": "Canyon/Day"
+ },
+ {
+  "id": 1157,
+  "offset": 101286,
+  "bytes": 23,
+  "ja": "クレーター/昼　　　　　",
+  "en": "Crater/Day"
+ },
+ {
+  "id": 1158,
+  "offset": 101311,
+  "bytes": 23,
+  "ja": "共和国航空基地/昼　　　",
+  "en": "Rep. Air Base/Day"
+ },
+ {
+  "id": 1159,
+  "offset": 101336,
+  "bytes": 23,
+  "ja": "峡谷/夕方　　　　　　　",
+  "en": "Canyon/Dusk"
+ },
+ {
+  "id": 1160,
+  "offset": 101361,
+  "bytes": 23,
+  "ja": "市街地/昼　　　　　　　",
+  "en": "City/Day"
+ },
+ {
+  "id": 1161,
+  "offset": 101386,
+  "bytes": 23,
+  "ja": "市街地/夕方　　　　　　",
+  "en": "City/Dusk"
+ },
+ {
+  "id": 1162,
+  "offset": 101411,
+  "bytes": 23,
+  "ja": "荒野/昼　　　　　　　　",
+  "en": "Wasteland/Day"
+ },
+ {
+  "id": 1163,
+  "offset": 101436,
+  "bytes": 23,
+  "ja": "荒野/夕方　　　　　　　",
+  "en": "Wasteland/Dusk"
+ },
+ {
+  "id": 1164,
+  "offset": 101461,
+  "bytes": 23,
+  "ja": "共和国教育大隊基地/昼　",
+  "en": "Rep. Training Base/Day"
+ },
+ {
+  "id": 1165,
+  "offset": 101486,
+  "bytes": 23,
+  "ja": "共和国教育大隊基地/夕方",
+  "en": "Rep. Training Base/Dusk"
+ },
+ {
+  "id": 1166,
+  "offset": 101511,
+  "bytes": 23,
+  "ja": "共和国前線基地/昼　　　",
+  "en": "Rep. Forward Base/Day"
+ },
+ {
+  "id": 1167,
+  "offset": 101536,
+  "bytes": 23,
+  "ja": "共和国前線基地/夜　　　",
+  "en": "Rep. Forward Base/Night"
+ },
+ {
+  "id": 1168,
+  "offset": 101561,
+  "bytes": 23,
+  "ja": "帝国開発基地/昼　　　　",
+  "en": "Imperial R&D Base/Day"
+ },
+ {
+  "id": 1169,
+  "offset": 101586,
+  "bytes": 23,
+  "ja": "帝国開発基地/夜　　　　",
+  "en": "Imperial R&D Base/Night"
+ },
+ {
+  "id": 1170,
+  "offset": 101611,
+  "bytes": 23,
+  "ja": "帝国山岳基地/昼　　　　",
+  "en": "Imperial Mtn Base/Day"
+ },
+ {
+  "id": 1171,
+  "offset": 101636,
+  "bytes": 23,
+  "ja": "荒野/夜　　　　　　　　",
+  "en": "Wasteland/Night"
+ },
+ {
+  "id": 1172,
+  "offset": 101661,
+  "bytes": 23,
+  "ja": "クレーター/ガス　　　　",
+  "en": "Crater/Gas"
+ },
+ {
+  "id": 1173,
+  "offset": 101686,
+  "bytes": 23,
+  "ja": "共和国教育大隊/壁　　　",
+  "en": "Rep. Training Bn/Wall"
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "id": "800ED9D4",
+  "ja": "ディスクカバーが開いています。ゲームを続ける場合は、\nディスクカバーを閉めてください。",
+  "en": "The Disc Cover is open. To continue the game,\nplease close the Disc Cover.",
+  "cap": 86
+ },
+ {
+  "id": "800EDA2C",
+  "ja": "ゾイドバーサスのディスクをセット\nしてください。",
+  "en": "Please insert the Zoids VS.\nGame Disc.",
+  "cap": 48
+ },
+ {
+  "id": "800EDA5C",
+  "ja": "このディスクはゾイドバーサスの\nディスクではありません。\nゾイドバーサスのディスクをセット\nしてください。",
+  "en": "This is not the Zoids VS.\nGame Disc.\nPlease insert the Zoids VS.\nGame Disc.",
+  "cap": 104
+ },
+ {
+  "id": "800EDAC4",
+  "ja": "ディスクを読めませんでした。\nくわしくは、本体の取扱説明書を\nお読みください。",
+  "en": "The disc could not be read.\nPlease refer to the Nintendo\nGameCube manual.",
+  "cap": 77
+ },
+ {
+  "id": "800EDB14",
+  "ja": "エラーが発生しました。\n本体のパワーボタンを押して電源を\nＯＦＦにし、本体の取扱説明書の\n指示に従ってください。",
+  "en": "An error has occurred.\nTurn the power OFF and refer to\nthe Nintendo GameCube\ninstruction booklet.",
+  "cap": 110
+ },
+ {
+  "id": "800EDB9C",
+  "ja": "メモリが足りません",
+  "en": "Not enough memory.",
+  "cap": 19
+ },
+ {
+  "id": "800F065C",
+  "ja": "Zoid設定",
+  "en": "Zoid Set",
+  "cap": 9
+ },
+ {
+  "id": "800F06D0",
+  "ja": "共和国軍",
+  "en": "Republic",
+  "cap": 9
+ },
+ {
+  "id": "802A0934",
+  "ja": "帝国軍",
+  "en": "Empire",
+  "cap": 7
+ },
+ {
+  "id": "802A0960",
+  "ja": "R:次へ",
+  "en": "R:Next",
+  "cap": 7
+ },
+ {
+  "id": "802A0968",
+  "ja": "L:前へ",
+  "en": "L:Prev",
+  "cap": 7
+ },
+ {
+  "id": "800EE7FC",
+  "ja": "ゾイドバーサス                                   ",
+  "en": "Zoids VS.",
+  "cap": 50
+ },
+ {
+  "id": "800EE9A8",
+  "ja": "プレイデータ　　                                 ",
+  "en": "Play Data",
+  "cap": 50
+ },
+ {
+  "id": "800F10BC",
+  "ja": "プレイデータ　　                                 ",
+  "en": "Play Data",
+  "cap": 50
+ },
+ {
+  "id": "800F0F10",
+  "ja": "ファーム",
+  "en": "Farm",
+  "cap": 9
+ },
+ {
+  "id": "802A0A24",
+  "ja": "クリア",
+  "en": "Clear",
+  "cap": 7
+ },
+ {
+  "id": "800F188C",
+  "ja": "勝利条件",
+  "en": "Victory",
+  "cap": 9
+ },
+ {
+  "id": "800F1898",
+  "ja": "敗北条件",
+  "en": "Defeat",
+  "cap": 9
+ }
+]

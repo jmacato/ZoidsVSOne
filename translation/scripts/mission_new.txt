@@ -1,0 +1,13 @@
+until LoadArc2 .*menu/title/title.dat
+wait 8
+press D_UP
+wait 2
+press A
+wait 5
+shot m1
+press A
+wait 6
+shot m2
+press A
+wait 6
+shot m3

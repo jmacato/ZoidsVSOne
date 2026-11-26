@@ -1,0 +1,6 @@
+until LoadArc2 .*menu/title/title.dat
+wait 8
+shot main_menu
+press D_DOWN
+wait 2
+shot main_menu_down

@@ -1,0 +1,10 @@
+wait 40
+press START 1.5
+wait 8
+shot t1_after_start
+press A 1.5
+wait 8
+shot t2_after_a
+press START 1.5
+wait 8
+shot t3_after_start2

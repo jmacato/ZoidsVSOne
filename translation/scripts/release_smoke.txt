@@ -1,0 +1,7 @@
+until MSGNO 60
+wait 3
+shot r1
+press A 1
+until LoadArc2 .*menu/title/title.dat 90
+wait 6
+shot r2

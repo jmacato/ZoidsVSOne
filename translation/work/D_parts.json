@@ -1,0 +1,1164 @@
+[
+ {
+  "id": 603,
+  "offset": 61790,
+  "bytes": 166,
+  "ja": "　元来攻撃力の弱いモルガ用に開発された、\r\n大型の移動砲台。　　　　　　　　　　　　\r\n　長距離砲撃はもちろん、　　　　　　　　\r\n大型機との戦闘にも有効である。　　　　　",
+  "en": "A large mobile gun platform built for\r\nthe Molga, which lacks firepower.\r\nEffective for long-range shelling and\r\nagainst large Zoids."
+ },
+ {
+  "id": 610,
+  "offset": 62030,
+  "bytes": 166,
+  "ja": "　単発のビームガン。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A single-shot Beam Gun."
+ },
+ {
+  "id": 612,
+  "offset": 62210,
+  "bytes": 166,
+  "ja": "　通常２機装備される、小型のマシンガン。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Small machine guns, usually mounted\r\nas a pair."
+ },
+ {
+  "id": 613,
+  "offset": 62378,
+  "bytes": 166,
+  "ja": "　ガンスナイパーの尻尾の先端に内蔵された\r\n狙撃銃。　　　　　　　　　　　　　　　　\r\n　狙撃時には、高い命中精度と弾速を誇る。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A sniper rifle built into the tip of the\r\nGun Sniper's tail.\r\nBoasts high accuracy and muzzle velocity\r\nwhen sniping."
+ },
+ {
+  "id": 615,
+  "offset": 62558,
+  "bytes": 100,
+  "ja": "ライナー　　　　　　　　　　　　\r\n「くっ、手強い！」　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Reiner\r\n\"Ugh, they're tough!\""
+ },
+ {
+  "id": 616,
+  "offset": 62660,
+  "bytes": 100,
+  "ja": "マックス　　　　　　　　　　　　\r\n「俺たちロットティガーがここまで\r\n　苦戦するとは…」　　　　　　　",
+  "en": "Max\r\n\"To think the Rottigers would\r\n struggle this much...\""
+ },
+ {
+  "id": 617,
+  "offset": 62762,
+  "bytes": 100,
+  "ja": "リバイアス　　　　　　　　　　　\r\n「我らテラガイストにかなうと思う\r\n　な！！」　　　　　　　　　　　",
+  "en": "Leviathe\r\n\"Don't think you can stand up\r\n to us, the Terra Geist!!\""
+ },
+ {
+  "id": 618,
+  "offset": 62864,
+  "bytes": 100,
+  "ja": "ガルド　　　　　　　　　　　　　\r\n「フッ…ウイルスの成果はなかなか\r\n　のようだな。」　　　　　　　　",
+  "en": "Gard\r\n\"Heh... The virus seems to be\r\n doing its job quite well.\""
+ },
+ {
+  "id": 626,
+  "offset": 63050,
+  "bytes": 166,
+  "ja": "　ゴジュラス、ゴジュラス　ジ　オーガの　\r\n腕に装備される、対ゾイド用の　　　　　　\r\n４連装の衝撃砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Quad anti-Zoid Shock Cannons mounted on\r\nthe arms of the Gojulas and the\r\nGojulas the Ogre."
+ },
+ {
+  "id": 627,
+  "offset": 63218,
+  "bytes": 166,
+  "ja": "　ゴジュラス、ゴジュラス　ジ　オーガの　\r\n左腕の基本装備。　　　　　　　　　　　　\r\n　単発の小型ビームガンで、　　　　　　　\r\nある程度の連発が可能。　　　　　　　　　",
+  "en": "Standard left-arm weapon of the Gojulas\r\nand Gojulas the Ogre.\r\nA small single-shot Beam Gun capable\r\nof limited rapid fire."
+ },
+ {
+  "id": 629,
+  "offset": 63398,
+  "bytes": 166,
+  "ja": "　ゴジュラス、ゴジュラス　ジ　オーガの　\r\n右腕の基本装備。　　　　　　　　　　　　\r\n　単発の小型ビームガンで、　　　　　　　\r\nある程度の連発が可能。　　　　　　　　　",
+  "en": "Standard right-arm weapon of the\r\nGojulas and Gojulas the Ogre.\r\nA small single-shot Beam Gun capable\r\nof limited rapid fire."
+ },
+ {
+  "id": 630,
+  "offset": 63566,
+  "bytes": 166,
+  "ja": "　ゴジュラスの腹部に装備される、　　　　\r\n大型、２連装のマシンガン。　　　　　　　\r\n　近接攻撃で力を発揮する。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Large twin machine guns mounted on the\r\nGojulas's belly.\r\nMost effective in close combat."
+ },
+ {
+  "id": 631,
+  "offset": 63734,
+  "bytes": 166,
+  "ja": "　長距離砲を持たないゴジュラス用に　　　\r\n開発された、長距離破壊砲。　　　　　　　\r\n　長距離の攻撃が可能な上に、　　　　　　\r\n高い破壊力を秘めている。　　　　　　　　",
+  "en": "A long-range heavy cannon developed for\r\nthe Gojulas, which has no long guns.\r\nIt strikes from long range and packs\r\ntremendous destructive power."
+ },
+ {
+  "id": 632,
+  "offset": 63902,
+  "bytes": 166,
+  "ja": "　ゴジュラス　ジ　オーガの腹部に　　　　\r\n装備される、８連装のミサイルポッド。　　\r\n　追尾ミサイルが８発分発射される。　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An 8-tube Missile Pod mounted on the\r\nbelly of the Gojulas the Ogre.\r\nFires 8 homing missiles."
+ },
+ {
+  "id": 633,
+  "offset": 64070,
+  "bytes": 166,
+  "ja": "　２連装の対ゾイド衝撃砲。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Twin anti-Zoid Shock Cannon."
+ },
+ {
+  "id": 634,
+  "offset": 64238,
+  "bytes": 168,
+  "ja": "　ライガーゼロタイプ機体胸部に装備される\r\n対ゾイド用の２連装衝撃砲。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　",
+  "en": "Twin anti-Zoid Shock Cannon mounted on\r\nthe chest of Liger Zero-type Zoids."
+ },
+ {
+  "id": 636,
+  "offset": 64420,
+  "bytes": 166,
+  "ja": "　対ゾイド用３連装衝撃砲。　　　　　　　\r\n　主に機動系のゾイドに装備が可能。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Triple anti-Zoid Shock Cannon.\r\nFits mainly on high-mobility Zoids."
+ },
+ {
+  "id": 639,
+  "offset": 64612,
+  "bytes": 166,
+  "ja": "　大型のビームランチャー。　　　　　　　\r\n　命中精度の向上が図られており、　　　　\r\n大型ビーム砲本来の問題である、　　　　　\r\n命中率の問題が改善されている。　　　　　",
+  "en": "A large Beam Launcher.\r\nImproved targeting fixes the poor\r\naccuracy that large beam cannons\r\nhave always suffered from."
+ },
+ {
+  "id": 643,
+  "offset": 64816,
+  "bytes": 166,
+  "ja": "　ブレードライガーの強化武装。　　　　　\r\n　２連装の対ゾイド用ビームキャノン。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Upgrade weapon for the Blade Liger.\r\nTwin anti-Zoid Beam Cannon."
+ },
+ {
+  "id": 644,
+  "offset": 64984,
+  "bytes": 166,
+  "ja": "　４口径から成るレーザーバルカン。　　　\r\n　シャドーフォックスは、これを　　　　　\r\n標準装備している。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A four-barrel Laser Vulcan.\r\nStandard equipment on the\r\nShadow Fox."
+ },
+ {
+  "id": 645,
+  "offset": 65152,
+  "bytes": 166,
+  "ja": "　シャドーフォックスの尻尾に内蔵された、\r\n電磁光弾砲。　　　　　　　　　　　　　　\r\n　電磁エネルギーによるダメージを与える。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An electromagnetic bolt cannon built\r\ninto the Shadow Fox's tail.\r\nDeals damage with electromagnetic\r\nenergy."
+ },
+ {
+  "id": 647,
+  "offset": 65332,
+  "bytes": 166,
+  "ja": "　ＬＺイエーガーは頭部パーツに、　　　　\r\nバルカン砲を格納している。　　　　　　　\r\n　これはイエーガーの持つ速度性能を　　　\r\n生かすための設計になっている。　　　　　",
+  "en": "The LZ Jaeger stores a Vulcan cannon in\r\nits head parts.\r\nThis design makes the most of the\r\nJaeger's speed."
+ },
+ {
+  "id": 648,
+  "offset": 65500,
+  "bytes": 166,
+  "ja": "　ＬＺシュナイダーの持つ、大型、高出力の\r\nビームキャノン砲。　　　　　　　　　　　\r\n　長距離への強力な攻撃が可能だ。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A large, high-output Beam Cannon of the\r\nLZ Schneider.\r\nDelivers powerful long-range attacks."
+ },
+ {
+  "id": 649,
+  "offset": 65668,
+  "bytes": 166,
+  "ja": "　ＬＺパンツァーの胸部に装備されている　\r\n対ゾイド用の３連装グレネードランチャー。\r\n　主に近距離用の砲撃武器。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A triple anti-Zoid Grenade Launcher\r\nmounted on the LZ Panzer's chest.\r\nMainly a short-range artillery weapon."
+ },
+ {
+  "id": 650,
+  "offset": 65836,
+  "bytes": 166,
+  "ja": "　ＬＺパンツァーのボディ後方、　　　　　\r\n尻部に装備された、対ゾイド用２連装の　　\r\nマイクロホーミングミサイルポッド。　　　\r\n　２発の高性能追尾ミサイルが発射される。",
+  "en": "Mounted at the rear of the LZ Panzer:\r\na twin anti-Zoid\r\nMicro Homing Missile Pod.\r\nFires 2 advanced homing missiles."
+ },
+ {
+  "id": 651,
+  "offset": 66004,
+  "bytes": 166,
+  "ja": "　ＬＺパンツァーの後ろ足付け根部分に　　\r\n装備された、対ゾイド用３連装の　　　　　\r\nマイクロホーミングミサイルポッド。　　　\r\n　３発の高性能追尾ミサイルが発射される。",
+  "en": "Mounted at the LZ Panzer's hind legs:\r\na triple anti-Zoid\r\nMicro Homing Missile Pod.\r\nFires 3 advanced homing missiles."
+ },
+ {
+  "id": 652,
+  "offset": 66172,
+  "bytes": 166,
+  "ja": "　ＬＺパンツァーの背部に装備された、　　\r\n対ゾイド用６連装の　　　　　　　　　　　\r\nマイクロホーミングミサイルポッド。　　　\r\n　６発の高性能追尾ミサイルが発射される。",
+  "en": "Mounted on the LZ Panzer's back:\r\na 6-tube anti-Zoid\r\nMicro Homing Missile Pod.\r\nFires 6 advanced homing missiles."
+ },
+ {
+  "id": 653,
+  "offset": 66340,
+  "bytes": 166,
+  "ja": "　ＬＺパンツァーの前足付け根部分と、　　\r\n肩部に装備された、対ゾイド用２連装の　　\r\nミサイルポッド。　　　　　　　　　　　　\r\n　２発の追尾ミサイルが発射される。　　　",
+  "en": "Mounted at the LZ Panzer's front legs\r\nand shoulders: a twin anti-Zoid\r\nMissile Pod.\r\nFires 2 homing missiles."
+ },
+ {
+  "id": 654,
+  "offset": 66508,
+  "bytes": 166,
+  "ja": "　ＬＺパンツァーのボディ側部に装備された\r\n対ゾイド用６連装の　　　　　　　　　　　\r\nマイクロホーミングミサイルポッド。　　　\r\n　６発の高性能追尾ミサイルが発射される。",
+  "en": "Mounted on the LZ Panzer's flanks:\r\na 6-tube anti-Zoid\r\nMicro Homing Missile Pod.\r\nFires 6 advanced homing missiles."
+ },
+ {
+  "id": 655,
+  "offset": 66676,
+  "bytes": 166,
+  "ja": "　ＬＺパンツァーの尻尾先端部に装備された\r\n対ゾイド用６連装の　　　　　　　　　　　\r\nマイクロホーミングミサイルポッド。　　　\r\n　６発の高性能追尾ミサイルが発射される。",
+  "en": "Mounted on the LZ Panzer's tail tip:\r\na 6-tube anti-Zoid\r\nMicro Homing Missile Pod.\r\nFires 6 advanced homing missiles."
+ },
+ {
+  "id": 656,
+  "offset": 66844,
+  "bytes": 166,
+  "ja": "　ＬＺイクスの腹部に展開する、　　　　　\r\n電気エネルギーで攻撃するブレード。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A blade that deploys from the LZ X's\r\nbelly and strikes with electric energy."
+ },
+ {
+  "id": 657,
+  "offset": 67012,
+  "bytes": 166,
+  "ja": "　スナイプマスターの後部に装備された　　\r\n狙撃銃。　　　　　　　　　　　　　　　　\r\n　狙撃時には通常武器よりも、　　　　　　\r\n高い弾速で攻撃が可能だ。　　　　　　　　",
+  "en": "A sniper rifle mounted on the rear of\r\nthe Snipe Master.\r\nWhen sniping, it fires faster rounds\r\nthan standard weapons."
+ },
+ {
+  "id": 658,
+  "offset": 67180,
+  "bytes": 166,
+  "ja": "　機体両側に２機装備される、狙撃銃。　　\r\n　狙撃時には通常武器よりも、　　　　　　\r\n高い弾速での攻撃が可能だ。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sniper rifles, one on each side.\r\nWhen sniping, they fire faster rounds\r\nthan standard weapons."
+ },
+ {
+  "id": 659,
+  "offset": 67348,
+  "bytes": 166,
+  "ja": "　全方位ミサイルと、２連装のミサイルの　\r\nミサイルベイのセット。　　　　　　　　　\r\n　９発と２発の各種追尾ミサイルを、　　　\r\nあらゆる方向に向かって発射できる。　　　",
+  "en": "A missile bay set of all-direction\r\nmissiles and twin missiles.\r\nLaunches 9 + 2 homing missiles\r\nin every direction."
+ },
+ {
+  "id": 660,
+  "offset": 67516,
+  "bytes": 166,
+  "ja": "　ビームキャノンと　　　　　　　　　　　\r\nアクティブシールドのセット。　　　　　　\r\n　アクティブシールドは側面からの攻撃を　\r\n防ぐことができる。　　　　　　　　　　　",
+  "en": "A Beam Cannon and\r\nActive Shield set.\r\nThe Active Shield blocks attacks from\r\nthe side."
+ },
+ {
+  "id": 661,
+  "offset": 67684,
+  "bytes": 166,
+  "ja": "　高い攻撃力と広範囲の射程距離を持つ、　\r\n大型の展開式光弾銃。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A large deployable beam rifle with high\r\npower and a wide firing range."
+ },
+ {
+  "id": 662,
+  "offset": 67852,
+  "bytes": 166,
+  "ja": "　高い攻撃力と広範囲の射程距離を持つ、　\r\n大型の展開式狙撃銃。　　　　　　　　　　\r\n　こちらは狙撃用で、通常ライフルよりも　\r\n弾速があり、攻撃力が高い。　　　　　　　",
+  "en": "A large deployable sniper rifle with\r\nhigh power and a wide firing range.\r\nBuilt for sniping, it beats a normal\r\nrifle in velocity and power."
+ },
+ {
+  "id": 664,
+  "offset": 68032,
+  "bytes": 166,
+  "ja": "　基本装備では長距離攻撃をもたない　　　\r\nケーニッヒウルフのために開発された、　　\r\n５連装の追尾ミサイルポッド。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Developed for the Konig Wolf, which has\r\nno long-range attack as standard:\r\na 5-tube homing Missile Pod."
+ },
+ {
+  "id": 674,
+  "offset": 68308,
+  "bytes": 166,
+  "ja": "　２連装のオーソドックスなビーム砲。　　\r\n高い威力は期待できないが、扱い安さと　　\r\nカスタマイズのバラエティーの価値は高い。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An orthodox twin beam cannon.\r\nNot very powerful, but easy to use and\r\nhighly versatile for customizing."
+ },
+ {
+  "id": 678,
+  "offset": 68512,
+  "bytes": 166,
+  "ja": "　エネルギーを収束充填して放つ、　　　　\r\n単発の中型ビーム砲。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A single-shot mid-size beam cannon that\r\nfires focused, charged energy."
+ },
+ {
+  "id": 679,
+  "offset": 68680,
+  "bytes": 166,
+  "ja": "　小型の単発ビームガン。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A small single-shot Beam Gun."
+ },
+ {
+  "id": 680,
+  "offset": 68848,
+  "bytes": 166,
+  "ja": "　濃硫酸の液体ビームを、高圧力で発射。　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Fires a liquid beam of concentrated\r\nsulfuric acid at high pressure."
+ },
+ {
+  "id": 682,
+  "offset": 69028,
+  "bytes": 166,
+  "ja": "　３連装の対地ミサイルポッド。　　　　　\r\n　３発が連続発射される。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A triple ground-attack Missile Pod.\r\nFires 3 missiles in succession."
+ },
+ {
+  "id": 690,
+  "offset": 69280,
+  "bytes": 166,
+  "ja": "　パルスを利用して発射される、　　　　　\r\n２連装のレーザーガン。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A twin laser gun that fires using\r\npulses."
+ },
+ {
+  "id": 692,
+  "offset": 69460,
+  "bytes": 166,
+  "ja": "　１０連装の追尾型ロケットランチャー。　\r\n　１０発のロケットランチャー弾が、　　　\r\n敵機に向かって発射される。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A 10-tube homing Rocket Launcher.\r\nFires 10 rockets at the enemy."
+ },
+ {
+  "id": 693,
+  "offset": 69628,
+  "bytes": 166,
+  "ja": "　６連装のミサイルランチャー。　　　　　\r\n　６発のミサイルが連続発射され、　　　　\r\n更にターゲットの追尾機能を備える。　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A 6-tube missile launcher.\r\nFires 6 missiles in succession,\r\neach with target-homing capability."
+ },
+ {
+  "id": 694,
+  "offset": 69796,
+  "bytes": 166,
+  "ja": "　１０連装の追尾型ロケットランチャー。　\r\n　センサーを搭載したため、　　　　　　　\r\n射程範囲が拡大されている。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A 10-tube homing Rocket Launcher.\r\nAn onboard sensor extends its\r\nfiring range."
+ },
+ {
+  "id": 696,
+  "offset": 69976,
+  "bytes": 166,
+  "ja": "　２連装のエネルギーレーザーガン。　　　\r\n　ブースターパックとスタイビライザーの　\r\n一体化構造は、武器としての機動性も　　　\r\n重視された設計だ。　　　　　　　　　　　",
+  "en": "A twin Energy Laser Gun.\r\nIts integrated Booster Pack and\r\nStabilizer design also stresses\r\nmobility as a weapon."
+ },
+ {
+  "id": 697,
+  "offset": 70144,
+  "bytes": 166,
+  "ja": "　サイクスの頭部に内蔵された、　　　　　\r\n２連装のビームバルカン砲。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A twin Beam Vulcan built into the\r\nSaix's head."
+ },
+ {
+  "id": 698,
+  "offset": 70312,
+  "bytes": 166,
+  "ja": "　２連装の長距離エネルギーガン。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A twin long-range energy gun."
+ },
+ {
+  "id": 700,
+  "offset": 70492,
+  "bytes": 166,
+  "ja": "　２種類の砲身で構成される、　　　　　　\r\n２連装のレーザーガン。　　　　　　　　　\r\n　２発のレーザー光弾が発射される。　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A twin laser gun made of two types of\r\nbarrels.\r\nFires 2 laser bolts."
+ },
+ {
+  "id": 701,
+  "offset": 70660,
+  "bytes": 166,
+  "ja": "　２連装のレーザーバルカン砲。　　　　　\r\n　２つの砲口から、光弾が連発される。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A twin Laser Vulcan.\r\nFires rapid bolts from 2 muzzles."
+ },
+ {
+  "id": 703,
+  "offset": 70840,
+  "bytes": 166,
+  "ja": "　８連装のミサイルポッド。　　　　　　　\r\n　ターゲットを追尾するミサイルが、　　　\r\n連装分同時発射される。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An 8-tube Missile Pod.\r\nFires homing missiles from all tubes\r\nat once."
+ },
+ {
+  "id": 706,
+  "offset": 71032,
+  "bytes": 166,
+  "ja": "　光弾を連続発射する、ビームマシンガン。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A beam machine gun that fires rapid\r\nbolts."
+ },
+ {
+  "id": 707,
+  "offset": 71200,
+  "bytes": 166,
+  "ja": "　ダークスパイナーの胸部に装備された、　\r\n２連装のビームキャノン。　　　　　　　　\r\n　２発のビーム光線が発射される。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A twin Beam Cannon mounted on the\r\nDark Spiner's chest.\r\nFires 2 beams."
+ },
+ {
+  "id": 710,
+  "offset": 71392,
+  "bytes": 166,
+  "ja": "　高エネルギー弾を発射する、　　　　　　\r\nエネルギーキャノン。　　　　　　　　　　\r\n　太陽光のエネルギーで発射するため、　　\r\n威力の割に、エネルギー能率がとてもよい。",
+  "en": "An energy cannon that fires\r\nhigh-energy rounds.\r\nPowered by solar energy, it is very\r\nenergy-efficient for its power."
+ },
+ {
+  "id": 711,
+  "offset": 71560,
+  "bytes": 166,
+  "ja": "　高い鋭度を誇る、　　　　　　　　　　　\r\nレブラプターの前足の爪。　　　　　　　　\r\n　鉄板をも引き裂く力を持つ。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "The razor-sharp front claws of the\r\nRev Raptor.\r\nStrong enough to tear through steel."
+ },
+ {
+  "id": 712,
+  "offset": 71728,
+  "bytes": 166,
+  "ja": "　攻撃することを前程に強化された、　　　\r\nレブラプターの後ろ足の爪。　　　　　　　\r\n　爪の一箇所が、特に強化されている。　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "The Rev Raptor's hind claws, reinforced\r\nfor offense.\r\nOne claw is especially reinforced."
+ },
+ {
+  "id": 713,
+  "offset": 71896,
+  "bytes": 166,
+  "ja": "　鋭い突起で強化補そうされた、　　　　　\r\nレブラプターの尻尾。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "The Rev Raptor's tail, reinforced with\r\nsharp spikes."
+ },
+ {
+  "id": 714,
+  "offset": 72064,
+  "bytes": 166,
+  "ja": "　爆火式で杭を前方に打ち出す、　　　　　\r\n格闘砲台。　　　　　　　　　　　　　　　\r\n　杭はその場で打ち出されるだけなので、　\r\n弾切れの心配がない。　　　　　　　　　　",
+  "en": "A melee cannon that blasts a stake\r\nforward with an explosive charge.\r\nThe stake is fired in place, so it\r\nnever runs out of ammo."
+ },
+ {
+  "id": 715,
+  "offset": 72232,
+  "bytes": 166,
+  "ja": "　爆火式で杭を前方に打ち出す、　　　　　\r\n２連装の格闘砲台。　　　　　　　　　　　\r\n　杭はその場で打ち出されるだけなので、　\r\n弾切れの心配がない。　　　　　　　　　　",
+  "en": "A twin melee cannon that blasts a stake\r\nforward with an explosive charge.\r\nThe stake is fired in place, so it\r\nnever runs out of ammo."
+ },
+ {
+  "id": 716,
+  "offset": 72400,
+  "bytes": 166,
+  "ja": "　白兵戦専用ゾイド、レブラプターの　　　\r\n鋭い牙。　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "The sharp fangs of the Rev Raptor, a\r\nZoid built purely for close combat."
+ },
+ {
+  "id": 717,
+  "offset": 72568,
+  "bytes": 166,
+  "ja": "　白兵戦専用ゾイド、レブラプターの　　　\r\n背中に取り付けられた、一対の鎌。　　　　\r\n　すれ違いざまに敵を切り裂く。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A pair of sickles on the back of the\r\nRev Raptor, a close-combat Zoid.\r\nSlices enemies as it passes by."
+ },
+ {
+  "id": 722,
+  "offset": 72784,
+  "bytes": 166,
+  "ja": "　２台のミサイルを発射できる砲台。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A launcher that can fire 2 missiles."
+ },
+ {
+  "id": 730,
+  "offset": 73036,
+  "bytes": 166,
+  "ja": "　８連装のミサイルポッド。　　　　　　　\r\n　ターゲットを追尾するミサイルが、　　　\r\n連装分同時発射される。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An 8-tube Missile Pod.\r\nFires homing missiles from all tubes\r\nat once."
+ },
+ {
+  "id": 742,
+  "offset": 73336,
+  "bytes": 166,
+  "ja": "　ブレードライガーの側腹部に展開する、　\r\nエネルギーレーザーで攻撃するブレード。　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A blade that deploys from the Blade\r\nLiger's flanks to strike with energy\r\nlasers."
+ },
+ {
+  "id": 751,
+  "offset": 73600,
+  "bytes": 166,
+  "ja": "　ＬＺシュナイダーの側腹部に展開する、　\r\nエネルギーレーザーで攻撃するブレード。　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A blade that deploys from the LZ\r\nSchneider's flanks to strike with energy\r\nlasers."
+ },
+ {
+  "id": 752,
+  "offset": 73768,
+  "bytes": 166,
+  "ja": "　ＬＺシュナイダー頭部に展開する、　　　\r\nエネルギーレーザーで攻撃する　　　　　　\r\n５つの刃。　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Five blades that deploy from the\r\nLZ Schneider's head to strike with\r\nenergy lasers."
+ },
+ {
+  "id": 754,
+  "offset": 73948,
+  "bytes": 166,
+  "ja": "　ＬＺイクスの頬に装備された、　　　　　\r\n空気抵抗を軽減するためのフェアリング。　\r\n　それぞれがカッターになっているため、　\r\nフェアリングを展開しての攻撃も可能だ。　",
+  "en": "Fairings on the LZ X's cheeks that\r\nreduce air resistance.\r\nEach one doubles as a cutter, so it can\r\nattack with the fairings deployed."
+ },
+ {
+  "id": 755,
+  "offset": 74116,
+  "bytes": 166,
+  "ja": "　電流弾を発射して攻撃する電子砲。　　　\r\n　ＬＺイクスのボディに装備された、　　　\r\n２基のドラムコンデンサーから発生する　　\r\n高電圧を、エネルギー弾として圧縮、発射。",
+  "en": "An electron cannon that fires electric\r\nrounds. High voltage from the 2 drum\r\ncapacitors on the LZ X's body is\r\ncompressed and fired as energy rounds."
+ },
+ {
+  "id": 756,
+  "offset": 74284,
+  "bytes": 166,
+  "ja": "　スナイプマスターの前足の鋭い爪。　　　\r\n　白兵戦に向けて強化されている。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "The Snipe Master's sharp front claws,\r\nreinforced for close combat."
+ },
+ {
+  "id": 757,
+  "offset": 74452,
+  "bytes": 166,
+  "ja": "　スナイプマスターの鋭い牙。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "The Snipe Master's sharp fangs."
+ },
+ {
+  "id": 760,
+  "offset": 74644,
+  "bytes": 166,
+  "ja": "　スナイプマスターの前足の爪の　　　　　\r\n強化パーツ。　　　　　　　　　　　　　　\r\n　より打撃攻撃力が向上。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Reinforcement parts for the Snipe\r\nMaster's front claws.\r\nFurther boosts striking power."
+ },
+ {
+  "id": 766,
+  "offset": 74872,
+  "bytes": 166,
+  "ja": "　ロケットブースターで加速力を追加して、\r\n攻撃力を飛躍的に高めた、　　　　　　　　\r\nゴジュラス　ギガの尻尾。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "The Gojulas Giga's tail, with rocket\r\nboosters adding acceleration to greatly\r\nincrease its attack power."
+ },
+ {
+  "id": 771,
+  "offset": 75088,
+  "bytes": 166,
+  "ja": "　突起のついた鉄球を打ち出して攻撃する、\r\n大型砲身。　　　　　　　　　　　　　　　\r\n　発射は爆火式。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A large barrel that fires a spiked\r\niron ball.\r\nFired by explosive charge."
+ },
+ {
+  "id": 858,
+  "offset": 76288,
+  "bytes": 166,
+  "ja": "　突起のついた鉄球を打ち出して攻撃する、\r\n大型砲身。　　　　　　　　　　　　　　　\r\n　発射は爆火式。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A large barrel that fires a spiked\r\niron ball.\r\nFired by explosive charge."
+ },
+ {
+  "id": 860,
+  "offset": 76468,
+  "bytes": 166,
+  "ja": "　ダークスパイナーの基本装備で、　　　　\r\n広範囲にわたって、　　　　　　　　　　　\r\n複数のビーム光線を発射できる。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Standard equipment on the Dark Spiner.\r\nFires multiple beams over a wide\r\narea."
+ },
+ {
+  "id": 861,
+  "offset": 76636,
+  "bytes": 166,
+  "ja": "　相手のロックオンを妨害し、視界を塞ぐ　\r\n煙幕発生装置。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A smoke screen generator that blocks\r\nenemy lock-ons and vision."
+ },
+ {
+  "id": 876,
+  "offset": 76972,
+  "bytes": 166,
+  "ja": "　大型のビームランチャー。　　　　　　　\r\n　大型ビーム光線が発射される。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A large Beam Launcher.\r\nFires a large beam."
+ },
+ {
+  "id": 886,
+  "offset": 77248,
+  "bytes": 166,
+  "ja": "　ＡＺ１４０ｍｍショックガンと　　　　　\r\nＡＺ８０ｍｍビームガンの二種類の武器が　\r\n格納されたウェポンホルダー。　　　　　　\r\n　二種類の光線が発射される。　　　　　　",
+  "en": "A weapon holder housing two weapons:\r\nthe AZ 140mm Shock Gun and the\r\nAZ 80mm Beam Gun.\r\nFires two types of beams."
+ },
+ {
+  "id": 890,
+  "offset": 77452,
+  "bytes": 166,
+  "ja": "　ＴＶＭ地対地２連装戦術ミサイル。　　　\r\n　大型追尾ミサイルが２つ設置されており、\r\nそれぞれ一発ずつ発射される。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "TVM twin surface-to-surface tactical\r\nmissiles. Two large homing missiles\r\nare mounted and fired one at a time."
+ },
+ {
+  "id": 892,
+  "offset": 77632,
+  "bytes": 166,
+  "ja": "　対ゾイド３連装リニアキャノン。　　　　\r\n　ターゲットに向かって、　　　　　　　　\r\n３つのリニアエネルギー光弾が発射される。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A triple anti-Zoid Linear Cannon.\r\nFires 3 linear energy bolts at the\r\ntarget."
+ },
+ {
+  "id": 895,
+  "offset": 77824,
+  "bytes": 166,
+  "ja": "　大型ビームガトリング砲と、　　　　　　\r\n大型ビーム砲のセットユニット。　　　　　\r\n　大型ビームガトリングの連射と、　　　　\r\n大型ビームの連携は強力だ。　　　　　　　",
+  "en": "A set unit of a large Beam Gatling and\r\na large beam cannon.\r\nRapid Gatling fire combined with heavy\r\nbeams packs a punch."
+ },
+ {
+  "id": 907,
+  "offset": 78124,
+  "bytes": 166,
+  "ja": "　ＴＶＭ地対地２連装戦術ミサイルと、　　\r\nＡＺ対空ミサイルのセットユニット。　　　\r\n　大型、中型の追尾ミサイルでの　　　　　\r\n攻撃が可能だ。　　　　　　　　　　　　　",
+  "en": "Set unit: TVM twin surface-to-surface\r\ntactical missiles and AZ anti-air\r\nmissiles. Attacks with large and\r\nmid-size homing missiles."
+ },
+ {
+  "id": 912,
+  "offset": 78340,
+  "bytes": 166,
+  "ja": "　ＡＺ１４４ｍｍ２連装Ｐレーザーガンと、\r\nＡＺ１８０ｍｍ２連装ビームガンが、　　　\r\nＣＰユニットとの組み合わせによって、　　\r\n射程距離が向上されたセットユニット。　　",
+  "en": "Set unit pairing an AZ 144mm twin pulse\r\nlaser gun and AZ 180mm twin beam gun\r\nwith a CP Unit for extended firing\r\nrange."
+ },
+ {
+  "id": 916,
+  "offset": 78544,
+  "bytes": 166,
+  "ja": "　２基の大型ビームガトリング砲と、　　　\r\nワイルドウィーゼルユニットのセット。　　\r\n　重量により、当然機動性能は悪くなるが、\r\n過激なパワーを秘めたセットユニットだ。　",
+  "en": "Set unit of 2 large Beam Gatlings and\r\nthe Wild Weasel Unit.\r\nThe weight hurts mobility, of course,\r\nbut this unit packs extreme power."
+ },
+ {
+  "id": 923,
+  "offset": 78784,
+  "bytes": 166,
+  "ja": "　８連ミサイルポッドとビームガンの、　　\r\nセットユニット。　　　　　　　　　　　　\r\n　重量による機動力低下を、　　　　　　　\r\nスラスターを組み込むことで補っている。　",
+  "en": "Set unit of an 8-tube Missile Pod and\r\na Beam Gun.\r\nBuilt-in Thrusters offset the loss of\r\nmobility from the added weight."
+ },
+ {
+  "id": 928,
+  "offset": 79000,
+  "bytes": 166,
+  "ja": "　アサルトユニットにビームガトリング砲を\r\n追加して攻撃力を強化したセットユニット。\r\n　スラスターによって、機動力の低下が　　\r\n軽減されている。　　　　　　　　　　　　",
+  "en": "Assault Unit with an added Beam Gatling\r\nfor more firepower.\r\nThrusters reduce the loss of\r\nmobility."
+ },
+ {
+  "id": 931,
+  "offset": 79192,
+  "bytes": 166,
+  "ja": "　左側に装備される、ビームガトリング砲と\r\n対ゾイド３連装リニアキャノンの　　　　　\r\nセットユニット。　　　　　　　　　　　　\r\n　ガトリングとリニアキャノンを同時発射。",
+  "en": "Left-side set unit of a Beam Gatling\r\nand a triple anti-Zoid Linear Cannon.\r\nFires the Gatling and Linear Cannon\r\nat the same time."
+ },
+ {
+  "id": 936,
+  "offset": 79408,
+  "bytes": 166,
+  "ja": "　右側に装備される、ビームガトリング砲と\r\n対ゾイド３連装リニアキャノンの　　　　　\r\nセットユニット。　　　　　　　　　　　　\r\n　ガトリングとリニアキャノンを同時発射。",
+  "en": "Right-side set unit of a Beam Gatling\r\nand a triple anti-Zoid Linear Cannon.\r\nFires the Gatling and Linear Cannon\r\nat the same time."
+ },
+ {
+  "id": 941,
+  "offset": 79624,
+  "bytes": 166,
+  "ja": "　大型ビームガトリング砲と、　　　　　　\r\n大型ビーム砲のセットユニット。　　　　　\r\n　大型ビームガトリングの連射と、　　　　\r\n大型ビームの連携は強力だ。　　　　　　　",
+  "en": "A set unit of a large Beam Gatling and\r\na large beam cannon.\r\nRapid Gatling fire combined with heavy\r\nbeams packs a punch."
+ },
+ {
+  "id": 992,
+  "offset": 80392,
+  "bytes": 166,
+  "ja": "　ガトリング砲とレーザーキャノン砲を、　\r\nジャイアントクラブから打ち出す、　　　　\r\nレドーム兵器。　　　　　　　　　　　　　\r\n　ダークスパイナーの背中に装備される。　",
+  "en": "A radome weapon that fires a Gatling\r\ngun and laser cannon from its Giant\r\nCrab.\r\nMounted on the Dark Spiner's back."
+ },
+ {
+  "id": 996,
+  "offset": 80596,
+  "bytes": 166,
+  "ja": "　カノントータス専用仕様の、　　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nCannon Tortoise.\r\nEnables booster dashes."
+ },
+ {
+  "id": 997,
+  "offset": 80764,
+  "bytes": 166,
+  "ja": "　ディバイソン専用仕様の、　　　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nDibison.\r\nEnables booster dashes."
+ },
+ {
+  "id": 998,
+  "offset": 80932,
+  "bytes": 166,
+  "ja": "　モルガ専用仕様の、　　　　　　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nMolga.\r\nEnables booster dashes."
+ },
+ {
+  "id": 999,
+  "offset": 81100,
+  "bytes": 166,
+  "ja": "　ケーニッヒウルフ専用仕様の、　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nKonig Wolf.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1001,
+  "offset": 81280,
+  "bytes": 166,
+  "ja": "　ＬＺパンツァー専用仕様の、　　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nLZ Panzer.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1002,
+  "offset": 81448,
+  "bytes": 166,
+  "ja": "　ＬＺイクス専用仕様の、　　　　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nLZ X.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1004,
+  "offset": 81628,
+  "bytes": 166,
+  "ja": "　ゴジュラス、ゴジュラス　ジ　オーガ　　\r\n専用仕様の、スタンダードブースター。　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nGojulas and Gojulas the Ogre.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1005,
+  "offset": 81796,
+  "bytes": 166,
+  "ja": "　シャドーフォックス専用仕様の、　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nShadow Fox.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1006,
+  "offset": 81964,
+  "bytes": 166,
+  "ja": "　レブラプター専用仕様の、　　　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nRev Raptor.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1007,
+  "offset": 82132,
+  "bytes": 166,
+  "ja": "　ジェノザウラー専用仕様の、　　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nGeno Saurer.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1009,
+  "offset": 82312,
+  "bytes": 166,
+  "ja": "　ガンスナイパー専用仕様の、　　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nGun Sniper.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1010,
+  "offset": 82480,
+  "bytes": 166,
+  "ja": "　セイバータイガー専用仕様の、　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nSaber Tiger.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1011,
+  "offset": 82648,
+  "bytes": 166,
+  "ja": "　レッドホーン専用仕様の、　　　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nRed Horn.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1012,
+  "offset": 82816,
+  "bytes": 166,
+  "ja": "　ＢＦシュトゥルム専用仕様の、　　　　　\r\nハイグレードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A High-Grade Booster built for the\r\nBF Sturm.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1013,
+  "offset": 82984,
+  "bytes": 166,
+  "ja": "　スナイプマスター専用仕様の、　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nSnipe Master.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1014,
+  "offset": 83152,
+  "bytes": 166,
+  "ja": "　ダークスナパイナー専用仕様の、　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nDark Spiner.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1016,
+  "offset": 83332,
+  "bytes": 166,
+  "ja": "　ディアブロタイガーα、β専用仕様の、　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nDiablo Tiger Alpha and Beta.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1017,
+  "offset": 83500,
+  "bytes": 166,
+  "ja": "　ブロントテリウム専用仕様の、　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nBrontotherium.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1018,
+  "offset": 83668,
+  "bytes": 166,
+  "ja": "　エラスモテリウム専用仕様の、　　　　　\r\nスタンダードブースター。　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Standard Booster built for the\r\nElasmotherium.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1021,
+  "offset": 83860,
+  "bytes": 166,
+  "ja": "　ブレードライガー専用仕様のブースター。\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A booster built for the Blade Liger.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1022,
+  "offset": 84028,
+  "bytes": 166,
+  "ja": "　ライガーゼロ専用仕様のブースター。　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A booster built for the Liger Zero.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1023,
+  "offset": 84196,
+  "bytes": 166,
+  "ja": "　アイアンコング、アイアンコング　ＰＫ　\r\n専用仕様のブースター。　　　　　　　　　\r\n　ブースターによるダッシュが可能になる他\r\n移動力が向上する。　　　　　　　　　　　",
+  "en": "A booster built for the Iron Kong and\r\nIron Kong PK.\r\nEnables booster dashes and improves\r\nmovement."
+ },
+ {
+  "id": 1024,
+  "offset": 84364,
+  "bytes": 166,
+  "ja": "　ライトニングサイクスの　　　　　　　　\r\nパルスレーザーライフルと一体化した、　　\r\nブースターパック回路。　　　　　　　　　\r\n　ブースターによるダッシュが可能になる。",
+  "en": "A Booster Pack circuit integrated with\r\nthe Lightning Saix's Pulse Laser\r\nRifle.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1025,
+  "offset": 84532,
+  "bytes": 166,
+  "ja": "　コマンドウルフ専用仕様の、　　　　　　\r\n足部ブースター。　　　　　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Leg boosters built for the\r\nCommand Wolf.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1027,
+  "offset": 84712,
+  "bytes": 166,
+  "ja": "　ＬＺシュナイダー専用仕様の、　　　　　\r\nイオン出力ブースター。　　　　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An Ion Booster built for the\r\nLZ Schneider.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1028,
+  "offset": 84880,
+  "bytes": 166,
+  "ja": "　ＬＺイエーガー専用仕様の、　　　　　　\r\nイオン出力の大型ブースター。　　　　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A large Ion Booster built for the\r\nLZ Jaeger.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1033,
+  "offset": 85096,
+  "bytes": 166,
+  "ja": "　ジェノブレイカー専用仕様の、　　　　　\r\nスラスターと一体化したブースター。　　　\r\n　ブースターによるダッシュが可能になる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A booster with integrated thrusters,\r\nbuilt for the Geno Breaker.\r\nEnables booster dashes."
+ },
+ {
+  "id": 1034,
+  "offset": 85264,
+  "bytes": 166,
+  "ja": "　ブレードライガー専用仕様の、　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nBlade Liger.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1035,
+  "offset": 85432,
+  "bytes": 166,
+  "ja": "　ＬＺシュナイダー専用仕様の、　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nLZ Schneider.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1036,
+  "offset": 85600,
+  "bytes": 166,
+  "ja": "　バーサークフューラー専用仕様の、　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nBerserk Fury.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1037,
+  "offset": 85768,
+  "bytes": 166,
+  "ja": "　ＢＦシュトゥルム専用仕様の、　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nBF Sturm.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1039,
+  "offset": 85948,
+  "bytes": 166,
+  "ja": "　カノントータス専用仕様の、　　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nCannon Tortoise.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1040,
+  "offset": 86116,
+  "bytes": 166,
+  "ja": "　コマンドウルフ専用仕様の、　　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nCommand Wolf.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1041,
+  "offset": 86284,
+  "bytes": 166,
+  "ja": "　ディバイソン専用仕様の、　　　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nDibison.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1042,
+  "offset": 86452,
+  "bytes": 166,
+  "ja": "　ライガーゼロ専用仕様の、　　　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nLiger Zero.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1043,
+  "offset": 86620,
+  "bytes": 166,
+  "ja": "　モルガ専用仕様の、　　　　　　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nMolga.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1044,
+  "offset": 86788,
+  "bytes": 166,
+  "ja": "　ケーニッヒウルフ専用仕様の、　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nKonig Wolf.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1045,
+  "offset": 86956,
+  "bytes": 166,
+  "ja": "　ＬＺイエーガー専用仕様の、　　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nLZ Jaeger.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1046,
+  "offset": 87124,
+  "bytes": 166,
+  "ja": "　ＬＺパンツァー専用仕様の、　　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nLZ Panzer.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1047,
+  "offset": 87292,
+  "bytes": 166,
+  "ja": "　ＬＺイクス専用仕様の、　　　　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nLZ X.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1048,
+  "offset": 87460,
+  "bytes": 166,
+  "ja": "　ライトニングサイクス専用仕様の、　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nLightning Saix.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1049,
+  "offset": 87628,
+  "bytes": 166,
+  "ja": "　ゴジュラス、ゴジュラス　ジ　オーガ　　\r\n専用仕様の、Ｅシールド発生装置。　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nGojulas and Gojulas the Ogre.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1050,
+  "offset": 87796,
+  "bytes": 166,
+  "ja": "　ジェノブレイカー専用仕様の、　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nGeno Breaker.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1052,
+  "offset": 87976,
+  "bytes": 166,
+  "ja": "　シャドーフォックス専用仕様の、　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nShadow Fox.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1053,
+  "offset": 88144,
+  "bytes": 166,
+  "ja": "　レブラプター専用仕様の、　　　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nRev Raptor.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1054,
+  "offset": 88312,
+  "bytes": 166,
+  "ja": "　ジェノザウラー専用仕様の、　　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nGeno Saurer.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1055,
+  "offset": 88480,
+  "bytes": 166,
+  "ja": "　アイアンコング、アイアンコングＰＫ　　\r\n専用仕様の、Ｅシールド発生装置。　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nIron Kong and Iron Kong PK.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1056,
+  "offset": 88648,
+  "bytes": 166,
+  "ja": "　ガンスナイパー専用仕様の、　　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nGun Sniper.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1057,
+  "offset": 88816,
+  "bytes": 166,
+  "ja": "　セイバータイガー専用仕様の、　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nSaber Tiger.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1058,
+  "offset": 88984,
+  "bytes": 166,
+  "ja": "　レッドホーン、ダークホーン専用仕様の、\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nRed Horn and Dark Horn.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1059,
+  "offset": 89152,
+  "bytes": 166,
+  "ja": "　スナイプマスター専用仕様の、　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nSnipe Master.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1060,
+  "offset": 89320,
+  "bytes": 166,
+  "ja": "　ダークスパイナー専用仕様の、　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nDark Spiner.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1061,
+  "offset": 89488,
+  "bytes": 166,
+  "ja": "　ディアブロタイガーα、β専用仕様の、　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nDiablo Tiger Alpha and Beta.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1062,
+  "offset": 89656,
+  "bytes": 166,
+  "ja": "　ブロントテリウム専用仕様の、　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nBrontotherium.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1063,
+  "offset": 89824,
+  "bytes": 166,
+  "ja": "　エラスモテリウム専用仕様の、　　　　　\r\nＥシールド発生装置。　　　　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An E-Shield generator built for the\r\nElasmotherium.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1066,
+  "offset": 90016,
+  "bytes": 166,
+  "ja": "　ゴジュラス　ギガ専用仕様の、　　　　　\r\n高出力Ｅシールド発生装置。　　　　　　　\r\n　Ｅシールドの展開が可能になる。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A high-output E-Shield generator built\r\nfor the Gojulas Giga.\r\nEnables E-Shield deployment."
+ },
+ {
+  "id": 1068,
+  "offset": 90196,
+  "bytes": 166,
+  "ja": "　一定時間姿を消すことのできる、　　　　\r\nステルス装置。　　　　　　　　　　　　　\r\n　ステルスの使用が可能になる。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A stealth device that makes the Zoid\r\ninvisible for a limited time.\r\nEnables the use of Stealth."
+ },
+ {
+  "id": 1069,
+  "offset": 90364,
+  "bytes": 166,
+  "ja": "　一定時間姿を消すことのできる、　　　　\r\nステルス装置。　　　　　　　　　　　　　\r\n　ステルスの使用が可能になる。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A stealth device that makes the Zoid\r\ninvisible for a limited time.\r\nEnables the use of Stealth."
+ },
+ {
+  "id": 1070,
+  "offset": 90532,
+  "bytes": 166,
+  "ja": "　使用地点に地雷を設置できる、　　　　　\r\nエネルギー地雷発生装置。　　　　　　　　\r\n　地雷は衝撃により、爆発する。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An energy mine generator that lays\r\nmines at the point of use.\r\nMines detonate on impact."
+ },
+ {
+  "id": 1077,
+  "offset": 90772,
+  "bytes": 134,
+  "ja": "スロットＡのメモリーカードの、　\r\nゾイドバーサスのシステムデータが\r\n壊れています。　　新しくシステム\r\nデータを作成しますか？　　　　　",
+  "en": "The Zoids VS. system data on the\r\nMemory Card in Slot A is\r\ncorrupted. Create new system\r\ndata?"
+ },
+ {
+  "id": 1078,
+  "offset": 90908,
+  "bytes": 134,
+  "ja": "初期化中です。　　　　　　　　　\r\nメモリーカードや電源スイッチには\r\nさわらないでください。　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Formatting... Do not touch the\r\nMemory Card or POWER Button."
+ },
+ {
+  "id": 1079,
+  "offset": 91044,
+  "bytes": 134,
+  "ja": "セーブに失敗しました。　　　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　",
+  "en": "Save failed."
+ },
+ {
+  "id": 1082,
+  "offset": 91204,
+  "bytes": 166,
+  "ja": "　装甲を強化する簡易版アーマー。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Basic armor that reinforces plating."
+ },
+ {
+  "id": 1083,
+  "offset": 91372,
+  "bytes": 166,
+  "ja": "　装甲を強化するアーマー。　　　　　　　\r\n　プロテクトアーマーの強化版。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Armor that reinforces plating.\r\nAn upgraded Protect Armor."
+ },
+ {
+  "id": 1084,
+  "offset": 91540,
+  "bytes": 166,
+  "ja": "　装甲を強化するスーパーアーマー。　　　\r\n　プロテクトアーマーのハイグレード版。　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Super Armor that reinforces plating.\r\nA high-grade Protect Armor."
+ },
+ {
+  "id": 1085,
+  "offset": 91708,
+  "bytes": 166,
+  "ja": "　装甲を増強して強化を施す、　　　　　　\r\nコーディングアーマー。　　　　　　　　　\r\n　装甲は強化されるが、その分重量が増加。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Coating Armor that adds extra plating\r\nfor reinforcement.\r\nTougher plating, but more weight."
+ },
+ {
+  "id": 1086,
+  "offset": 91876,
+  "bytes": 166,
+  "ja": "　装甲を硬質化して強化を施す、　　　　　\r\nハイブリッドアーマー。　　　　　　　　　\r\n　装甲は飛躍的に強化されるが、　　　　　\r\nその分重量が増加。　　　　　　　　　　　",
+  "en": "Hybrid Armor that hardens plating for\r\nreinforcement.\r\nPlating is greatly strengthened, but\r\nweight increases."
+ },
+ {
+  "id": 1087,
+  "offset": 92044,
+  "bytes": 166,
+  "ja": "　より遠くの敵をサーチできるようになる、\r\nレーダー。　　　　　　　　　　　　　　　\r\n　索敵範囲拡大　小。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A radar that can search for more\r\ndistant enemies.\r\nSearch range up (small)."
+ },
+ {
+  "id": 1088,
+  "offset": 92212,
+  "bytes": 166,
+  "ja": "　より広範囲に渡って　　　　　　　　　　\r\n敵のサーチが可能になる、広範囲レーダー。\r\n　索敵範囲拡大　中。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A wide-area radar that can search for\r\nenemies over a broader area.\r\nSearch range up (medium)."
+ },
+ {
+  "id": 1089,
+  "offset": 92380,
+  "bytes": 146,
+  "ja": "　３Ｄ立体把握システムの搭載によって、　\r\n長距離に及ぶ敵のサーチが可能になる、　　\r\n長距離レーダー。　　　　　　　　　　　　\r\n　索敵範囲拡大　大。",
+  "en": "With a 3D spatial mapping system, this\r\nlong-range radar detects distant foes.\r\nSearch range up (large)."
+ },
+ {
+  "id": 1093,
+  "offset": 92564,
+  "bytes": 166,
+  "ja": "　感度を高めるためのアンテナ。　　　　　\r\n　レーダー範囲が拡大　小。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "An antenna that boosts sensitivity.\r\nRadar range up (small)."
+ },
+ {
+  "id": 1094,
+  "offset": 92732,
+  "bytes": 166,
+  "ja": "　各種索敵に対応した、高感度アンテナ。　\r\n　レーダー範囲が拡大　中。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A high-sensitivity antenna for all\r\ntypes of scouting.\r\nRadar range up (medium)."
+ },
+ {
+  "id": 1098,
+  "offset": 92936,
+  "bytes": 166,
+  "ja": "　サーチ能力を高めるためのレーダー。　　\r\n　索敵範囲、レーダー範囲拡大　小。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "A radar that boosts search ability.\r\nSearch and radar range up (small)."
+ },
+ {
+  "id": 1099,
+  "offset": 93104,
+  "bytes": 166,
+  "ja": "　広範囲にわたっての探索が可能。　　　　\r\n　索敵範囲、レーダー範囲拡大　中。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Enables searching over a wide area.\r\nSearch and radar range up (medium)."
+ }
+]
